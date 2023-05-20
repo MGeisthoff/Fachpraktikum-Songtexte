@@ -8,7 +8,6 @@ import json
 SPOTIPY_CLIENT_ID = '46da6046625f409cb53ab06bf807861d'
 SPOTIPY_CLIENT_SECRET = '00efb0ab68db4f1eaf27ec53a4c1e068'
 GENIUS_ACCESS_TOKEN = 'OsBvEsJ_OLKYR42CJoaA_N97GNOS44XXFk4KPPcLtCYnWmDwnnzY2RpcG_SdG25a'
-
 # Erstelle eine Instanz von SpotifyClientCredentials mit Deinen Zugangsdaten
 client_credentials_manager = SpotifyClientCredentials(client_id=SPOTIPY_CLIENT_ID, client_secret=SPOTIPY_CLIENT_SECRET)
 sp = spotipy.Spotify(client_credentials_manager=client_credentials_manager)
