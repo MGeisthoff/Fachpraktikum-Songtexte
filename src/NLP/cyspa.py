@@ -4,6 +4,7 @@
 #de_dep_news_trf-3.5.0-py3-none-any.whl
 import spacy 
 from tqdm import tqdm
+import json
 
 
 nlp = spacy.load("de_core_news_sm")
@@ -35,7 +36,16 @@ for song_id in tqdm(range(len(songs_dict["Prototyp"]))):
             list_of_pronouns.append(token.text)
         else:
             pass
+with open("./all_songs.json") as f:
+    songs_dict = json.load(f)
 
+print(f"{len(list_of_nouns)} nouns were found.")
+print(f"{len(list_of_pronouns)} pronouns were found.")
+
+distinct_nouns = sorted(list(set(list_of_nouns)))
+distinct_pronouns = sorted(list(set(list_of_pronouns)))
+print(f"{len(distinct_nouns)} distinct nouns were found.")
+print(f"{len(distinct_pronouns)} distinct pronouns were found.")
 
   
         
