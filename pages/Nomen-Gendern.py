@@ -9,26 +9,26 @@ import numpy as np
 
 
 dash.register_page(__name__)
-df0 = pd.read_csv("Dash_Pronomen_gesamt.csv", sep=';')
-
+df1 = pd.read_csv("Dash_Nomen_genderneutral.csv", sep=';')
 
 layout = html.Div(
     children=[
-    html.H1(children ='Pronomen'),
+    html.H1(children ='Nomen'),
     html.Div(
             children=[
-                html.H2("Alle vorkommenden Pronomen"),
+                html.H2("Häufigste gegenderte Nomen"),
                 html.Div(
                     children=[
                         html.P("Playlist auswählen:"),
                         dcc.Dropdown(
-                            id="select_playlist_p",
+                            id="select_playlist_ng",
                             options=[
                                 {"label": "Beliebteste Deutsche Songs", "value": "Beliebteste"},
                                 {"label": "Songs 90er", "value": "Songs90er"},
                                 {"label": "Songs 2022", "value": "Songs22"},
-                            ], value="Beliebteste",
+                            ],
                             placeholder = "Select",
+                            value='Beliebteste'
                         ),
                     ],
                 ),
@@ -38,23 +38,24 @@ layout = html.Div(
                 "maxWidth": "800px",
                 "padding": "10px 20px",
             },
-        ),   
-    html.Div(id='output_container_p1', children=[]),
+        ),
+    
+    html.Div(id='output_container_ng', children=[]),
     html.Br(),
 
-    dcc.Graph(id='my_nomen_map_p', figure={})
+    dcc.Graph(id='my_pronomen_map_ng', figure={})
 ])
 @callback(
-    [Output(component_id='output_container_p1', component_property='children'),
-     Output(component_id='my_nomen_map_p', component_property='figure')],
-    [Input(component_id='select_playlist_p', component_property='value')]
+    [Output(component_id='output_container_ng', component_property='children'),
+     Output(component_id='my_pronomen_map_ng', component_property='figure')],
+    [Input(component_id='select_playlist_ng', component_property='value')]
 )
 def graph_1(option_slctd): #muss identische sein zum Input
 
 
     container = "Die ausgewählte Playlist ist: {}".format(option_slctd)
 
-    dff = df0.copy()
+    dff = df1.copy()
     dff = dff[dff["Playlist"] == option_slctd]
     #dff = dff[dff["Affected by"] == "Varroa_mites"]
 
@@ -65,8 +66,6 @@ def graph_1(option_slctd): #muss identische sein zum Input
         template='plotly_white',
 
     )
-    
-    
 
 
 

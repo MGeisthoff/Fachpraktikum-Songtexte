@@ -14,10 +14,10 @@ df0 = pd.read_csv("Dash_Nomen.csv", sep=';')
 
 layout = html.Div(
     children=[
-    html.H1(children ='Auswertung Nomen'),
+    html.H1(children ='Nomen'),
     html.Div(
             children=[
-                
+                html.H2("Alle vorkommenden Nomen"),
                 html.Div(
                     children=[
                         html.P("Playlist auswählen:"),
@@ -27,7 +27,7 @@ layout = html.Div(
                                 {"label": "Beliebteste Deutsche Songs", "value": "Beliebteste"},
                                 {"label": "Songs 90er", "value": "Songs90er"},
                                 {"label": "Songs 2022", "value": "Songs22"},
-                            ], value="Songs90er",
+                            ], value="Beliebteste",
                             placeholder = "Select",
                         ),
                     ],
@@ -39,21 +39,7 @@ layout = html.Div(
                 "padding": "10px 20px",
             },
         ),
-     html.Div(
-            children=[
-                dash_table.DataTable(
-                    id='Nomen_Table',
-                    data=df0.to_dict('records'), page_size=10),
-        
-                
-            ],
-            style={
-                "backgroundColor": "#DDDDDD",
-                "maxWidth": "800px",
-                "marginTop": "10px",
-                "padding": "10px 20px",
-            },
-        ),   
+ 
     html.Div(id='output_container_n', children=[]),
     html.Br(),
 
@@ -65,8 +51,7 @@ layout = html.Div(
     [Input(component_id='select_playlist_n', component_property='value')]
 )
 def graph_1(option_slctd): #muss identische sein zum Input
-    print(option_slctd)
-    print(type(option_slctd))
+
 
     container = "Die ausgewählte Playlist ist: {}".format(option_slctd)
 

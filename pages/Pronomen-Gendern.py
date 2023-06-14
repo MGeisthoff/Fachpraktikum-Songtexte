@@ -13,7 +13,7 @@ df0 = pd.read_csv("Dash_Pronomen.csv", sep=';')
 
 layout = html.Div(
     children=[
-    html.H1(children ='Pronomen-allgemein'),
+    html.H1(children ='Pronomen'),
     html.Div(
             children=[
                 html.H2("Häufigste Pronomen"),
@@ -28,6 +28,7 @@ layout = html.Div(
                                 {"label": "Songs 2022", "value": "Songs22"},
                             ],
                             placeholder = "Select",
+                            value="Beliebteste",
                         ),
                     ],
                 ),
