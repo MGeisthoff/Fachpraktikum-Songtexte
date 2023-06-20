@@ -1,3 +1,6 @@
+##AUS DER BACHELORARBEIT
+
+
 #from NLP.special_words import relativ_pronomen_derdiedas, relativ_pronomen_welche, \
  #   special_wo  	rd_form, demonstrativ_pronomen_dies, demonstrativ_pronomen_jen, \
   #  indefinit_pronomen_jed, unbestimmte_artikel, bestimmte_artikel, \

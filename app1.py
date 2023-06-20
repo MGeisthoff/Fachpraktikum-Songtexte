@@ -1,3 +1,6 @@
+## ausführbares Dashboard für den Prototyp 
+# Das ist die allgemeine Oberfläche und alles unter dem Ordner Pages sind die Unterseiten zu dem Dashboard
+
 from dash import Dash, html, dcc
 import dash
 

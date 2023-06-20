@@ -1,3 +1,4 @@
+##Spotify and LyricsGenius API
 import spotipy
 from spotipy.oauth2 import SpotifyClientCredentials
 import lyricsgenius
@@ -25,7 +26,7 @@ tracks = sp.playlist_tracks(playlist_id)
 tracks1 = sp.playlist_tracks(playlist_id1)
 tracks2= sp.playlist_tracks(playlist_id2)
 
-#Dictionary
+#Dictionary anlegen, um eine Datei mit mehreren Playlisten zu erhalten
 songs_dict = {"Prototyp": {} , "Songs90er":{}, "Songs22":{}}
 
 #####2022

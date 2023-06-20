@@ -1,3 +1,5 @@
+##AUS DER BACHELORARBEIT
+
 #NEU #Spacy muss gedownloaded werden mit : pip install -U pip setuptools wheel   und    pip install spacy 
 #de_core_news_sm-3.5.0-py3-none-any.whl (muss gedownloaded werden -> https://spacy.io/models/de/) + Dateo öffnen
 #de_core_news_lg-3.5.0-py3-none-any.whl

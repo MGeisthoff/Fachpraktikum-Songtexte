@@ -1,3 +1,5 @@
+##AUS DER BACHELORARBEIT
+
 # Für einen Lexikoneintrag wählt diese Methode in Abhängigkeit
 # des übergebenen Kasus und des Numerus die entsprechende Wortform
 # aus dem Lexikoneintrag zurück.
