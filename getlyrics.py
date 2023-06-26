@@ -30,6 +30,7 @@ songs_dict = {"Spotify": {}}
 songs_wout_lyrics_0= 0
 id_0 = 0
 #year_0 = 0
+playlist = "Spotify"
 
 for track_0 in tqdm(tracks['items']):
 
@@ -42,7 +43,7 @@ for track_0 in tqdm(tracks['items']):
     song_0 = genius.search_song(track_name_0, artist_name_0)
     if song_0:
         lyrics_0 = song_0.lyrics
-        songs_dict[id_0]= {"artist_name": artist_name_0, "track_name":track_name_0, "lyrics": lyrics_0} # hier kommt dann noch "year": year_0
+        songs_dict[playlist][id_0]= {"artist_name": artist_name_0, "track_name":track_name_0, "lyrics": lyrics_0} # hier kommt dann noch "year": year_0
         id_0 += 1
     else:
         songs_wout_lyrics_0 += 1
