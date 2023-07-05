@@ -22,8 +22,16 @@ genius = lyricsgenius.Genius(GENIUS_ACCESS_TOKEN)
 # Gib die ID der Playlist ein, aus der die Songtexte extrahiert werden sollen
 playlist_id ='75hKxWLF6z1rDdO5gFSCd2' # Playlist: Fachpraktikum Sprachentechnologie
 
-#Hole sich die Tracks aus der Playlist
+# Hole sich die Tracks aus der Playlist
 tracks = sp.playlist_tracks(playlist_id)
+
+# die Spotify API lässt nur 100 Songs zu, daher die Schleife, um alle Songs zu bekommen
+results = tracks['items']
+while tracks['next']:
+    tracks = sp.next(tracks)
+    results.extend(tracks['items'])
+tracks = results
+
 
 
 #Dictionary anlegen, um eine Datei mit mehreren Playlisten zu erhalten
@@ -43,13 +51,14 @@ for track_0 in tqdm(tracks['items']):
     track_name_0 = track_0['track']['name']
     date_name_0 = track_0['track']['album']['release_date']
     year_name_0 = datetime.strptime(str(date_name_0),'%Y-%m-%d').strftime('%Y')
+    popularity_0 = track_0['track']['popularity']
 
 
     # Suche nach dem Song auf Genius
     song_0 = genius.search_song(track_name_0, artist_name_0)
     if song_0:
         lyrics_0 = song_0.lyrics
-        songs_dict[playlist][id_0]= {"artist_name": artist_name_0, "track_name":track_name_0, "release_date": date_name_0, "release_year": year_name_0,"lyrics": lyrics_0}
+        songs_dict[playlist][id_0]= {"artist_name": artist_name_0, "track_name":track_name_0, "release_date": date_name_0, "release_year": year_name_0, "popularity": popularity_0, "lyrics": lyrics_0}
         id_0 += 1
     else:
         songs_wout_lyrics_0 += 1
