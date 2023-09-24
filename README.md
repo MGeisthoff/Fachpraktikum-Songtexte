@@ -51,7 +51,8 @@ Das Projektthema Sprachentwicklung ist in zweifacher Hinsicht bedeutend für die
 Zum anderen kann die Sprachtechnologie (wie im vorliegenden Projekt) helfen, Entwicklungen in der Sprache zu analysieren und sichtbar zu machen. Sie kann beispielsweise in Bezug auf das Projektthema eine grosse Zahl an Songtexten auswerten und die Veränderungen in der Sprache im Laufe der Zeit identifizieren. Eine solche Analyse kann Informationen über den Gebrauch von Wörtern mit Bezug zu den Geschlechtern in verschiedenen historischen Perioden liefern. Durch die Analyse von Songtexten kann die Sprachtechnologie Trends in der öffentlichen Meinung und in der emotionalen Stimmung der Gesellschaft erkennen. Dies ermöglicht es, Veränderungen in der Einstellung und Meinungen der Menschen im Laufe der Zeit zu verfolgen.  
 
 
-2. Hintergrund und Idee 
+2. Hintergrund und Idee
+3. 
 2.1 Relevanz und Hintergrund des Projekts 
 
 Songtexte können als Spiegel der Gesellschaft dienen. Das heisst, in den Liedern spiegeln sich oft soziale, kulturelle wie auch politische Aspekte der Gesellschaft wider. So nutzen viel Künstler und Interpreten die Musik, um soziale Missstände anzuprangern, Ungerechtigkeiten zu thematisieren oder auf wichtige gesellschaftliche Probleme aufmerksam zu machen. Dadurch können Songtexte Diskussionen anstoßen und die öffentliche Meinung beeinflussen. Songtexte können Einblicke in die kulturelle Identität bieten aber auch die emotionalen Zustände und Stimmungen einer Gesellschaft widerspiegeln. Sie können Ereignisse und Trends der Zeit reflektieren und dadurch Einblick in die Denkweise und das Lebensgefühl einer bestimmten Epoche bieten. Auch nutzen Künstler/-innen oft Songtexte, um politische Botschaften zu verbreiten und auf politische Themen aufmerksam zu machen. Das vorliegende Projekt zur Sprachentwicklung in Songtexten kann helfen, gesellschaftliche Phänomen rund um die Geschlechterdebatte zu verstehen. Es kann zum Beispiel Hassrede und geschlechterverachtende Sprache in Songtexten sichtbar machen.  
@@ -65,7 +66,8 @@ Mit dem Projekt werden folgende Ziele verfolgt:
 - Die Forschungsfrage, ob und inwiefern die gendergerechte Sprache ab 1990 in den Songtexten von deutschen Liedern Einzug gehalten hat, ist geklärt.
 - Es liegt ein Dashboard vor, welches die Forschungsergebnisse interaktiv auswertet und sichtbar macht.  
 
-3. Umsetzung und Design 
+3. Umsetzung und Design
+   
 3.1 Lösungsskizze: methodisches Vorgehen und experimentelles Design  
 
 Das experimentelle Design des Projekts besteht darin, dass in einem ersten Schritt eine Quelle in Form einer Playlist erstellt wird, welche die Datenbasis für die Untersuchung bildet. Diese zufällig erstellte Playlist stammt aus Spotify und wird mit Hilfe der entsprechenden API automatisch extrahiert. Die Datenbasis besteht aus ca. 5200 deutschsprachigen Liedern. In einem zweiten Schritt wird daraus mit dem Tool LyricsGenius die Datenquelle generiert. Diese besteht aus ca. 53000 Entitäten. In dieser Datenbasis wird schließlich, in einem dritten Schritt, nach Nomen und Pronomen gesucht. Die eingesetzten Tools bilden dabei SpaCy. Anschliessend, in einem vierten Schritt, findet ein Abgleich mit aktuellen Listen statt. Diese Listen bestehen sowohl aus genderneutralen Begriff, wie auch aus Beschmipfungen. Im Abschliessenden, fünften Schritt, geschieht dann die Visualisierung der Ergebnisse in Form eines Dashboards.  
