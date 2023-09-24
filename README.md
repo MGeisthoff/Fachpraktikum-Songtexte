@@ -52,7 +52,7 @@ Zum anderen kann die Sprachtechnologie (wie im vorliegenden Projekt) helfen, Ent
 
 
 2. Hintergrund und Idee
-3. 
+   
 2.1 Relevanz und Hintergrund des Projekts 
 
 Songtexte können als Spiegel der Gesellschaft dienen. Das heisst, in den Liedern spiegeln sich oft soziale, kulturelle wie auch politische Aspekte der Gesellschaft wider. So nutzen viel Künstler und Interpreten die Musik, um soziale Missstände anzuprangern, Ungerechtigkeiten zu thematisieren oder auf wichtige gesellschaftliche Probleme aufmerksam zu machen. Dadurch können Songtexte Diskussionen anstoßen und die öffentliche Meinung beeinflussen. Songtexte können Einblicke in die kulturelle Identität bieten aber auch die emotionalen Zustände und Stimmungen einer Gesellschaft widerspiegeln. Sie können Ereignisse und Trends der Zeit reflektieren und dadurch Einblick in die Denkweise und das Lebensgefühl einer bestimmten Epoche bieten. Auch nutzen Künstler/-innen oft Songtexte, um politische Botschaften zu verbreiten und auf politische Themen aufmerksam zu machen. Das vorliegende Projekt zur Sprachentwicklung in Songtexten kann helfen, gesellschaftliche Phänomen rund um die Geschlechterdebatte zu verstehen. Es kann zum Beispiel Hassrede und geschlechterverachtende Sprache in Songtexten sichtbar machen.  
