@@ -4,10 +4,11 @@
 Zum installieren der externen Pakete bitte
 `python -m pip install -r ./environment/requirements.txt`
 ausführen
+(oder alternativ über conda, siehe ./environment/README.md)
  
  1. Spotify and LyricGenius API: (`getlyrics.py`)
 
-Um diese Datei ausführen zu können muss ein Konto bei [Spotify](https://developer.spotify.com/documentation/web-api) sowie [LyricsGenius](https://lyricsgenius.readthedocs.io/en/master/setup.html) erstellt werden und die entsprechenden API-Keys gesetzt werden.
+Um diese Datei ausführen zu können muss ein Konto bei [Spotify](https://developer.spotify.com/documentation/web-api) sowie [LyricsGenius](https://lyricsgenius.readthedocs.io/en/master/setup.html) erstellt werden und die entsprechenden API-Keys gesetzt werden, sowie eine Spotify-Playlist-ID.
 Mit dieser Datei werden die Spotifysongs oder -playlisten ausgesucht und die entsprechenden Songtexte, Artists, Erscheinungsdatum sowie -jahre und die Popularität (Eigenwert bei Spotify) herausgefiltert. 
 Dann wird eine Datei all_songs_neu2.json erstellt, welche die zuvor genannten Daten enthält in einem Dictonary Spotify. Hier können auch mehrere Dictonaries für verschiedene Playlisten angelegt werden.
 Es kann vorkommen, dass in der JSON Datein auch Songtexte enthalten sind, die nicht dem Original entsprechen. Dieser Fehler liegt bei LyricsGenius und kann in diesem Rahmen nicht behoben werden. Diese Texte sind als weißer Text erkennbar. Einzige Fehlerbehebung ist das manuelle entfernen dieser Dateien
