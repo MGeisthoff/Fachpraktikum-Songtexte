@@ -25,7 +25,7 @@ Nun wird auf die erstellte Datei aus 1. das Spacy Framework [de_core_news_lg-3.5
 
 3. Darstellen der Ergebnisse: (`dashboard.py`)
 
-Durch ausführen von `dashboard.py` wird mittels Dash ein Webserver erstellt, wo mit den Daten interagiert werden kann.
+Durch ausführen von `dashboard.py` wird mittels Dash ein Webserver erstellt, wo mit den Daten mittels Browser interagiert werden kann.
 ![Schreenshot des Dashboards](./assets/Demo.png)
 
  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
