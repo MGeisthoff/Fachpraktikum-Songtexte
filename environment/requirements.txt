@@ -1,0 +1,13 @@
+dash
+dash-bootstrap-components
+pandas
+pandas-stubs
+plotly
+spotipy
+json
+tqdm
+lyricsgenius
+spacy
+setuptools wheel
+
+

@@ -1,0 +1,4648 @@
+ID,Noun,Maennlich,Year,Artist,Popularity
+0,Mädchen,False,2022,Die Toten Hosen,39
+1,Mann,True,2022,Die Toten Hosen,38
+2,Herr,True,2022,Die Toten Hosen,32
+3,Ehemann,True,2022,Die Toten Hosen,32
+4,Mann,True,2022,Die Toten Hosen,30
+5,Mann,True,2022,Die Toten Hosen,33
+6,Mädchen,False,2021,Udo Lindenberg,28
+7,Mädchen,False,2021,Udo Lindenberg,28
+8,Junge,True,2021,Udo Lindenberg,28
+9,Lady,False,2021,Udo Lindenberg,27
+10,Lady,False,2021,Udo Lindenberg,27
+11,Lady,False,2021,Udo Lindenberg,26
+12,Mädchen,False,2021,Udo Lindenberg,26
+13,Weib,False,2021,Udo Lindenberg,25
+14,Weib,False,2021,Udo Lindenberg,25
+15,Junge,True,2021,Udo Lindenberg,24
+16,Junge,True,2021,Udo Lindenberg,24
+17,Mann,True,2021,Udo Lindenberg,24
+18,Mädchen,False,2021,Udo Lindenberg,24
+19,Mann,True,2021,Udo Lindenberg,24
+20,Junge,True,2021,Udo Lindenberg,23
+21,Herr,True,2021,Udo Lindenberg,23
+22,Mann,True,2021,Udo Lindenberg,0
+23,Mann,True,2021,Udo Lindenberg,0
+24,Junge,True,2021,Udo Lindenberg,0
+25,Junge,True,2021,Udo Lindenberg,0
+26,Mann,True,2021,Udo Lindenberg,22
+27,Mann,True,2021,Udo Lindenberg,20
+28,Mann,True,2021,Udo Lindenberg,58
+29,Mann,True,2021,Udo Lindenberg,58
+30,Mann,True,2021,Udo Lindenberg,58
+31,Mann,True,2021,Udo Lindenberg,58
+32,Mann,True,1986,Udo Lindenberg,7
+33,Mister,True,1986,Udo Lindenberg,7
+34,Mann,True,1986,Udo Lindenberg,7
+35,Mann,True,1986,Udo Lindenberg,7
+36,Junge,True,2023,Apache 207,66
+37,Mann,True,2019,Apache 207,60
+38,Mann,True,2019,Apache 207,60
+39,Mann,True,2019,Apache 207,60
+40,Junge,True,2019,Apache 207,71
+41,Mann,True,2019,Apache 207,67
+42,Mann,True,2019,Apache 207,67
+43,Mann,True,2022,AYLIVA,65
+44,Mann,True,2022,AYLIVA,65
+45,Girl,False,2023,Peter Fox,68
+46,Girl,False,2023,Peter Fox,68
+47,Girl,False,2023,Peter Fox,68
+48,Junge,True,2023,Peter Fox,66
+49,Mann,True,2008,Peter Fox,72
+50,Lady,False,2008,Peter Fox,63
+51,Junge,True,2008,Peter Fox,62
+52,Mann,True,2022,Bonez MC,46
+53,Mann,True,2022,Bonez MC,66
+54,Mann,True,2022,Bonez MC,66
+55,Mann,True,2022,Bonez MC,66
+56,Mann,True,2022,Bonez MC,66
+57,Mann,True,2022,Bonez MC,66
+58,Mann,True,2022,Bonez MC,66
+59,Mann,True,2022,Bonez MC,67
+60,Mann,True,2022,Bonez MC,67
+61,Mann,True,2022,Bonez MC,67
+62,Mann,True,2022,Bonez MC,58
+63,Mann,True,2022,Bonez MC,55
+64,Mann,True,2022,Bonez MC,55
+65,Mann,True,2022,Bonez MC,52
+66,Mann,True,2022,RAF Camora,33
+67,Mann,True,2022,RAF Camora,32
+68,Mann,True,2022,RAF Camora,56
+69,Mann,True,2022,RAF Camora,39
+70,Mann,True,2022,RAF Camora,39
+71,Mann,True,2022,RAF Camora,39
+72,Junge,True,2022,RAF Camora,35
+73,Mann,True,2022,RAF Camora,35
+74,Mann,True,2022,RAF Camora,35
+75,Mann,True,2022,SDP,55
+76,Mann,True,2022,SDP,64
+77,Mann,True,2022,SDP,64
+78,Junge,True,2022,SDP,64
+79,Mann,True,2022,SDP,51
+80,Mädchen,False,2022,SDP,46
+81,Mann,True,2022,SDP,60
+82,Mann,True,2022,SDP,44
+83,Mann,True,2022,SDP,44
+84,Mann,True,2022,SDP,44
+85,Mann,True,2022,SDP,44
+86,Mann,True,2022,SDP,44
+87,Mann,True,2022,SDP,45
+88,Mann,True,2022,SDP,45
+89,Mann,True,2022,SDP,45
+90,Mann,True,2022,SDP,45
+91,Mann,True,2022,SDP,57
+92,Junge,True,2022,SDP,57
+93,Mann,True,2019,SDP,28
+94,Mann,True,2019,SDP,58
+95,Herr,True,2019,SDP,39
+96,Herr,True,2019,SDP,39
+97,Herr,True,2019,SDP,39
+98,Mann,True,2019,SDP,37
+99,Mann,True,2019,SDP,27
+100,Mann,True,2019,SDP,27
+101,Dame,False,2019,SDP,20
+102,Dame,False,2019,SDP,20
+103,Junge,True,2019,SDP,20
+104,Junge,True,2019,SDP,20
+105,Mann,True,2019,SDP,20
+106,Herr,True,2019,SDP,20
+107,Junge,True,2019,SDP,24
+108,Dame,False,2019,SDP,23
+109,Dame,False,2019,SDP,23
+110,Junge,True,2019,SDP,23
+111,Junge,True,2019,SDP,23
+112,Mann,True,2019,SDP,23
+113,Herr,True,2019,SDP,23
+114,Mann,True,2022,Nina Chuba,63
+115,Mann,True,2023,Milano,71
+116,Mann,True,2023,Milano,71
+117,Girl,False,2023,AYLIVA,74
+118,Mann,True,2023,AYLIVA,74
+119,Mann,True,2022,Sido,60
+120,Mann,True,2023,Pietro Lombardi,54
+121,Mann,True,2023,Pietro Lombardi,54
+122,Mann,True,2023,Pietro Lombardi,54
+123,Mann,True,2023,Pietro Lombardi,54
+124,Mister,True,2022,Dardan,57
+125,Mann,True,2022,Dardan,57
+126,Mann,True,2022,Dardan,57
+127,Mann,True,2022,Dardan,57
+128,Mann,True,2022,Dardan,57
+129,Mann,True,2022,Ben Zucker,51
+130,Mann,True,2022,Ben Zucker,51
+131,Mann,True,2022,Ben Zucker,51
+132,Junge,True,2022,Ben Zucker,51
+133,Mann,True,2022,Ben Zucker,51
+134,Mann,True,2022,Ben Zucker,51
+135,Mann,True,2022,Ben Zucker,51
+136,Mann,True,2022,Ben Zucker,51
+137,Mann,True,2022,Ben Zucker,51
+138,Mann,True,2022,Ben Zucker,51
+139,Mann,True,2022,Ben Zucker,51
+140,Mann,True,2022,Ben Zucker,51
+141,Junge,True,2022,Ben Zucker,51
+142,Mädchen,False,2022,Ben Zucker,51
+143,Mann,True,2022,Ben Zucker,51
+144,Mann,True,2022,Ben Zucker,51
+145,Mann,True,2022,Ben Zucker,51
+146,Junge,True,2022,Ben Zucker,51
+147,Herr,True,2022,Ben Zucker,51
+148,Junge,True,2022,Ben Zucker,51
+149,Mann,True,2022,Ben Zucker,51
+150,Junge,True,2022,Ben Zucker,51
+151,Mann,True,2022,Ben Zucker,51
+152,Girl,False,2022,Ben Zucker,51
+153,Mann,True,2022,Ben Zucker,51
+154,Mann,True,2022,Ben Zucker,51
+155,Mann,True,2022,Ben Zucker,51
+156,Dame,False,2022,Ben Zucker,51
+157,Mister,True,2022,Ben Zucker,51
+158,Mann,True,2022,Ben Zucker,51
+159,Mann,True,2022,Ben Zucker,51
+160,Junge,True,2022,Ben Zucker,51
+161,Junge,True,2022,Ben Zucker,51
+162,Junge,True,2022,Ben Zucker,51
+163,Junge,True,2022,Ben Zucker,51
+164,Monsieur,True,2022,Ben Zucker,51
+165,Junge,True,2022,Ben Zucker,51
+166,Junge,True,2022,Ben Zucker,51
+167,Junge,True,2022,Ben Zucker,51
+168,Monsieur,True,2022,Ben Zucker,51
+169,Mann,True,2022,Ben Zucker,51
+170,Monsieur,True,2022,Ben Zucker,51
+171,Junge,True,2022,Ben Zucker,51
+172,Mädchen,False,2022,Ben Zucker,51
+173,Mann,True,2022,Ben Zucker,51
+174,Monsieur,True,2022,Ben Zucker,51
+175,Junge,True,2022,Ben Zucker,51
+176,Junge,True,2022,Ben Zucker,51
+177,Mann,True,2022,Ben Zucker,51
+178,Monsieur,True,2022,Ben Zucker,51
+179,Junge,True,2022,Ben Zucker,51
+180,Mann,True,2022,Ben Zucker,51
+181,Monsieur,True,2022,Ben Zucker,51
+182,Monsieur,True,2022,Ben Zucker,51
+183,Monsieur,True,2022,Ben Zucker,51
+184,Herr,True,2022,Ben Zucker,51
+185,Monsieur,True,2022,Ben Zucker,51
+186,Herr,True,2022,Ben Zucker,51
+187,Mann,True,2022,Ben Zucker,51
+188,Mädchen,False,2022,Ben Zucker,51
+189,Monsieur,True,2022,Ben Zucker,51
+190,Monsieur,True,2022,Ben Zucker,51
+191,Monsieur,True,2022,Ben Zucker,51
+192,Monsieur,True,2022,Ben Zucker,51
+193,Monsieur,True,2022,Ben Zucker,51
+194,Monsieur,True,2022,Ben Zucker,51
+195,Mann,True,2022,Ben Zucker,51
+196,Mädchen,False,2022,Ben Zucker,51
+197,Monsieur,True,2022,Ben Zucker,51
+198,Monsieur,True,2022,Ben Zucker,51
+199,Monsieur,True,2022,Ben Zucker,51
+200,Mann,True,2022,Ben Zucker,51
+201,Mädchen,False,2022,Ben Zucker,51
+202,Mister,True,2022,Ben Zucker,51
+203,Monsieur,True,2022,Ben Zucker,51
+204,Monsieur,True,2022,Ben Zucker,51
+205,Monsieur,True,2022,Ben Zucker,51
+206,Mädchen,False,2022,Ben Zucker,51
+207,Mädchen,False,2022,Ben Zucker,51
+208,Mädchen,False,2022,Ben Zucker,51
+209,Mann,True,2022,Ben Zucker,51
+210,Lady,False,2022,Ben Zucker,51
+211,Mann,True,2022,Ben Zucker,51
+212,Mister,True,2022,Ben Zucker,51
+213,Mann,True,2022,Ben Zucker,51
+214,Mann,True,2022,Ben Zucker,51
+215,Mann,True,2022,Ben Zucker,51
+216,Junge,True,2023,Juju,8
+217,Mann,True,2023,Juju,8
+218,Junge,True,2021,Kool Savas,61
+219,Junge,True,2021,Kool Savas,61
+220,Mann,True,2021,Kool Savas,61
+221,Mann,True,2021,Kool Savas,61
+222,Mann,True,2022,Nimo,58
+223,Mann,True,2022,badmómzjay,62
+224,Mann,True,2021,Eddin,58
+225,Mann,True,2021,Eddin,58
+226,Junge,True,2021,MC Bilal,50
+227,Mann,True,2021,MC Bilal,50
+228,Junge,True,2021,MC Bilal,50
+229,Junge,True,2021,MC Bilal,50
+230,Junge,True,2021,MC Bilal,50
+231,Junge,True,2021,MC Bilal,50
+232,Mann,True,2023,Alexander Eder,55
+233,Dame,False,2023,Alexander Eder,55
+234,Mann,True,2023,Alexander Eder,49
+235,Boy,True,2020,Alexander Eder,45
+236,Boy,True,2020,Alexander Eder,45
+237,Mann,True,2023,Nina Chuba,63
+238,Mann,True,2023,Nina Chuba,63
+239,Mann,True,2023,Nina Chuba,63
+240,Mann,True,2023,Nina Chuba,63
+241,Mann,True,2023,Nina Chuba,58
+242,Mann,True,2023,Nina Chuba,58
+243,Mädchen,False,2023,Nina Chuba,55
+244,Mädchen,False,2023,Nina Chuba,55
+245,Mann,True,2022,Mudi,26
+246,Mädchen,False,2022,Mudi,20
+247,Mann,True,2022,Mudi,20
+248,Mädchen,False,2022,Mudi,20
+249,Mann,True,2022,Mudi,17
+250,Mann,True,2022,Mudi,18
+251,Mann,True,2022,Mudi,18
+252,Mann,True,2022,Mudi,18
+253,Junge,True,2021,Mudi,21
+254,Junge,True,2021,Mudi,46
+255,Mann,True,2021,Mudi,46
+256,Mann,True,2021,Mudi,46
+257,Mann,True,2021,Mudi,46
+258,Mann,True,2021,Mudi,16
+259,Mann,True,2023,Jamule,48
+260,Mann,True,2023,Jamule,45
+261,Mister,True,2023,Jamule,55
+262,Mann,True,2023,Jamule,39
+263,Mann,True,2023,Jamule,39
+264,Herr,True,2022,Jamule,37
+265,Girl,False,2022,Jamule,68
+266,Mann,True,2022,Jamule,61
+267,Junge,True,2022,Jamule,37
+268,Mann,True,2022,Jamule,37
+269,Mann,True,2022,Jamule,37
+270,Junge,True,2022,Jamule,30
+271,Madame,False,2021,Jamule,45
+272,Junge,True,2021,Jamule,33
+273,Mann,True,2021,Jamule,31
+274,Mann,True,2021,Jamule,31
+275,Mann,True,2021,Jamule,46
+276,Mann,True,2021,Jamule,34
+277,Junge,True,2020,Jamule,36
+278,Mann,True,2020,Jamule,34
+279,Weib,False,2023,LIKA,42
+280,Girl,False,2023,Milano,67
+281,Girl,False,2023,Milano,67
+282,Mann,True,2023,Milano,67
+283,Girl,False,2023,Milano,67
+284,Girl,False,2023,Milano,67
+285,Girl,False,2023,Milano,67
+286,Girl,False,2023,Milano,67
+287,Mann,True,2023,Milano,38
+288,Girl,False,2022,Ski Aggu,53
+289,Junge,True,2022,Ski Aggu,48
+290,Junge,True,2022,Ski Aggu,48
+291,Junge,True,2022,Ski Aggu,48
+292,Junge,True,2022,Ski Aggu,48
+293,Junge,True,2022,Ski Aggu,48
+294,Junge,True,2022,Ski Aggu,48
+295,Junge,True,2022,Ski Aggu,48
+296,Junge,True,2022,Ski Aggu,48
+297,Junge,True,2022,Ski Aggu,48
+298,Junge,True,2022,Ski Aggu,48
+299,Mann,True,2021,Endzone,41
+300,Junge,True,2021,Endzone,41
+301,Junge,True,2021,Endzone,32
+302,Mädchen,False,2021,Endzone,32
+303,Mann,True,2021,Endzone,32
+304,Mann,True,2020,Endzone,39
+305,Mann,True,2020,Endzone,28
+306,Junge,True,2020,Endzone,28
+307,Mann,True,2020,Endzone,28
+308,Mann,True,2020,Endzone,28
+309,Mann,True,2020,Endzone,29
+310,Mann,True,2020,Endzone,41
+311,Junge,True,2023,$OHO BANI,63
+312,Mann,True,2023,$OHO BANI,63
+313,Junge,True,2023,$OHO BANI,63
+314,Junge,True,2023,$OHO BANI,63
+315,Junge,True,2023,$OHO BANI,63
+316,Mann,True,2023,$OHO BANI,58
+317,Mann,True,2023,$OHO BANI,58
+318,Mann,True,2023,$OHO BANI,58
+319,Mann,True,2023,$OHO BANI,58
+320,Mann,True,2023,$OHO BANI,58
+321,Mann,True,2023,$OHO BANI,58
+322,Mann,True,2023,$OHO BANI,58
+323,Junge,True,2023,$OHO BANI,55
+324,Junge,True,2023,$OHO BANI,55
+325,Junge,True,2023,$OHO BANI,65
+326,Mädchen,False,2023,$OHO BANI,65
+327,Mister,True,2023,$OHO BANI,63
+328,Herr,True,2023,$OHO BANI,63
+329,Junge,True,2023,$OHO BANI,63
+330,Herr,True,2023,$OHO BANI,63
+331,Mister,True,2023,$OHO BANI,63
+332,Herr,True,2023,$OHO BANI,63
+333,Herr,True,2023,$OHO BANI,63
+334,Herr,True,2023,$OHO BANI,63
+335,Herr,True,2023,$OHO BANI,63
+336,Mister,True,2023,$OHO BANI,63
+337,Herr,True,2023,$OHO BANI,63
+338,Herr,True,2023,$OHO BANI,63
+339,Herr,True,2023,$OHO BANI,63
+340,Herr,True,2023,$OHO BANI,63
+341,Herr,True,2023,$OHO BANI,63
+342,Herr,True,2023,$OHO BANI,63
+343,Herr,True,2023,$OHO BANI,63
+344,Herr,True,2023,$OHO BANI,63
+345,Herr,True,2023,$OHO BANI,63
+346,Herr,True,2023,$OHO BANI,63
+347,Herr,True,2023,$OHO BANI,63
+348,Herr,True,2023,$OHO BANI,63
+349,Mann,True,2023,$OHO BANI,56
+350,Mann,True,2023,$OHO BANI,56
+351,Junge,True,2023,$OHO BANI,66
+352,Junge,True,2023,$OHO BANI,66
+353,Junge,True,2023,$OHO BANI,66
+354,Junge,True,2023,$OHO BANI,66
+355,Junge,True,2023,$OHO BANI,66
+356,Junge,True,2023,$OHO BANI,66
+357,Girl,False,2020,Pietro Lombardi,39
+358,Girl,False,2020,Pietro Lombardi,34
+359,Girl,False,2020,Pietro Lombardi,34
+360,Girl,False,2020,Pietro Lombardi,34
+361,Girl,False,2020,Pietro Lombardi,34
+362,Girl,False,2020,Pietro Lombardi,34
+363,Girl,False,2020,Pietro Lombardi,34
+364,Girl,False,2020,Pietro Lombardi,46
+365,Mann,True,2020,Kay One,0
+366,Dame,False,2011,Pietro Lombardi,18
+367,Mann,True,2023,SOPHIA,52
+368,Girl,False,2022,Emilio,27
+369,Mann,True,2022,Emilio,29
+370,Mann,True,2020,Emilio,45
+371,Madame,False,2020,Emilio,44
+372,Mann,True,2018,AnnenMayKantereit,45
+373,Mann,True,2018,AnnenMayKantereit,45
+374,Mann,True,2018,AnnenMayKantereit,45
+375,Mann,True,2018,AnnenMayKantereit,45
+376,Mann,True,2018,AnnenMayKantereit,45
+377,Mann,True,2018,AnnenMayKantereit,45
+378,Junge,True,2016,AnnenMayKantereit,34
+379,Junge,True,2016,AnnenMayKantereit,32
+380,Junge,True,2016,AnnenMayKantereit,30
+381,Junge,True,2016,AnnenMayKantereit,32
+382,Junge,True,2016,AnnenMayKantereit,35
+383,Junge,True,2016,AnnenMayKantereit,45
+384,Junge,True,2016,AnnenMayKantereit,51
+385,Mister,True,2022,Dardan,40
+386,Mister,True,2022,Dardan,40
+387,Mister,True,2022,Dardan,40
+388,Mister,True,2022,Dardan,49
+389,Mister,True,2022,Dardan,41
+390,Mister,True,2022,Dardan,41
+391,Mister,True,2022,Dardan,41
+392,Mister,True,2022,Dardan,40
+393,Mister,True,2022,Dardan,43
+394,Mann,True,2022,AMEX DIOR,26
+395,Mister,True,2022,Dardan,35
+396,Girl,False,2022,Dardan,35
+397,Mann,True,2022,Dardan,44
+398,Mann,True,2022,Dardan,44
+399,Herr,True,2022,Dardan,44
+400,Mister,True,2022,Dardan,44
+401,Dame,False,2022,Dardan,44
+402,Mann,True,2022,Dardan,44
+403,Mister,True,2022,Dardan,44
+404,Mann,True,2022,Dardan,38
+405,Girl,False,2022,Dardan,43
+406,Girl,False,2022,Dardan,43
+407,Mister,True,2022,Dardan,33
+408,Mister,True,2022,Dardan,33
+409,Mister,True,2022,Dardan,33
+410,Mister,True,2022,Dardan,31
+411,Junge,True,2022,Dardan,31
+412,Mister,True,2022,Dardan,31
+413,Mister,True,2022,Dardan,31
+414,Mister,True,2022,Dardan,31
+415,Mann,True,2020,RAF Camora,34
+416,Mann,True,2020,RAF Camora,34
+417,Mann,True,2020,RAF Camora,30
+418,Mann,True,2020,RAF Camora,30
+419,Mann,True,2020,RAF Camora,31
+420,Mann,True,2020,RAF Camora,30
+421,Madame,False,2020,RAF Camora,50
+422,Mann,True,2020,RAF Camora,50
+423,Junge,True,2020,RAF Camora,50
+424,Mann,True,2020,RAF Camora,56
+425,Mann,True,2020,RAF Camora,56
+426,Junge,True,2020,RAF Camora,46
+427,Mann,True,2020,RAF Camora,42
+428,Mädchen,False,2020,RAF Camora,49
+429,Mädchen,False,2020,RAF Camora,49
+430,Mädchen,False,2020,RAF Camora,49
+431,Mädchen,False,2020,RAF Camora,49
+432,Mädchen,False,2020,RAF Camora,49
+433,Mädchen,False,2020,RAF Camora,49
+434,Mädchen,False,2020,RAF Camora,49
+435,Mann,True,2020,RAF Camora,46
+436,Mann,True,2018,Bonez MC,15
+437,Mann,True,2018,Bonez MC,15
+438,Herr,True,2018,Bonez MC,15
+439,Herr,True,2018,Bonez MC,15
+440,Mann,True,2018,Bonez MC,15
+441,Junge,True,2018,Bonez MC,15
+442,Mann,True,2018,Bonez MC,15
+443,Mann,True,2018,Bonez MC,15
+444,Mann,True,2018,Bonez MC,15
+445,Herr,True,2018,Bonez MC,15
+446,Herr,True,2018,Bonez MC,15
+447,Mann,True,2018,Bonez MC,15
+448,Mann,True,2018,Bonez MC,15
+449,Herr,True,2018,Bonez MC,15
+450,Herr,True,2018,Bonez MC,15
+451,Mann,True,2018,Bonez MC,39
+452,Mann,True,2018,Bonez MC,56
+453,Mann,True,2018,Bonez MC,60
+454,Mann,True,2018,Bonez MC,60
+455,Mann,True,2018,Bonez MC,60
+456,Mann,True,2018,Bonez MC,60
+457,Mann,True,2018,Bonez MC,60
+458,Mann,True,2018,Bonez MC,53
+459,Mann,True,2018,Bonez MC,53
+460,Mann,True,2018,Bonez MC,53
+461,Mann,True,2018,Bonez MC,53
+462,Mann,True,2018,Bonez MC,53
+463,Mann,True,2018,Bonez MC,53
+464,Mann,True,2018,Bonez MC,60
+465,Mann,True,2018,Bonez MC,60
+466,Mann,True,2018,Bonez MC,52
+467,Mann,True,2018,Bonez MC,48
+468,Mann,True,2018,Bonez MC,48
+469,Mann,True,2017,RAF Camora,35
+470,Mann,True,2017,RAF Camora,35
+471,Mann,True,2017,RAF Camora,35
+472,Mann,True,2017,RAF Camora,35
+473,Mann,True,2017,RAF Camora,35
+474,Mann,True,2017,RAF Camora,35
+475,Mann,True,2017,RAF Camora,29
+476,Mann,True,2017,RAF Camora,29
+477,Mann,True,2017,RAF Camora,29
+478,Mann,True,2017,RAF Camora,29
+479,Herr,True,2017,RAF Camora,30
+480,Herr,True,2017,RAF Camora,30
+481,Mann,True,2017,RAF Camora,30
+482,Mann,True,2017,RAF Camora,30
+483,Mann,True,2017,RAF Camora,31
+484,Mann,True,2017,RAF Camora,27
+485,Mann,True,2017,RAF Camora,27
+486,Mann,True,2017,RAF Camora,28
+487,Mann,True,2017,RAF Camora,51
+488,Mann,True,2017,RAF Camora,36
+489,Mann,True,2017,RAF Camora,36
+490,Mann,True,2017,RAF Camora,36
+491,Mann,True,2017,RAF Camora,36
+492,Mann,True,2017,RAF Camora,30
+493,Mann,True,2017,RAF Camora,30
+494,Junge,True,2017,RAF Camora,30
+495,Mann,True,2017,RAF Camora,30
+496,Mann,True,2017,RAF Camora,38
+497,Mann,True,2017,RAF Camora,37
+498,Mann,True,2017,RAF Camora,37
+499,Mann,True,2017,RAF Camora,13
+500,Herr,True,2017,RAF Camora,13
+501,Mann,True,2017,RAF Camora,10
+502,Mann,True,2017,RAF Camora,10
+503,Herr,True,2017,RAF Camora,10
+504,Herr,True,2017,RAF Camora,10
+505,Mann,True,2017,RAF Camora,14
+506,Mann,True,2017,RAF Camora,14
+507,Herr,True,2017,RAF Camora,14
+508,Herr,True,2017,RAF Camora,14
+509,Mann,True,2017,RAF Camora,20
+510,Herr,True,2017,RAF Camora,20
+511,Mann,True,2017,RAF Camora,9
+512,Mann,True,2017,RAF Camora,9
+513,Herr,True,2017,RAF Camora,9
+514,Herr,True,2017,RAF Camora,9
+515,Mann,True,2017,RAF Camora,8
+516,Herr,True,2017,RAF Camora,8
+517,Mann,True,2017,RAF Camora,7
+518,Mann,True,2017,RAF Camora,7
+519,Herr,True,2017,RAF Camora,7
+520,Herr,True,2017,RAF Camora,7
+521,Mädchen,False,2016,Bonez MC,57
+522,Junge,True,2016,Bonez MC,54
+523,Mann,True,2016,Bonez MC,23
+524,Mann,True,2016,Bonez MC,23
+525,Herr,True,2016,Bonez MC,23
+526,Herr,True,2016,Bonez MC,23
+527,Mann,True,2016,Bonez MC,20
+528,Herr,True,2016,Bonez MC,20
+529,Mann,True,2016,Bonez MC,17
+530,Mann,True,2016,Bonez MC,17
+531,Weib,False,2016,Bonez MC,17
+532,Mann,True,2016,Bonez MC,17
+533,Mann,True,2016,Bonez MC,17
+534,Mann,True,2016,Bonez MC,17
+535,Mann,True,2016,Bonez MC,17
+536,Mann,True,2016,Bonez MC,17
+537,Mann,True,2016,Bonez MC,17
+538,Gattin,False,2016,Bonez MC,17
+539,Mann,True,2016,Bonez MC,17
+540,Ehemann,True,2016,Bonez MC,17
+541,Gefährtin,False,2016,Bonez MC,17
+542,Mann,True,2016,Bonez MC,17
+543,Mann,True,2023,LEA,42
+544,Mann,True,2023,LEA,42
+545,Mann,True,2023,LEA,45
+546,Mann,True,2023,LEA,39
+547,Mann,True,2021,LEA,56
+548,Mann,True,2021,LEA,47
+549,Mann,True,2021,LEA,47
+550,Mann,True,2021,LEA,47
+551,Mann,True,2021,LEA,57
+552,Mann,True,2020,LEA,28
+553,Mann,True,2020,LEA,30
+554,Mann,True,2020,LEA,28
+555,Mann,True,2020,LEA,28
+556,Mann,True,2020,LEA,28
+557,Mann,True,2020,LEA,28
+558,Mann,True,2020,LEA,28
+559,Mann,True,2020,LEA,47
+560,Mann,True,2020,LEA,29
+561,Mann,True,2020,LEA,26
+562,Mädchen,False,2018,LEA,55
+563,Girl,False,2018,LEA,34
+564,Lady,False,2018,LEA,32
+565,Lady,False,2018,LEA,32
+566,Lady,False,2018,LEA,32
+567,Lady,False,2018,LEA,32
+568,Lady,False,2018,LEA,32
+569,Lady,False,2018,LEA,32
+570,Lady,False,2018,LEA,32
+571,Lady,False,2018,LEA,32
+572,Lady,False,2018,LEA,32
+573,Lady,False,2018,LEA,32
+574,Girl,False,2018,LEA,32
+575,Mann,True,2022,LOTTE,41
+576,Mann,True,2022,LOTTE,41
+577,Mann,True,2022,LOTTE,41
+578,Mann,True,2022,LOTTE,41
+579,Mann,True,2022,LOTTE,41
+580,Mann,True,2022,LOTTE,41
+581,Mann,True,2022,LOTTE,46
+582,Mann,True,2022,LOTTE,46
+583,Girl,False,2023,Esther Graf,32
+584,Girl,False,2023,Esther Graf,32
+585,Girl,False,2023,Esther Graf,32
+586,Girl,False,2023,Esther Graf,32
+587,Girl,False,2023,Esther Graf,32
+588,Girl,False,2023,Esther Graf,32
+589,Girl,False,2023,Esther Graf,32
+590,Mann,True,2021,Monet192,29
+591,Mann,True,2021,Monet192,29
+592,Girl,False,2021,Monet192,34
+593,Girl,False,2021,Monet192,34
+594,Girl,False,2021,Monet192,34
+595,Junge,True,2021,Monet192,36
+596,Junge,True,2021,Monet192,36
+597,Mann,True,2021,Monet192,36
+598,Junge,True,2021,Monet192,36
+599,Mann,True,2021,Monet192,36
+600,Junge,True,2021,Monet192,36
+601,Mädchen,False,2021,Monet192,26
+602,Girl,False,2021,Monet192,36
+603,Girl,False,2021,Monet192,36
+604,Girl,False,2021,Monet192,28
+605,Mann,True,2022,Juju,59
+606,Mann,True,2022,Juju,59
+607,Mann,True,2022,Juju,59
+608,Mann,True,2022,CRO,47
+609,Mädchen,False,2022,CRO,47
+610,Mann,True,2022,Marteria,31
+611,Mann,True,2022,LUNA,50
+612,Mann,True,2022,LUNA,50
+613,Mann,True,2022,LOTTE,43
+614,Mann,True,2022,LOTTE,43
+615,Mann,True,2022,LOTTE,43
+616,Mann,True,2022,LOTTE,43
+617,Mann,True,2022,LOTTE,43
+618,Mann,True,2022,LOTTE,43
+619,Mann,True,2022,Wincent Weiss,48
+620,Mann,True,2022,Alligatoah,1
+621,Mann,True,2022,Achtabahn,39
+622,Mann,True,2022,SDP,45
+623,Girl,False,2021,Mike Singer,40
+624,Junge,True,2022,FRINK,7
+625,Mann,True,2022,FRINK,7
+626,Mann,True,2022,ela.,41
+627,Mann,True,2022,ela.,41
+628,Mann,True,2022,ela.,41
+629,Boy,True,2021,Emmms,14
+630,Mann,True,2022,LENA UND LUIS,3
+631,Mann,True,2022,LENA UND LUIS,3
+632,Mann,True,2021,K-Fly,36
+633,Mann,True,2021,K-Fly,36
+634,Mann,True,2021,K-Fly,36
+635,Mann,True,2021,CRO,1
+636,Herr,True,2021,Antilopen Gang,46
+637,Mann,True,2021,Alligatoah,0
+638,Mister,True,2021,Marteria,45
+639,Mann,True,2021,LEA,57
+640,Girl,False,2021,Dardan,54
+641,Girl,False,2021,Dardan,54
+642,Mann,True,2021,LUNA,54
+643,Junge,True,2021,RIN,52
+644,Girl,False,2021,Pietro Lombardi,43
+645,Girl,False,2021,Pietro Lombardi,43
+646,Mann,True,2021,Beatzarre & Djorkaeff,54
+647,Mann,True,2021,Beatzarre & Djorkaeff,54
+648,Dame,False,2021,SANTOS,60
+649,Mann,True,2021,SANTOS,60
+650,Mann,True,2021,TheDoDo,40
+651,Mann,True,2021,CRO,42
+652,Girl,False,2021,Mike Singer,0
+653,Mann,True,2021,Mike Singer,0
+654,Mann,True,2021,Vanessa Mai,33
+655,Mann,True,2021,KAYEF,41
+656,Mann,True,2021,KAYEF,41
+657,Mann,True,2021,KAYEF,41
+658,Junge,True,2021,Stereoact,43
+659,Mann,True,2021,Vanessa Mai,38
+660,Mann,True,2021,Vanessa Mai,38
+661,Mann,True,2021,Vanessa Mai,38
+662,Boy,True,2021,Fairuz,5
+663,Mann,True,2020,Clueso,59
+664,Mann,True,2021,Stereoact,35
+665,Mann,True,2021,Stereoact,35
+666,Mann,True,2021,Fairuz,7
+667,Mann,True,2021,Fairuz,7
+668,Mann,True,2020,KATI K,50
+669,Mann,True,2020,Bosse,41
+670,Mann,True,2020,Gentleman,50
+671,Mann,True,2020,Alligatoah,4
+672,Mann,True,2020,Alligatoah,4
+673,Junge,True,2020,Chima,19
+674,Junge,True,2020,Chima,19
+675,Junge,True,2020,Chima,19
+676,Junge,True,2020,Chima,19
+677,Junge,True,2020,Chima,19
+678,Junge,True,2020,Chima,19
+679,Mann,True,2020,FASO,0
+680,Junge,True,2020,FASO,0
+681,Junge,True,2020,FASO,0
+682,Girl,False,2020,Pietro Lombardi,54
+683,Mann,True,2020,Madeline Juno,38
+684,Mann,True,2020,Madeline Juno,38
+685,Mädchen,False,2020,Capital Bra,56
+686,Mann,True,2020,CÉLINE,1
+687,Mann,True,2020,LEA,49
+688,Mann,True,2020,Fynn Kliemann,45
+689,Mann,True,2020,Fynn Kliemann,45
+690,Mann,True,2020,Julia Kautz,0
+691,Mann,True,2020,Julia Kautz,0
+692,Mann,True,2020,Julia Kautz,0
+693,Mann,True,2020,Julia Kautz,0
+694,Mann,True,2020,Julia Kautz,0
+695,Mann,True,2020,Julia Kautz,0
+696,Mann,True,2020,Julia Kautz,0
+697,Ehemann,True,2020,Julia Kautz,0
+698,Herr,True,2020,Julia Kautz,0
+699,Mädchen,False,2020,Julia Kautz,0
+700,Mann,True,2020,Julia Kautz,0
+701,Mann,True,2020,Julia Kautz,0
+702,Mann,True,2020,Julia Kautz,0
+703,Weib,False,2020,Julia Kautz,0
+704,Mann,True,2019,Sido,35
+705,Mann,True,2020,Sarah Connor,28
+706,Junge,True,2020,Fynn Kliemann,39
+707,Mann,True,2018,Mark Forster,62
+708,Mann,True,2018,Mark Forster,62
+709,Mann,True,2018,Mark Forster,62
+710,Mann,True,2019,Phil Masel,7
+711,Junge,True,2019,Phil Masel,7
+712,Mann,True,2019,Phil Masel,7
+713,Junge,True,2019,Phil Masel,7
+714,Junge,True,2019,Phil Masel,7
+715,Mister,True,2019,Phil Masel,7
+716,Junge,True,2019,Phil Masel,7
+717,Herr,True,2019,Phil Masel,7
+718,Herr,True,2019,Phil Masel,7
+719,Mann,True,2019,Phil Masel,7
+720,Mann,True,2019,Phil Masel,7
+721,Junge,True,2019,Phil Masel,7
+722,Junge,True,2019,Phil Masel,7
+723,Mann,True,2019,Phil Masel,7
+724,Mann,True,2019,Phil Masel,7
+725,Mann,True,2019,Phil Masel,7
+726,Mann,True,2019,Phil Masel,7
+727,Mann,True,2019,Phil Masel,7
+728,Girl,False,2019,Phil Masel,7
+729,Mann,True,2019,Phil Masel,7
+730,Mann,True,2019,Phil Masel,7
+731,Junge,True,2019,Phil Masel,7
+732,Junge,True,2019,Phil Masel,7
+733,Mann,True,2019,Phil Masel,7
+734,Mann,True,2019,Phil Masel,7
+735,Lady,False,2019,Phil Masel,7
+736,Lady,False,2019,Phil Masel,7
+737,Mann,True,2019,Phil Masel,7
+738,Mann,True,2019,Phil Masel,7
+739,Mann,True,2019,Phil Masel,7
+740,Mann,True,2019,Phil Masel,7
+741,Mann,True,2019,LEA,47
+742,Mann,True,2019,LEA,47
+743,Mann,True,2019,LEA,47
+744,Mann,True,2019,LEA,47
+745,Mann,True,2019,LEA,47
+746,Madame,False,2019,Silbermond,44
+747,Mädchen,False,2019,Sarah Connor,46
+748,Mann,True,2019,Sarah Connor,46
+749,Mädchen,False,2019,Sarah Connor,46
+750,Mann,True,2022,Mario Novembre,31
+751,Mann,True,2022,Philipp Dittberner,1
+752,Mann,True,2022,Philipp Dittberner,1
+753,Mann,True,2022,Philipp Dittberner,1
+754,Mann,True,2022,Philipp Dittberner,1
+755,Junge,True,2022,1986zig,51
+756,Mann,True,2022,LUNA,51
+757,Mann,True,2022,LUNA,51
+758,Mann,True,2022,SEELEMANN,55
+759,Mann,True,2023,Kontra K,72
+760,Girl,False,2022,JONA,47
+761,Mann,True,2022,Wincent Weiss,44
+762,Mann,True,2022,Philipp Dittberner,66
+763,Mann,True,2022,Philipp Dittberner,66
+764,Mann,True,2022,Philipp Dittberner,66
+765,Mann,True,2022,Philipp Dittberner,66
+766,Mann,True,2020,LUNA,59
+767,Mann,True,2020,Juju,54
+768,Mann,True,2020,Juju,54
+769,Mann,True,2020,Samra,50
+770,Mann,True,2020,Samra,50
+771,Mann,True,2020,Samra,50
+772,Junge,True,2020,CÉLINE,0
+773,Junge,True,2020,Juju,59
+774,Mann,True,2020,reezy,53
+775,Mann,True,2020,reezy,53
+776,Mann,True,2020,reezy,53
+777,Mann,True,2020,reezy,53
+778,Mädchen,False,2001,Subway To Sally,42
+779,Mann,True,2001,Subway To Sally,42
+780,Mann,True,2001,Subway To Sally,42
+781,Mädchen,False,2001,Subway To Sally,42
+782,Mädchen,False,2001,Subway To Sally,42
+783,Mann,True,2011,Udo Lindenberg,54
+784,Mann,True,2011,Udo Lindenberg,54
+785,Mann,True,2011,Udo Lindenberg,54
+786,Mann,True,2011,Udo Lindenberg,54
+787,Mädchen,False,1990,Die Ärzte,32
+788,Mädchen,False,1990,Die Ärzte,32
+789,Mädchen,False,1990,Die Ärzte,32
+790,Mädchen,False,1990,Die Ärzte,32
+791,Mädchen,False,1990,Die Ärzte,32
+792,Mädchen,False,1990,Die Ärzte,32
+793,Mädchen,False,1990,Die Ärzte,32
+794,Mädchen,False,1990,Die Ärzte,32
+795,Mädchen,False,1990,Die Ärzte,32
+796,Mädchen,False,1990,Die Ärzte,32
+797,Mädchen,False,1990,Die Ärzte,32
+798,Mädchen,False,1990,Die Ärzte,32
+799,Mädchen,False,1990,Die Ärzte,32
+800,Mädchen,False,1990,Die Ärzte,32
+801,Mädchen,False,1990,Die Ärzte,32
+802,Mädchen,False,1990,Die Ärzte,32
+803,Mädchen,False,1990,Die Ärzte,32
+804,Mädchen,False,1990,Die Ärzte,32
+805,Girl,False,2008,Culcha Candela,0
+806,Mann,True,2008,Herbert Grönemeyer,56
+807,Mann,True,2008,Herbert Grönemeyer,56
+808,Mann,True,2008,Herbert Grönemeyer,56
+809,Mann,True,2008,Herbert Grönemeyer,56
+810,Mann,True,2008,Herbert Grönemeyer,56
+811,Mann,True,2008,Herbert Grönemeyer,56
+812,Mann,True,2008,Herbert Grönemeyer,56
+813,Mann,True,2008,Herbert Grönemeyer,56
+814,Mann,True,2008,Herbert Grönemeyer,56
+815,Mann,True,2008,Herbert Grönemeyer,56
+816,Mann,True,2008,Herbert Grönemeyer,56
+817,Mann,True,2008,Herbert Grönemeyer,56
+818,Mann,True,2008,Herbert Grönemeyer,56
+819,Mann,True,2008,Herbert Grönemeyer,56
+820,Mann,True,2008,Herbert Grönemeyer,56
+821,Mann,True,2008,Herbert Grönemeyer,56
+822,Mann,True,2008,Herbert Grönemeyer,56
+823,Mann,True,2008,Herbert Grönemeyer,56
+824,Mann,True,2008,Herbert Grönemeyer,56
+825,Mann,True,2008,Herbert Grönemeyer,56
+826,Mann,True,2008,Herbert Grönemeyer,56
+827,Mann,True,2008,Herbert Grönemeyer,56
+828,Mann,True,2008,Herbert Grönemeyer,56
+829,Mann,True,2008,Herbert Grönemeyer,56
+830,Mann,True,2008,Herbert Grönemeyer,56
+831,Mann,True,2008,Herbert Grönemeyer,56
+832,Mann,True,2008,Herbert Grönemeyer,56
+833,Mann,True,2008,Herbert Grönemeyer,56
+834,Mann,True,2008,Herbert Grönemeyer,56
+835,Mann,True,2008,Herbert Grönemeyer,56
+836,Mann,True,2008,Herbert Grönemeyer,56
+837,Mann,True,2008,Herbert Grönemeyer,56
+838,Mann,True,2008,Herbert Grönemeyer,56
+839,Mann,True,2008,Herbert Grönemeyer,56
+840,Junge,True,2009,Pur,58
+841,Mann,True,1998,Die Ärzte,59
+842,Mann,True,1998,Die Ärzte,59
+843,Mädchen,False,1998,Die Ärzte,59
+844,Mann,True,1998,Die Ärzte,59
+845,Ehemann,True,1998,Die Ärzte,59
+846,Ehemann,True,1998,Die Ärzte,59
+847,Mann,True,1998,Die Ärzte,59
+848,Mädchen,False,1990,Die Ärzte,61
+849,Mädchen,False,1990,Die Ärzte,61
+850,Mädchen,False,1990,Die Ärzte,61
+851,Fräulein,False,1994,Westernhagen,57
+852,Mann,True,1994,Westernhagen,57
+853,Mädchen,False,2005,Die Firma,66
+854,Girl,False,2005,Die Firma,66
+855,Mann,True,2010,Marteria,0
+856,Mann,True,2001,Torfrock,30
+857,Mann,True,2010,Fettes Brot,0
+858,Mann,True,2010,Fettes Brot,0
+859,Mann,True,1989,Westernhagen,56
+860,Mann,True,1989,Westernhagen,56
+861,Mann,True,1989,Westernhagen,56
+862,Weib,False,1989,Westernhagen,56
+863,Mann,True,2009,Jan Delay,61
+864,Mann,True,2004,Matthias Reim,60
+865,Junge,True,2015,Pur,56
+866,Mädchen,False,2005,Nicole,42
+867,Mann,True,2015,Yvonne Catterfeld,44
+868,Mann,True,2017,Mark Forster,40
+869,Mann,True,2017,Mark Forster,40
+870,Mann,True,2020,LEA,59
+871,Mann,True,2006,Sido,68
+872,Junge,True,2014,Trailerpark,4
+873,Mann,True,2005,Seeed,69
+874,Lady,False,2005,Seeed,69
+875,Dame,False,2005,Seeed,69
+876,Mann,True,2005,Seeed,69
+877,Mann,True,2014,CRO,6
+878,Mann,True,2014,CRO,6
+879,Junge,True,2009,Culcha Candela,0
+880,Mann,True,2009,Culcha Candela,0
+881,Mädchen,False,2014,CRO,5
+882,Mann,True,2012,CRO,4
+883,Mann,True,2010,Laserkraft 3D,47
+884,Mann,True,2010,Laserkraft 3D,47
+885,Mann,True,2010,Laserkraft 3D,47
+886,Mann,True,2010,Laserkraft 3D,47
+887,Mann,True,2010,Laserkraft 3D,47
+888,Junge,True,2010,Laserkraft 3D,47
+889,Mann,True,2010,Laserkraft 3D,47
+890,Mann,True,2010,Laserkraft 3D,47
+891,Junge,True,2010,Laserkraft 3D,47
+892,Mann,True,2010,Laserkraft 3D,47
+893,Mann,True,2010,Laserkraft 3D,47
+894,Girl,False,2012,Flo Rida,82
+895,Girl,False,2012,Flo Rida,82
+896,Girl,False,2012,Flo Rida,82
+897,Girl,False,2012,Flo Rida,82
+898,Girl,False,2012,Flo Rida,82
+899,Mann,True,2016,Ado Kojo,58
+900,Mädchen,False,2012,PSY,77
+901,Mädchen,False,2012,PSY,77
+902,Mädchen,False,2012,PSY,77
+903,Mädchen,False,2012,PSY,77
+904,Mädchen,False,2012,PSY,77
+905,Mädchen,False,2012,PSY,77
+906,Mädchen,False,2012,PSY,77
+907,Mister,True,2010,Aloe Blacc,1
+908,Girl,False,2010,Far East Movement,78
+909,Girl,False,2009,Milow,0
+910,Mann,True,2012,CRO,2
+911,Girl,False,2003,Blu Cantrell,73
+912,Girl,False,2005,Sean Paul,60
+913,Girl,False,2005,Sean Paul,60
+914,Mann,True,2023,Wolfgang Petry,31
+915,Mann,True,2023,Wolfgang Petry,31
+916,Mann,True,2023,Wolfgang Petry,31
+917,Mann,True,2023,Wolfgang Petry,29
+918,Mann,True,2023,Wolfgang Petry,23
+919,Mann,True,2023,Wolfgang Petry,22
+920,Mann,True,1996,Wolfgang Petry,45
+921,Mädchen,False,1996,Wolfgang Petry,38
+922,Ehefrau,False,2021,Wolfgang Petry,16
+923,Dame,False,2021,Wolfgang Petry,16
+924,Mädchen,False,2020,Wolfgang Petry,14
+925,Mädchen,False,2020,Wolfgang Petry,14
+926,Mädchen,False,2020,Wolfgang Petry,14
+927,Mädchen,False,2020,Wolfgang Petry,14
+928,Mädchen,False,2020,Wolfgang Petry,14
+929,Mann,True,2020,Wolfgang Petry,15
+930,Mann,True,2020,Wolfgang Petry,11
+931,Mann,True,2018,Wolfgang Petry,32
+932,Mann,True,2018,Wolfgang Petry,32
+933,Mann,True,2018,Wolfgang Petry,17
+934,Mann,True,2018,Wolfgang Petry,22
+935,Mann,True,2018,Wolfgang Petry,22
+936,Mann,True,2018,Wolfgang Petry,22
+937,Mann,True,2018,Wolfgang Petry,16
+938,Mann,True,2018,Wolfgang Petry,16
+939,Herr,True,2018,Wahnsinn (Original Music Cast),13
+940,Mädchen,False,2018,Wahnsinn (Original Music Cast),13
+941,Mädchen,False,2018,Wahnsinn (Original Music Cast),13
+942,Mädchen,False,2018,Wahnsinn (Original Music Cast),13
+943,Mädchen,False,2018,Wahnsinn (Original Music Cast),13
+944,Herr,True,2018,Wahnsinn (Original Music Cast),13
+945,Mädchen,False,2018,Wahnsinn (Original Music Cast),13
+946,Weib,False,2018,Wahnsinn (Original Music Cast),13
+947,Mädchen,False,2018,Wahnsinn (Original Music Cast),13
+948,Herr,True,2018,Wahnsinn (Original Music Cast),13
+949,Herr,True,2018,Wahnsinn (Original Music Cast),13
+950,Herr,True,2018,Wahnsinn (Original Music Cast),13
+951,Mann,True,2018,Wahnsinn (Original Music Cast),13
+952,Weib,False,2018,Wahnsinn (Original Music Cast),13
+953,Mann,True,2018,Wahnsinn (Original Music Cast),13
+954,Mann,True,2018,Wahnsinn (Original Music Cast),13
+955,Mann,True,2018,Wahnsinn (Original Music Cast),13
+956,Herr,True,2018,Wahnsinn (Original Music Cast),13
+957,Gefährte,True,2018,Wahnsinn (Original Music Cast),13
+958,Weib,False,2018,Wahnsinn (Original Music Cast),13
+959,Weib,False,2018,Wahnsinn (Original Music Cast),13
+960,Weib,False,2018,Wahnsinn (Original Music Cast),13
+961,Herr,True,2018,Wahnsinn (Original Music Cast),13
+962,Mann,True,2018,Wahnsinn (Original Music Cast),13
+963,Weib,False,2018,Wahnsinn (Original Music Cast),13
+964,Mann,True,2018,Wahnsinn (Original Music Cast),13
+965,Weib,False,2018,Wahnsinn (Original Music Cast),13
+966,Herr,True,2018,Wahnsinn (Original Music Cast),13
+967,Herr,True,2018,Wahnsinn (Original Music Cast),13
+968,Mann,True,2018,Wahnsinn (Original Music Cast),13
+969,Weib,False,2018,Wahnsinn (Original Music Cast),13
+970,Weib,False,2018,Wahnsinn (Original Music Cast),13
+971,Mann,True,2018,Wolfgang Petry,8
+972,Mädchen,False,2018,Wolfgang Petry,8
+973,Mann,True,2018,Wolfgang Petry,6
+974,Dame,False,2015,Wolfgang Petry,6
+975,Mann,True,2015,Wolfgang Petry,6
+976,Mann,True,2015,Wolfgang Petry,6
+977,Herr,True,2015,Wolfgang Petry,6
+978,Herr,True,2015,Wolfgang Petry,6
+979,Mann,True,2015,Wolfgang Petry,6
+980,Weib,False,2015,Wolfgang Petry,6
+981,Dame,False,2015,Wolfgang Petry,6
+982,Dame,False,2015,Wolfgang Petry,6
+983,Herr,True,2015,Wolfgang Petry,6
+984,Herr,True,2015,Wolfgang Petry,6
+985,Herr,True,2015,Wolfgang Petry,6
+986,Herr,True,2015,Wolfgang Petry,6
+987,Herr,True,2015,Wolfgang Petry,6
+988,Herr,True,2015,Wolfgang Petry,6
+989,Herr,True,2015,Wolfgang Petry,6
+990,Mann,True,2015,Wolfgang Petry,6
+991,Mann,True,2015,Wolfgang Petry,6
+992,Herr,True,2015,Wolfgang Petry,6
+993,Herr,True,2015,Wolfgang Petry,6
+994,Herr,True,2015,Wolfgang Petry,6
+995,Herr,True,2015,Wolfgang Petry,6
+996,Herr,True,2015,Wolfgang Petry,6
+997,Herr,True,2015,Wolfgang Petry,6
+998,Herr,True,2015,Wolfgang Petry,6
+999,Mann,True,2015,Wolfgang Petry,6
+1000,Mann,True,2015,Wolfgang Petry,6
+1001,Mann,True,2015,Wolfgang Petry,6
+1002,Herr,True,2015,Wolfgang Petry,6
+1003,Mann,True,2015,Wolfgang Petry,6
+1004,Weib,False,2015,Wolfgang Petry,6
+1005,Herr,True,2015,Wolfgang Petry,6
+1006,Herr,True,2015,Wolfgang Petry,6
+1007,Herr,True,2015,Wolfgang Petry,6
+1008,Herr,True,2015,Wolfgang Petry,6
+1009,Herr,True,2015,Wolfgang Petry,6
+1010,Herr,True,2015,Wolfgang Petry,6
+1011,Herr,True,2015,Wolfgang Petry,6
+1012,Mann,True,2015,Wolfgang Petry,6
+1013,Mann,True,2015,Wolfgang Petry,6
+1014,Herr,True,2015,Wolfgang Petry,6
+1015,Mann,True,2015,Wolfgang Petry,6
+1016,Herr,True,2015,Wolfgang Petry,6
+1017,Herr,True,2015,Wolfgang Petry,6
+1018,Herr,True,2015,Wolfgang Petry,6
+1019,Herr,True,2015,Wolfgang Petry,6
+1020,Mann,True,2010,Wolfgang Petry,5
+1021,Mädchen,False,2007,Wolfgang Petry,4
+1022,Mann,True,2007,Wolfgang Petry,25
+1023,Mann,True,2007,Dieter Thomas Heck,0
+1024,Mann,True,2007,Dieter Thomas Heck,0
+1025,Mann,True,2007,Dieter Thomas Heck,0
+1026,Mann,True,2007,Dieter Thomas Heck,0
+1027,Dame,False,2007,Dieter Thomas Heck,0
+1028,Dame,False,2007,Dieter Thomas Heck,0
+1029,Dame,False,2007,Dieter Thomas Heck,0
+1030,Mann,True,2007,Dieter Thomas Heck,0
+1031,Mann,True,2007,Dieter Thomas Heck,0
+1032,Mann,True,2007,Dieter Thomas Heck,0
+1033,Dame,False,2007,Dieter Thomas Heck,0
+1034,Dame,False,2007,Dieter Thomas Heck,0
+1035,Mann,True,2007,Dieter Thomas Heck,0
+1036,Mädchen,False,2007,Dieter Thomas Heck,0
+1037,Fräulein,False,2007,Dieter Thomas Heck,0
+1038,Mann,True,2007,Dieter Thomas Heck,0
+1039,Mann,True,2007,Dieter Thomas Heck,0
+1040,Mann,True,2007,Dieter Thomas Heck,0
+1041,Mann,True,2007,Dieter Thomas Heck,0
+1042,Mann,True,2007,Dieter Thomas Heck,0
+1043,Mann,True,2007,Dieter Thomas Heck,0
+1044,Mann,True,2007,Dieter Thomas Heck,0
+1045,Mann,True,2007,Dieter Thomas Heck,0
+1046,Mann,True,2007,Dieter Thomas Heck,0
+1047,Mädchen,False,2007,Dieter Thomas Heck,0
+1048,Dame,False,2007,Dieter Thomas Heck,0
+1049,Weib,False,2007,Dieter Thomas Heck,0
+1050,Mädchen,False,2007,Dieter Thomas Heck,0
+1051,Dame,False,2007,Dieter Thomas Heck,0
+1052,Herr,True,2007,Dieter Thomas Heck,0
+1053,Dame,False,2007,Dieter Thomas Heck,0
+1054,Mann,True,2007,Dieter Thomas Heck,0
+1055,Herr,True,2007,Dieter Thomas Heck,0
+1056,Herr,True,2007,Dieter Thomas Heck,0
+1057,Junge,True,2007,Dieter Thomas Heck,0
+1058,Dame,False,2007,Dieter Thomas Heck,0
+1059,Mann,True,2007,Dieter Thomas Heck,0
+1060,Dame,False,2007,Dieter Thomas Heck,0
+1061,Herr,True,2007,Dieter Thomas Heck,0
+1062,Dame,False,2007,Dieter Thomas Heck,0
+1063,Mädchen,False,2007,Dieter Thomas Heck,0
+1064,Mädchen,False,2007,Dieter Thomas Heck,0
+1065,Mann,True,2007,Dieter Thomas Heck,0
+1066,Mädchen,False,2007,Dieter Thomas Heck,0
+1067,Dame,False,2007,Dieter Thomas Heck,0
+1068,Mann,True,2007,Dieter Thomas Heck,0
+1069,Weib,False,2007,Dieter Thomas Heck,0
+1070,Mädchen,False,2007,Dieter Thomas Heck,0
+1071,Mädchen,False,2007,Dieter Thomas Heck,0
+1072,Mann,True,2007,Dieter Thomas Heck,0
+1073,Mädchen,False,2007,Dieter Thomas Heck,0
+1074,Mädchen,False,2007,Dieter Thomas Heck,0
+1075,Dame,False,2007,Dieter Thomas Heck,0
+1076,Mädchen,False,2007,Dieter Thomas Heck,0
+1077,Mädchen,False,2007,Dieter Thomas Heck,0
+1078,Mann,True,2007,Dieter Thomas Heck,0
+1079,Mann,True,2007,Dieter Thomas Heck,0
+1080,Herr,True,2007,Dieter Thomas Heck,0
+1081,Dame,False,2007,Dieter Thomas Heck,0
+1082,Mann,True,2007,Dieter Thomas Heck,0
+1083,Mann,True,2007,Dieter Thomas Heck,0
+1084,Mann,True,2007,Dieter Thomas Heck,0
+1085,Mann,True,2007,Dieter Thomas Heck,0
+1086,Junge,True,2007,Dieter Thomas Heck,0
+1087,Mann,True,2007,Dieter Thomas Heck,0
+1088,Junge,True,2007,Dieter Thomas Heck,0
+1089,Mann,True,2007,Dieter Thomas Heck,0
+1090,Mann,True,2007,Dieter Thomas Heck,0
+1091,Mann,True,2007,Dieter Thomas Heck,0
+1092,Mann,True,2007,Dieter Thomas Heck,0
+1093,Junge,True,2007,Dieter Thomas Heck,0
+1094,Mann,True,2007,Dieter Thomas Heck,0
+1095,Mann,True,2007,Dieter Thomas Heck,0
+1096,Mann,True,2007,Dieter Thomas Heck,0
+1097,Junge,True,2007,Dieter Thomas Heck,0
+1098,Mann,True,2007,Dieter Thomas Heck,0
+1099,Mann,True,2007,Dieter Thomas Heck,0
+1100,Mann,True,2007,Dieter Thomas Heck,0
+1101,Junge,True,2007,Dieter Thomas Heck,0
+1102,Mann,True,2007,Dieter Thomas Heck,0
+1103,Mann,True,2007,Dieter Thomas Heck,0
+1104,Mann,True,2007,Dieter Thomas Heck,0
+1105,Herr,True,2007,Dieter Thomas Heck,0
+1106,Mann,True,2007,Dieter Thomas Heck,0
+1107,Mann,True,2007,Dieter Thomas Heck,0
+1108,Herr,True,2007,Dieter Thomas Heck,0
+1109,Herr,True,2007,Dieter Thomas Heck,0
+1110,Herr,True,2007,Dieter Thomas Heck,0
+1111,Mädchen,False,2007,Dieter Thomas Heck,0
+1112,Herr,True,2007,Dieter Thomas Heck,0
+1113,Herr,True,2007,Dieter Thomas Heck,0
+1114,Mädchen,False,2007,Dieter Thomas Heck,0
+1115,Herr,True,2007,Dieter Thomas Heck,0
+1116,Herr,True,2007,Dieter Thomas Heck,0
+1117,Herr,True,2007,Dieter Thomas Heck,0
+1118,Herr,True,2007,Dieter Thomas Heck,0
+1119,Gatte,True,2007,Dieter Thomas Heck,0
+1120,Mann,True,2007,Dieter Thomas Heck,0
+1121,Dame,False,2007,Dieter Thomas Heck,0
+1122,Mädchen,False,2007,Dieter Thomas Heck,0
+1123,Mädchen,False,2007,Dieter Thomas Heck,0
+1124,Herr,True,2007,Dieter Thomas Heck,0
+1125,Mann,True,2007,Dieter Thomas Heck,0
+1126,Mann,True,2007,Dieter Thomas Heck,0
+1127,Mädchen,False,2007,Dieter Thomas Heck,0
+1128,Junge,True,2007,Dieter Thomas Heck,0
+1129,Herr,True,2007,Dieter Thomas Heck,0
+1130,Herr,True,2007,Dieter Thomas Heck,0
+1131,Herr,True,2007,Dieter Thomas Heck,0
+1132,Herr,True,2007,Dieter Thomas Heck,0
+1133,Herr,True,2007,Dieter Thomas Heck,0
+1134,Mann,True,2007,Dieter Thomas Heck,0
+1135,Mann,True,2007,Dieter Thomas Heck,0
+1136,Mann,True,2007,Dieter Thomas Heck,0
+1137,Mann,True,2007,Dieter Thomas Heck,0
+1138,Herr,True,2007,Dieter Thomas Heck,0
+1139,Mädchen,False,2007,Dieter Thomas Heck,0
+1140,Herr,True,2007,Dieter Thomas Heck,0
+1141,Mann,True,2007,Dieter Thomas Heck,0
+1142,Mann,True,2007,Dieter Thomas Heck,0
+1143,Mann,True,2007,Dieter Thomas Heck,0
+1144,Weib,False,2007,Dieter Thomas Heck,0
+1145,Mädchen,False,2007,Dieter Thomas Heck,0
+1146,Mädchen,False,2007,Dieter Thomas Heck,0
+1147,Mädchen,False,2007,Dieter Thomas Heck,0
+1148,Herr,True,2007,Dieter Thomas Heck,0
+1149,Junge,True,2007,Dieter Thomas Heck,0
+1150,Mädchen,False,2007,Dieter Thomas Heck,0
+1151,Herr,True,2007,Dieter Thomas Heck,0
+1152,Mädchen,False,2007,Dieter Thomas Heck,0
+1153,Herr,True,2007,Dieter Thomas Heck,0
+1154,Herr,True,2007,Dieter Thomas Heck,0
+1155,Mädchen,False,2007,Dieter Thomas Heck,0
+1156,Herr,True,2007,Dieter Thomas Heck,0
+1157,Herr,True,2007,Dieter Thomas Heck,0
+1158,Mädchen,False,2007,Dieter Thomas Heck,0
+1159,Mädchen,False,2007,Dieter Thomas Heck,0
+1160,Mädchen,False,2007,Dieter Thomas Heck,0
+1161,Mädchen,False,2007,Dieter Thomas Heck,0
+1162,Mädchen,False,2007,Dieter Thomas Heck,0
+1163,Mädchen,False,2007,Dieter Thomas Heck,0
+1164,Herr,True,2007,Dieter Thomas Heck,0
+1165,Dame,False,2007,Dieter Thomas Heck,0
+1166,Herr,True,2007,Dieter Thomas Heck,0
+1167,Mann,True,2007,Dieter Thomas Heck,0
+1168,Mädchen,False,2007,Dieter Thomas Heck,0
+1169,Dame,False,2007,Dieter Thomas Heck,0
+1170,Dame,False,2007,Dieter Thomas Heck,0
+1171,Mann,True,2007,Dieter Thomas Heck,0
+1172,Weib,False,2007,Dieter Thomas Heck,0
+1173,Weib,False,2007,Dieter Thomas Heck,0
+1174,Mann,True,2007,Dieter Thomas Heck,0
+1175,Dame,False,2007,Dieter Thomas Heck,0
+1176,Mann,True,2007,Dieter Thomas Heck,0
+1177,Mädchen,False,2007,Dieter Thomas Heck,0
+1178,Mädchen,False,2007,Dieter Thomas Heck,0
+1179,Mann,True,2007,Dieter Thomas Heck,0
+1180,Mann,True,2007,Dieter Thomas Heck,0
+1181,Mann,True,2007,Dieter Thomas Heck,0
+1182,Dame,False,2007,Dieter Thomas Heck,0
+1183,Dame,False,2007,Dieter Thomas Heck,0
+1184,Mann,True,2007,Dieter Thomas Heck,0
+1185,Mann,True,2007,Dieter Thomas Heck,0
+1186,Dame,False,2007,Dieter Thomas Heck,0
+1187,Mann,True,2007,Dieter Thomas Heck,0
+1188,Weib,False,2007,Dieter Thomas Heck,0
+1189,Dame,False,2007,Dieter Thomas Heck,0
+1190,Mädchen,False,2007,Dieter Thomas Heck,0
+1191,Mädchen,False,2007,Dieter Thomas Heck,0
+1192,Mädchen,False,2007,Dieter Thomas Heck,0
+1193,Mann,True,2007,Dieter Thomas Heck,0
+1194,Mann,True,2007,Dieter Thomas Heck,0
+1195,Mann,True,2007,Dieter Thomas Heck,0
+1196,Mann,True,2007,Dieter Thomas Heck,0
+1197,Mann,True,2007,Dieter Thomas Heck,0
+1198,Dame,False,2007,Dieter Thomas Heck,0
+1199,Mann,True,2007,Dieter Thomas Heck,0
+1200,Mann,True,2007,Dieter Thomas Heck,0
+1201,Weib,False,2007,Dieter Thomas Heck,0
+1202,Mann,True,2007,Dieter Thomas Heck,0
+1203,Dame,False,2007,Dieter Thomas Heck,0
+1204,Mann,True,2007,Dieter Thomas Heck,0
+1205,Mädchen,False,2007,Dieter Thomas Heck,0
+1206,Mädchen,False,2007,Dieter Thomas Heck,0
+1207,Mann,True,2007,Dieter Thomas Heck,0
+1208,Mann,True,2007,Dieter Thomas Heck,0
+1209,Mann,True,2007,Dieter Thomas Heck,0
+1210,Mann,True,2007,Dieter Thomas Heck,0
+1211,Mann,True,2007,Dieter Thomas Heck,0
+1212,Mann,True,2007,Dieter Thomas Heck,0
+1213,Mädchen,False,2007,Dieter Thomas Heck,0
+1214,Mann,True,2007,Dieter Thomas Heck,0
+1215,Mädchen,False,2007,Dieter Thomas Heck,0
+1216,Mann,True,2007,Dieter Thomas Heck,0
+1217,Mädchen,False,2007,Dieter Thomas Heck,0
+1218,Mann,True,2007,Dieter Thomas Heck,0
+1219,Herr,True,2007,Dieter Thomas Heck,0
+1220,Dame,False,2007,Dieter Thomas Heck,0
+1221,Mädchen,False,2007,Dieter Thomas Heck,0
+1222,Mann,True,2007,Dieter Thomas Heck,0
+1223,Herr,True,2007,Dieter Thomas Heck,0
+1224,Dame,False,2007,Dieter Thomas Heck,0
+1225,Dame,False,2007,Dieter Thomas Heck,0
+1226,Dame,False,2007,Dieter Thomas Heck,0
+1227,Weib,False,2007,Dieter Thomas Heck,0
+1228,Weib,False,2007,Dieter Thomas Heck,0
+1229,Dame,False,2007,Dieter Thomas Heck,0
+1230,Weib,False,2007,Dieter Thomas Heck,0
+1231,Dame,False,2007,Dieter Thomas Heck,0
+1232,Dame,False,2007,Dieter Thomas Heck,0
+1233,Dame,False,2007,Dieter Thomas Heck,0
+1234,Dame,False,2007,Dieter Thomas Heck,0
+1235,Ehefrau,False,2007,Dieter Thomas Heck,0
+1236,Mädchen,False,2007,Dieter Thomas Heck,0
+1237,Mädchen,False,2007,Dieter Thomas Heck,0
+1238,Mann,True,2007,Dieter Thomas Heck,0
+1239,Dame,False,2007,Dieter Thomas Heck,0
+1240,Mann,True,2007,Dieter Thomas Heck,0
+1241,Mann,True,2007,Dieter Thomas Heck,0
+1242,Weib,False,2007,Dieter Thomas Heck,0
+1243,Mann,True,2007,Dieter Thomas Heck,0
+1244,Gatte,True,2007,Dieter Thomas Heck,0
+1245,Gatte,True,2007,Dieter Thomas Heck,0
+1246,Mann,True,2007,Dieter Thomas Heck,0
+1247,Dame,False,2007,Dieter Thomas Heck,0
+1248,Mann,True,2007,Dieter Thomas Heck,0
+1249,Mann,True,2007,Dieter Thomas Heck,0
+1250,Mädchen,False,2007,Dieter Thomas Heck,0
+1251,Mädchen,False,2007,Dieter Thomas Heck,0
+1252,Fräulein,False,2007,Dieter Thomas Heck,0
+1253,Weib,False,2007,Dieter Thomas Heck,0
+1254,Dame,False,2007,Dieter Thomas Heck,0
+1255,Dame,False,2007,Dieter Thomas Heck,0
+1256,Dame,False,2007,Dieter Thomas Heck,0
+1257,Dame,False,2007,Dieter Thomas Heck,0
+1258,Mann,True,2007,Dieter Thomas Heck,0
+1259,Mann,True,2007,Dieter Thomas Heck,0
+1260,Mann,True,2007,Dieter Thomas Heck,0
+1261,Mann,True,2007,Dieter Thomas Heck,0
+1262,Mädchen,False,2007,Dieter Thomas Heck,0
+1263,Dame,False,2007,Dieter Thomas Heck,0
+1264,Mädchen,False,2007,Dieter Thomas Heck,0
+1265,Mädchen,False,2007,Dieter Thomas Heck,0
+1266,Dame,False,2007,Dieter Thomas Heck,0
+1267,Dame,False,2007,Dieter Thomas Heck,0
+1268,Mann,True,2007,Dieter Thomas Heck,0
+1269,Mann,True,2007,Dieter Thomas Heck,0
+1270,Mann,True,2007,Dieter Thomas Heck,0
+1271,Dame,False,2007,Dieter Thomas Heck,0
+1272,Herr,True,2007,Dieter Thomas Heck,0
+1273,Herr,True,2007,Dieter Thomas Heck,0
+1274,Herr,True,2007,Dieter Thomas Heck,0
+1275,Herr,True,2007,Dieter Thomas Heck,0
+1276,Mann,True,2007,Dieter Thomas Heck,0
+1277,Mann,True,2007,Dieter Thomas Heck,0
+1278,Herr,True,2007,Dieter Thomas Heck,0
+1279,Herr,True,2007,Dieter Thomas Heck,0
+1280,Herr,True,2007,Dieter Thomas Heck,0
+1281,Mann,True,2007,Dieter Thomas Heck,0
+1282,Herr,True,2007,Dieter Thomas Heck,0
+1283,Mann,True,2007,Dieter Thomas Heck,0
+1284,Mädchen,False,2007,Dieter Thomas Heck,0
+1285,Mann,True,2007,Dieter Thomas Heck,0
+1286,Mädchen,False,2007,Dieter Thomas Heck,0
+1287,Mädchen,False,2007,Dieter Thomas Heck,0
+1288,Mann,True,2007,Dieter Thomas Heck,0
+1289,Dame,False,2007,Dieter Thomas Heck,0
+1290,Mädchen,False,2007,Dieter Thomas Heck,0
+1291,Dame,False,2007,Dieter Thomas Heck,0
+1292,Mädchen,False,2007,Dieter Thomas Heck,0
+1293,Mann,True,2007,Dieter Thomas Heck,0
+1294,Mann,True,2007,Dieter Thomas Heck,0
+1295,Dame,False,2007,Dieter Thomas Heck,0
+1296,Mann,True,2007,Dieter Thomas Heck,0
+1297,Dame,False,2007,Dieter Thomas Heck,0
+1298,Mann,True,2007,Dieter Thomas Heck,0
+1299,Mann,True,2007,Dieter Thomas Heck,0
+1300,Mann,True,2007,Dieter Thomas Heck,0
+1301,Dame,False,2007,Dieter Thomas Heck,0
+1302,Mann,True,2007,Dieter Thomas Heck,0
+1303,Herr,True,2007,Dieter Thomas Heck,0
+1304,Herr,True,2007,Dieter Thomas Heck,0
+1305,Herr,True,2007,Dieter Thomas Heck,0
+1306,Dame,False,2007,Dieter Thomas Heck,0
+1307,Mann,True,2007,Dieter Thomas Heck,0
+1308,Herr,True,2007,Dieter Thomas Heck,0
+1309,Mann,True,2007,Dieter Thomas Heck,0
+1310,Herr,True,2007,Dieter Thomas Heck,0
+1311,Herr,True,2007,Dieter Thomas Heck,0
+1312,Herr,True,2007,Dieter Thomas Heck,0
+1313,Mann,True,2007,Dieter Thomas Heck,0
+1314,Mädchen,False,2007,Dieter Thomas Heck,0
+1315,Mann,True,2007,Dieter Thomas Heck,0
+1316,Herr,True,2007,Dieter Thomas Heck,0
+1317,Dame,False,2007,Dieter Thomas Heck,0
+1318,Mann,True,2007,Dieter Thomas Heck,0
+1319,Mann,True,2007,Dieter Thomas Heck,0
+1320,Junge,True,2007,Dieter Thomas Heck,0
+1321,Mann,True,2007,Dieter Thomas Heck,0
+1322,Junge,True,2007,Dieter Thomas Heck,0
+1323,Mann,True,2007,Dieter Thomas Heck,0
+1324,Mann,True,2007,Dieter Thomas Heck,0
+1325,Mann,True,2007,Dieter Thomas Heck,0
+1326,Mann,True,2007,Dieter Thomas Heck,0
+1327,Junge,True,2007,Dieter Thomas Heck,0
+1328,Mann,True,2007,Dieter Thomas Heck,0
+1329,Mann,True,2007,Dieter Thomas Heck,0
+1330,Mann,True,2007,Dieter Thomas Heck,0
+1331,Junge,True,2007,Dieter Thomas Heck,0
+1332,Mann,True,2007,Dieter Thomas Heck,0
+1333,Mann,True,2007,Dieter Thomas Heck,0
+1334,Mann,True,2007,Dieter Thomas Heck,0
+1335,Junge,True,2007,Dieter Thomas Heck,0
+1336,Mann,True,2007,Dieter Thomas Heck,0
+1337,Mann,True,2007,Dieter Thomas Heck,0
+1338,Mann,True,2007,Dieter Thomas Heck,0
+1339,Herr,True,2007,Dieter Thomas Heck,0
+1340,Mann,True,2007,Dieter Thomas Heck,0
+1341,Mann,True,2007,Dieter Thomas Heck,0
+1342,Herr,True,2007,Dieter Thomas Heck,0
+1343,Herr,True,2007,Dieter Thomas Heck,0
+1344,Herr,True,2007,Dieter Thomas Heck,0
+1345,Mädchen,False,2007,Dieter Thomas Heck,0
+1346,Herr,True,2007,Dieter Thomas Heck,0
+1347,Herr,True,2007,Dieter Thomas Heck,0
+1348,Mädchen,False,2007,Dieter Thomas Heck,0
+1349,Herr,True,2007,Dieter Thomas Heck,0
+1350,Herr,True,2007,Dieter Thomas Heck,0
+1351,Herr,True,2007,Dieter Thomas Heck,0
+1352,Herr,True,2007,Dieter Thomas Heck,0
+1353,Gatte,True,2007,Dieter Thomas Heck,0
+1354,Mann,True,2007,Dieter Thomas Heck,0
+1355,Dame,False,2007,Dieter Thomas Heck,0
+1356,Mädchen,False,2007,Dieter Thomas Heck,0
+1357,Mädchen,False,2007,Dieter Thomas Heck,0
+1358,Herr,True,2007,Dieter Thomas Heck,0
+1359,Mann,True,2007,Dieter Thomas Heck,0
+1360,Mann,True,2007,Dieter Thomas Heck,0
+1361,Mädchen,False,2007,Dieter Thomas Heck,0
+1362,Junge,True,2007,Dieter Thomas Heck,0
+1363,Herr,True,2007,Dieter Thomas Heck,0
+1364,Herr,True,2007,Dieter Thomas Heck,0
+1365,Herr,True,2007,Dieter Thomas Heck,0
+1366,Herr,True,2007,Dieter Thomas Heck,0
+1367,Herr,True,2007,Dieter Thomas Heck,0
+1368,Mann,True,2007,Dieter Thomas Heck,0
+1369,Mann,True,2007,Dieter Thomas Heck,0
+1370,Mann,True,2007,Dieter Thomas Heck,0
+1371,Mann,True,2007,Dieter Thomas Heck,0
+1372,Herr,True,2007,Dieter Thomas Heck,0
+1373,Mädchen,False,2007,Dieter Thomas Heck,0
+1374,Herr,True,2007,Dieter Thomas Heck,0
+1375,Mann,True,2007,Dieter Thomas Heck,0
+1376,Mann,True,2007,Dieter Thomas Heck,0
+1377,Mann,True,2007,Dieter Thomas Heck,0
+1378,Weib,False,2007,Dieter Thomas Heck,0
+1379,Mädchen,False,2007,Dieter Thomas Heck,0
+1380,Mädchen,False,2007,Dieter Thomas Heck,0
+1381,Mädchen,False,2007,Dieter Thomas Heck,0
+1382,Herr,True,2007,Dieter Thomas Heck,0
+1383,Junge,True,2007,Dieter Thomas Heck,0
+1384,Mädchen,False,2007,Dieter Thomas Heck,0
+1385,Herr,True,2007,Dieter Thomas Heck,0
+1386,Mädchen,False,2007,Dieter Thomas Heck,0
+1387,Herr,True,2007,Dieter Thomas Heck,0
+1388,Herr,True,2007,Dieter Thomas Heck,0
+1389,Mädchen,False,2007,Dieter Thomas Heck,0
+1390,Herr,True,2007,Dieter Thomas Heck,0
+1391,Herr,True,2007,Dieter Thomas Heck,0
+1392,Mädchen,False,2007,Dieter Thomas Heck,0
+1393,Mädchen,False,2007,Dieter Thomas Heck,0
+1394,Mädchen,False,2007,Dieter Thomas Heck,0
+1395,Mädchen,False,2007,Dieter Thomas Heck,0
+1396,Mädchen,False,2007,Dieter Thomas Heck,0
+1397,Mädchen,False,2007,Dieter Thomas Heck,0
+1398,Herr,True,2007,Dieter Thomas Heck,0
+1399,Mädchen,False,2004,Wolfgang Petry,2
+1400,Dame,False,2001,Wolfgang Petry,1
+1401,Mann,True,2001,Wolfgang Petry,1
+1402,Mann,True,2001,Wolfgang Petry,1
+1403,Herr,True,2001,Wolfgang Petry,1
+1404,Herr,True,2001,Wolfgang Petry,1
+1405,Mann,True,2001,Wolfgang Petry,1
+1406,Weib,False,2001,Wolfgang Petry,1
+1407,Dame,False,2001,Wolfgang Petry,1
+1408,Dame,False,2001,Wolfgang Petry,1
+1409,Herr,True,2001,Wolfgang Petry,1
+1410,Herr,True,2001,Wolfgang Petry,1
+1411,Herr,True,2001,Wolfgang Petry,1
+1412,Herr,True,2001,Wolfgang Petry,1
+1413,Herr,True,2001,Wolfgang Petry,1
+1414,Herr,True,2001,Wolfgang Petry,1
+1415,Herr,True,2001,Wolfgang Petry,1
+1416,Mann,True,2001,Wolfgang Petry,1
+1417,Mann,True,2001,Wolfgang Petry,1
+1418,Herr,True,2001,Wolfgang Petry,1
+1419,Herr,True,2001,Wolfgang Petry,1
+1420,Herr,True,2001,Wolfgang Petry,1
+1421,Herr,True,2001,Wolfgang Petry,1
+1422,Herr,True,2001,Wolfgang Petry,1
+1423,Herr,True,2001,Wolfgang Petry,1
+1424,Herr,True,2001,Wolfgang Petry,1
+1425,Mann,True,2001,Wolfgang Petry,1
+1426,Mann,True,2001,Wolfgang Petry,1
+1427,Mann,True,2001,Wolfgang Petry,1
+1428,Herr,True,2001,Wolfgang Petry,1
+1429,Mann,True,2001,Wolfgang Petry,1
+1430,Weib,False,2001,Wolfgang Petry,1
+1431,Herr,True,2001,Wolfgang Petry,1
+1432,Herr,True,2001,Wolfgang Petry,1
+1433,Herr,True,2001,Wolfgang Petry,1
+1434,Herr,True,2001,Wolfgang Petry,1
+1435,Herr,True,2001,Wolfgang Petry,1
+1436,Herr,True,2001,Wolfgang Petry,1
+1437,Herr,True,2001,Wolfgang Petry,1
+1438,Mann,True,2001,Wolfgang Petry,1
+1439,Mann,True,2001,Wolfgang Petry,1
+1440,Herr,True,2001,Wolfgang Petry,1
+1441,Mann,True,2001,Wolfgang Petry,1
+1442,Herr,True,2001,Wolfgang Petry,1
+1443,Herr,True,2001,Wolfgang Petry,1
+1444,Herr,True,2001,Wolfgang Petry,1
+1445,Herr,True,2001,Wolfgang Petry,1
+1446,Girl,False,2001,Wolfgang Petry,1
+1447,Girl,False,2001,Wolfgang Petry,1
+1448,Girl,False,2001,Wolfgang Petry,1
+1449,Girl,False,2001,Wolfgang Petry,1
+1450,Girl,False,2001,Wolfgang Petry,1
+1451,Girl,False,2001,Wolfgang Petry,1
+1452,Girl,False,2001,Wolfgang Petry,1
+1453,Mädchen,False,2001,Wolfgang Petry,19
+1454,Mann,True,2001,Wolfgang Petry,13
+1455,Mann,True,2001,Wolfgang Petry,13
+1456,Dame,False,1998,Wolfgang Petry,10
+1457,Mann,True,1998,Wolfgang Petry,10
+1458,Mann,True,1998,Wolfgang Petry,10
+1459,Herr,True,1998,Wolfgang Petry,10
+1460,Herr,True,1998,Wolfgang Petry,10
+1461,Mann,True,1998,Wolfgang Petry,10
+1462,Weib,False,1998,Wolfgang Petry,10
+1463,Dame,False,1998,Wolfgang Petry,10
+1464,Dame,False,1998,Wolfgang Petry,10
+1465,Herr,True,1998,Wolfgang Petry,10
+1466,Herr,True,1998,Wolfgang Petry,10
+1467,Herr,True,1998,Wolfgang Petry,10
+1468,Herr,True,1998,Wolfgang Petry,10
+1469,Herr,True,1998,Wolfgang Petry,10
+1470,Herr,True,1998,Wolfgang Petry,10
+1471,Herr,True,1998,Wolfgang Petry,10
+1472,Mann,True,1998,Wolfgang Petry,10
+1473,Mann,True,1998,Wolfgang Petry,10
+1474,Herr,True,1998,Wolfgang Petry,10
+1475,Herr,True,1998,Wolfgang Petry,10
+1476,Herr,True,1998,Wolfgang Petry,10
+1477,Herr,True,1998,Wolfgang Petry,10
+1478,Herr,True,1998,Wolfgang Petry,10
+1479,Herr,True,1998,Wolfgang Petry,10
+1480,Herr,True,1998,Wolfgang Petry,10
+1481,Mann,True,1998,Wolfgang Petry,10
+1482,Mann,True,1998,Wolfgang Petry,10
+1483,Mann,True,1998,Wolfgang Petry,10
+1484,Herr,True,1998,Wolfgang Petry,10
+1485,Mann,True,1998,Wolfgang Petry,10
+1486,Weib,False,1998,Wolfgang Petry,10
+1487,Herr,True,1998,Wolfgang Petry,10
+1488,Herr,True,1998,Wolfgang Petry,10
+1489,Herr,True,1998,Wolfgang Petry,10
+1490,Herr,True,1998,Wolfgang Petry,10
+1491,Herr,True,1998,Wolfgang Petry,10
+1492,Herr,True,1998,Wolfgang Petry,10
+1493,Herr,True,1998,Wolfgang Petry,10
+1494,Mann,True,1998,Wolfgang Petry,10
+1495,Mann,True,1998,Wolfgang Petry,10
+1496,Herr,True,1998,Wolfgang Petry,10
+1497,Mann,True,1998,Wolfgang Petry,10
+1498,Herr,True,1998,Wolfgang Petry,10
+1499,Herr,True,1998,Wolfgang Petry,10
+1500,Herr,True,1998,Wolfgang Petry,10
+1501,Herr,True,1998,Wolfgang Petry,10
+1502,Dame,False,1998,Wolfgang Petry,7
+1503,Mann,True,1998,Wolfgang Petry,7
+1504,Mann,True,1998,Wolfgang Petry,7
+1505,Herr,True,1998,Wolfgang Petry,7
+1506,Herr,True,1998,Wolfgang Petry,7
+1507,Mann,True,1998,Wolfgang Petry,7
+1508,Weib,False,1998,Wolfgang Petry,7
+1509,Dame,False,1998,Wolfgang Petry,7
+1510,Dame,False,1998,Wolfgang Petry,7
+1511,Herr,True,1998,Wolfgang Petry,7
+1512,Herr,True,1998,Wolfgang Petry,7
+1513,Herr,True,1998,Wolfgang Petry,7
+1514,Herr,True,1998,Wolfgang Petry,7
+1515,Herr,True,1998,Wolfgang Petry,7
+1516,Herr,True,1998,Wolfgang Petry,7
+1517,Herr,True,1998,Wolfgang Petry,7
+1518,Mann,True,1998,Wolfgang Petry,7
+1519,Mann,True,1998,Wolfgang Petry,7
+1520,Herr,True,1998,Wolfgang Petry,7
+1521,Herr,True,1998,Wolfgang Petry,7
+1522,Herr,True,1998,Wolfgang Petry,7
+1523,Herr,True,1998,Wolfgang Petry,7
+1524,Herr,True,1998,Wolfgang Petry,7
+1525,Herr,True,1998,Wolfgang Petry,7
+1526,Herr,True,1998,Wolfgang Petry,7
+1527,Mann,True,1998,Wolfgang Petry,7
+1528,Mann,True,1998,Wolfgang Petry,7
+1529,Mann,True,1998,Wolfgang Petry,7
+1530,Herr,True,1998,Wolfgang Petry,7
+1531,Mann,True,1998,Wolfgang Petry,7
+1532,Weib,False,1998,Wolfgang Petry,7
+1533,Herr,True,1998,Wolfgang Petry,7
+1534,Herr,True,1998,Wolfgang Petry,7
+1535,Herr,True,1998,Wolfgang Petry,7
+1536,Herr,True,1998,Wolfgang Petry,7
+1537,Herr,True,1998,Wolfgang Petry,7
+1538,Herr,True,1998,Wolfgang Petry,7
+1539,Herr,True,1998,Wolfgang Petry,7
+1540,Mann,True,1998,Wolfgang Petry,7
+1541,Mann,True,1998,Wolfgang Petry,7
+1542,Herr,True,1998,Wolfgang Petry,7
+1543,Mann,True,1998,Wolfgang Petry,7
+1544,Herr,True,1998,Wolfgang Petry,7
+1545,Herr,True,1998,Wolfgang Petry,7
+1546,Herr,True,1998,Wolfgang Petry,7
+1547,Herr,True,1998,Wolfgang Petry,7
+1548,Mann,True,1998,Wolfgang Petry,12
+1549,Mann,True,1998,Wolfgang Petry,17
+1550,Mann,True,1997,Wolfgang Petry,3
+1551,Mann,True,1997,Wolfgang Petry,3
+1552,Mann,True,1997,Wolfgang Petry,3
+1553,Dame,False,1996,Wolfgang Petry,3
+1554,Mann,True,1996,Wolfgang Petry,3
+1555,Mann,True,1996,Wolfgang Petry,3
+1556,Herr,True,1996,Wolfgang Petry,3
+1557,Herr,True,1996,Wolfgang Petry,3
+1558,Mann,True,1996,Wolfgang Petry,3
+1559,Weib,False,1996,Wolfgang Petry,3
+1560,Dame,False,1996,Wolfgang Petry,3
+1561,Dame,False,1996,Wolfgang Petry,3
+1562,Herr,True,1996,Wolfgang Petry,3
+1563,Herr,True,1996,Wolfgang Petry,3
+1564,Herr,True,1996,Wolfgang Petry,3
+1565,Herr,True,1996,Wolfgang Petry,3
+1566,Herr,True,1996,Wolfgang Petry,3
+1567,Herr,True,1996,Wolfgang Petry,3
+1568,Herr,True,1996,Wolfgang Petry,3
+1569,Mann,True,1996,Wolfgang Petry,3
+1570,Mann,True,1996,Wolfgang Petry,3
+1571,Herr,True,1996,Wolfgang Petry,3
+1572,Herr,True,1996,Wolfgang Petry,3
+1573,Herr,True,1996,Wolfgang Petry,3
+1574,Herr,True,1996,Wolfgang Petry,3
+1575,Herr,True,1996,Wolfgang Petry,3
+1576,Herr,True,1996,Wolfgang Petry,3
+1577,Herr,True,1996,Wolfgang Petry,3
+1578,Mann,True,1996,Wolfgang Petry,3
+1579,Mann,True,1996,Wolfgang Petry,3
+1580,Mann,True,1996,Wolfgang Petry,3
+1581,Herr,True,1996,Wolfgang Petry,3
+1582,Mann,True,1996,Wolfgang Petry,3
+1583,Weib,False,1996,Wolfgang Petry,3
+1584,Herr,True,1996,Wolfgang Petry,3
+1585,Herr,True,1996,Wolfgang Petry,3
+1586,Herr,True,1996,Wolfgang Petry,3
+1587,Herr,True,1996,Wolfgang Petry,3
+1588,Herr,True,1996,Wolfgang Petry,3
+1589,Herr,True,1996,Wolfgang Petry,3
+1590,Herr,True,1996,Wolfgang Petry,3
+1591,Mann,True,1996,Wolfgang Petry,3
+1592,Mann,True,1996,Wolfgang Petry,3
+1593,Herr,True,1996,Wolfgang Petry,3
+1594,Mann,True,1996,Wolfgang Petry,3
+1595,Herr,True,1996,Wolfgang Petry,3
+1596,Herr,True,1996,Wolfgang Petry,3
+1597,Herr,True,1996,Wolfgang Petry,3
+1598,Herr,True,1996,Wolfgang Petry,3
+1599,Mann,True,1995,Wolfgang Petry,9
+1600,Mann,True,1995,Wolfgang Petry,9
+1601,Mann,True,1995,Wolfgang Petry,9
+1602,Mann,True,1995,Wolfgang Petry,9
+1603,Mann,True,1994,Wolfgang Petry,16
+1604,Mann,True,1994,Wolfgang Petry,21
+1605,Mann,True,1993,Wolfgang Petry,17
+1606,Junge,True,2019,8kids,12
+1607,Junge,True,2019,8kids,12
+1608,Mann,True,2023,ENGST,20
+1609,Junge,True,2020,ENGST,21
+1610,Mann,True,2018,Moop Mama,23
+1611,Mädchen,False,2018,Moop Mama,44
+1612,Mädchen,False,2018,Moop Mama,44
+1613,Mann,True,2018,Moop Mama,29
+1614,Herr,True,2016,Moop Mama,20
+1615,Herr,True,2016,Moop Mama,20
+1616,Herr,True,2016,Moop Mama,20
+1617,Herr,True,2016,Moop Mama,20
+1618,Herr,True,2016,Moop Mama,20
+1619,Herr,True,2016,Moop Mama,20
+1620,Herr,True,2016,Moop Mama,20
+1621,Mann,True,2016,Moop Mama,20
+1622,Mann,True,2016,Moop Mama,20
+1623,Junge,True,2013,Moop Mama,17
+1624,Mädchen,False,2013,Moop Mama,17
+1625,Dame,False,2013,Moop Mama,21
+1626,Mann,True,2019,Dendemann,47
+1627,Mann,True,2019,Dendemann,31
+1628,Mann,True,2019,Dendemann,31
+1629,Mann,True,2019,Dendemann,31
+1630,Mann,True,2019,Dendemann,28
+1631,Mann,True,2021,Das Lumpenpack,44
+1632,Mann,True,2021,Das Lumpenpack,37
+1633,Mann,True,2021,Das Lumpenpack,37
+1634,Mann,True,2021,Das Lumpenpack,31
+1635,Mann,True,2021,Das Lumpenpack,29
+1636,Mädchen,False,2019,Das Lumpenpack,42
+1637,Junge,True,2019,Das Lumpenpack,51
+1638,Herr,True,2006,Prinz Pi,27
+1639,Mann,True,2006,Shiml,24
+1640,Mann,True,2006,Jan Delay,53
+1641,Mann,True,2006,Jan Delay,53
+1642,Mann,True,2006,Jan Delay,53
+1643,Mann,True,2006,Marsimoto,28
+1644,Mann,True,2006,Marsimoto,28
+1645,Mann,True,2006,B-Tight,33
+1646,Mann,True,2006,B-Tight,33
+1647,Mann,True,2006,B-Tight,33
+1648,Mann,True,2005,Curse,25
+1649,Mann,True,2005,Curse,25
+1650,Mann,True,2005,Curse,25
+1651,Junge,True,2005,Curse,25
+1652,Mann,True,2005,Curse,25
+1653,Mann,True,2006,Chakuza,31
+1654,Mann,True,2006,Chakuza,31
+1655,Mann,True,2006,Chakuza,31
+1656,Mann,True,2006,Chakuza,31
+1657,Mann,True,2006,Chakuza,31
+1658,Mann,True,2006,Chakuza,31
+1659,Mann,True,2006,Chakuza,31
+1660,Mann,True,2006,Chakuza,31
+1661,Mann,True,2006,Chakuza,31
+1662,Mann,True,2006,Chakuza,31
+1663,Mann,True,2006,Chakuza,31
+1664,Junge,True,2006,Chakuza,31
+1665,Mann,True,2006,Chakuza,31
+1666,Mann,True,2006,Chakuza,31
+1667,Junge,True,2006,Chakuza,31
+1668,Mann,True,2006,Chakuza,31
+1669,Mann,True,2006,Chakuza,31
+1670,Mann,True,2006,Chakuza,31
+1671,Mann,True,2006,Chakuza,31
+1672,Mann,True,2006,Fler,35
+1673,Lady,False,2006,JAW,16
+1674,Mann,True,2006,JAW,16
+1675,Junge,True,2021,Bushido,45
+1676,Junge,True,2021,Bushido,45
+1677,Junge,True,2021,Bushido,45
+1678,Junge,True,2021,Bushido,45
+1679,Mann,True,2006,Sido,53
+1680,Mann,True,2006,Sido,53
+1681,Mann,True,2006,Sido,53
+1682,Mann,True,2005,Curse,21
+1683,Mann,True,2005,Curse,21
+1684,Mann,True,2005,Curse,21
+1685,Junge,True,2006,Eko Fresh,32
+1686,Junge,True,2006,Fler,34
+1687,Mann,True,2006,Fler,34
+1688,Mann,True,2006,Fler,34
+1689,Mann,True,2006,Fler,34
+1690,Mann,True,2006,Marsimoto,22
+1691,Mann,True,2006,Marsimoto,22
+1692,Mann,True,2006,Saad,24
+1693,Junge,True,2006,Saad,24
+1694,Mann,True,2021,King Orgasmus One,34
+1695,Junge,True,2006,Bushido,31
+1696,Junge,True,2006,Bushido,31
+1697,Junge,True,2006,Bushido,31
+1698,Junge,True,2006,Bushido,31
+1699,Mann,True,2006,Sido,47
+1700,Mann,True,2006,Marsimoto,26
+1701,Junge,True,2006,Eko Fresh,29
+1702,Junge,True,2021,Bushido,37
+1703,Junge,True,2021,Bushido,37
+1704,Junge,True,2021,Bushido,37
+1705,Junge,True,2021,Bushido,37
+1706,Mädchen,False,2021,Bushido,37
+1707,Junge,True,2021,Bushido,37
+1708,Junge,True,2021,Bushido,37
+1709,Mädchen,False,2006,Sido,48
+1710,Mann,True,2006,Sido,48
+1711,Mann,True,2006,Sido,48
+1712,Junge,True,2006,AZAD,30
+1713,Junge,True,2006,AZAD,30
+1714,Junge,True,2006,Eko Fresh,22
+1715,Junge,True,2006,Eko Fresh,22
+1716,Girl,False,2006,Monroe,0
+1717,Junge,True,2006,Fler,19
+1718,Mädchen,False,2006,Fler,19
+1719,Junge,True,2006,Fler,19
+1720,Junge,True,2006,Fler,19
+1721,Junge,True,2006,Fler,19
+1722,Junge,True,2006,Fler,19
+1723,Junge,True,2006,Fler,19
+1724,Junge,True,2006,Fler,19
+1725,Junge,True,2006,Fler,19
+1726,Junge,True,2006,Fler,19
+1727,Junge,True,2006,Fler,19
+1728,Junge,True,2006,Fler,19
+1729,Junge,True,2006,Fler,19
+1730,Junge,True,2006,Fler,19
+1731,Mädchen,False,2006,Fler,19
+1732,Junge,True,2006,Fler,19
+1733,Junge,True,2006,Fler,19
+1734,Junge,True,2006,Fler,19
+1735,Junge,True,2006,Fler,19
+1736,Junge,True,2006,Fler,19
+1737,Junge,True,2006,Fler,19
+1738,Junge,True,2006,Sido,32
+1739,Boy,True,2006,Sido,32
+1740,Mann,True,2006,Sido,35
+1741,Junge,True,2006,Sido,35
+1742,Mann,True,2006,Sido,35
+1743,Junge,True,2006,Sido,35
+1744,Mann,True,2006,Sido,35
+1745,Mann,True,2006,Sido,35
+1746,Mann,True,2006,Sido,35
+1747,Mann,True,2006,Sido,35
+1748,Junge,True,2006,Sido,35
+1749,Mann,True,2006,Sido,35
+1750,Mann,True,2006,Sido,35
+1751,Mann,True,2006,Sido,35
+1752,Junge,True,2006,Sido,35
+1753,Mann,True,2006,Sido,35
+1754,Mann,True,2006,Sido,35
+1755,Mann,True,2006,Sido,35
+1756,Junge,True,2006,Sido,35
+1757,Mann,True,2006,Sido,35
+1758,Mann,True,2006,Sido,35
+1759,Mann,True,2006,Sido,35
+1760,Herr,True,2006,Sido,35
+1761,Mann,True,2006,Sido,35
+1762,Mann,True,2006,Sido,35
+1763,Junge,True,1998,Fünf Sterne deluxe,25
+1764,Herr,True,1998,Fünf Sterne deluxe,41
+1765,Dame,False,2000,Fünf Sterne deluxe,15
+1766,Dame,False,2000,Fünf Sterne deluxe,12
+1767,Mann,True,2000,Fünf Sterne deluxe,14
+1768,Mann,True,2000,Fünf Sterne deluxe,29
+1769,Mann,True,2000,Fünf Sterne deluxe,29
+1770,Madame,False,2000,Fünf Sterne deluxe,18
+1771,Monsieur,True,2000,Fünf Sterne deluxe,18
+1772,Monsieur,True,2000,Fünf Sterne deluxe,18
+1773,Monsieur,True,2000,Fünf Sterne deluxe,18
+1774,Monsieur,True,2000,Fünf Sterne deluxe,18
+1775,Lady,False,2000,Fünf Sterne deluxe,18
+1776,Herr,True,2000,Fünf Sterne deluxe,18
+1777,Herr,True,2000,Fünf Sterne deluxe,18
+1778,Madame,False,2000,Fünf Sterne deluxe,18
+1779,Madame,False,2000,Fünf Sterne deluxe,18
+1780,Madame,False,2000,Fünf Sterne deluxe,18
+1781,Madame,False,2000,Fünf Sterne deluxe,18
+1782,Junge,True,2017,Fünf Sterne deluxe,24
+1783,Junge,True,2017,Fünf Sterne deluxe,24
+1784,Junge,True,2017,Fünf Sterne deluxe,24
+1785,Herr,True,2017,Fünf Sterne deluxe,35
+1786,Herr,True,2017,Fünf Sterne deluxe,24
+1787,Herr,True,2017,Fünf Sterne deluxe,24
+1788,Herr,True,2017,Fünf Sterne deluxe,24
+1789,Mann,True,2017,Fünf Sterne deluxe,20
+1790,Junge,True,2017,Fünf Sterne deluxe,12
+1791,Mann,True,2014,Fünf Sterne deluxe,3
+1792,Mann,True,2014,Fünf Sterne deluxe,3
+1793,Junge,True,2000,Deichkind,55
+1794,Mann,True,2000,Torch,46
+1795,Junge,True,2000,Die Fantastischen Vier,36
+1796,Mann,True,2000,Deichkind,39
+1797,Junge,True,2000,Dynamite Deluxe,42
+1798,Mann,True,2000,Spezializtz,24
+1799,Mann,True,2000,Spezializtz,24
+1800,Mann,True,2000,Tefla & Jaleel,24
+1801,Mann,True,2000,Tefla & Jaleel,24
+1802,Mann,True,2000,Tefla & Jaleel,24
+1803,Mann,True,2000,Tefla & Jaleel,24
+1804,Junge,True,2000,Tefla & Jaleel,24
+1805,Junge,True,2000,Tefla & Jaleel,24
+1806,Mann,True,2000,Tefla & Jaleel,24
+1807,Mann,True,2000,Deichkind,37
+1808,Mann,True,2000,Beginner,29
+1809,Mann,True,2000,D-Flame,36
+1810,Mann,True,2000,Deichkind,40
+1811,Girl,False,2000,Dynamite Deluxe,31
+1812,Girl,False,2000,Dynamite Deluxe,31
+1813,Mister,True,2000,Dynamite Deluxe,31
+1814,Girl,False,2000,Dynamite Deluxe,31
+1815,Mann,True,2014,Spax,17
+1816,Mann,True,2000,Deichkind,28
+1817,Lady,False,2000,Flowin IMMO,14
+1818,Mann,True,2000,D-Flame,32
+1819,Mann,True,2000,D-Flame,32
+1820,Junge,True,2000,Freundeskreis,32
+1821,Junge,True,2000,Freundeskreis,32
+1822,Junge,True,2000,Torch,36
+1823,Mann,True,2000,D-Flame,30
+1824,Mann,True,2000,Torch,30
+1825,Mann,True,2019,Juju,61
+1826,Mann,True,2019,Juju,55
+1827,Mann,True,2019,Juju,47
+1828,Mister,True,2023,San Silvan,31
+1829,Junge,True,2022,Kraftklub,47
+1830,Mann,True,2012,Olli Schulz,52
+1831,Mädchen,False,2012,Olli Schulz,52
+1832,Mann,True,2022,Neufundland,22
+1833,Herr,True,2022,Neufundland,22
+1834,Herr,True,2022,Neufundland,22
+1835,Mann,True,2022,Neufundland,22
+1836,Herr,True,2022,Neufundland,22
+1837,Herr,True,2022,Neufundland,22
+1838,Mann,True,2023,VAN HOLZEN,39
+1839,Junge,True,2023,VAN HOLZEN,39
+1840,Mann,True,2023,VAN HOLZEN,39
+1841,Junge,True,2023,VAN HOLZEN,39
+1842,Junge,True,2023,VAN HOLZEN,39
+1843,Mister,True,2023,VAN HOLZEN,39
+1844,Junge,True,2023,VAN HOLZEN,39
+1845,Herr,True,2023,VAN HOLZEN,39
+1846,Herr,True,2023,VAN HOLZEN,39
+1847,Mann,True,2023,VAN HOLZEN,39
+1848,Mann,True,2023,VAN HOLZEN,39
+1849,Junge,True,2023,VAN HOLZEN,39
+1850,Junge,True,2023,VAN HOLZEN,39
+1851,Mann,True,2023,VAN HOLZEN,39
+1852,Mann,True,2023,VAN HOLZEN,39
+1853,Mann,True,2023,VAN HOLZEN,39
+1854,Mann,True,2023,VAN HOLZEN,39
+1855,Mann,True,2023,VAN HOLZEN,39
+1856,Girl,False,2023,VAN HOLZEN,39
+1857,Mann,True,2023,VAN HOLZEN,39
+1858,Mann,True,2023,VAN HOLZEN,39
+1859,Junge,True,2023,VAN HOLZEN,39
+1860,Junge,True,2023,VAN HOLZEN,39
+1861,Mann,True,2023,VAN HOLZEN,39
+1862,Mann,True,2023,VAN HOLZEN,39
+1863,Lady,False,2023,VAN HOLZEN,39
+1864,Lady,False,2023,VAN HOLZEN,39
+1865,Mann,True,2023,VAN HOLZEN,39
+1866,Mann,True,2023,VAN HOLZEN,39
+1867,Mann,True,2023,VAN HOLZEN,39
+1868,Mann,True,2023,VAN HOLZEN,39
+1869,Junge,True,2006,Tomte,46
+1870,Junge,True,2006,Tomte,46
+1871,Junge,True,2006,Tomte,46
+1872,Junge,True,2006,Tomte,46
+1873,Mann,True,2022,Leftovers,25
+1874,Mädchen,False,2019,Mia Morgan,35
+1875,Mädchen,False,2019,Mia Morgan,35
+1876,Mädchen,False,2019,Mia Morgan,35
+1877,Mann,True,2023,Blond,46
+1878,Boy,True,2023,Blond,46
+1879,Boy,True,2023,Blond,46
+1880,Boy,True,2023,Blond,46
+1881,Boy,True,2023,Blond,46
+1882,Boy,True,2023,Blond,46
+1883,Boy,True,2023,Blond,46
+1884,Boy,True,2023,Blond,46
+1885,Boy,True,2023,Blond,46
+1886,Boy,True,2023,Blond,46
+1887,Boy,True,2023,Blond,46
+1888,Boy,True,2023,Blond,46
+1889,Boy,True,2023,Blond,46
+1890,Boy,True,2023,Blond,46
+1891,Boy,True,2023,Blond,46
+1892,Boy,True,2023,Blond,46
+1893,Boy,True,2023,Blond,46
+1894,Boy,True,2023,Blond,46
+1895,Boy,True,2023,Blond,46
+1896,Boy,True,2023,Blond,46
+1897,Boy,True,2023,Blond,46
+1898,Boy,True,2023,Blond,46
+1899,Boy,True,2023,Blond,46
+1900,Boy,True,2023,Blond,46
+1901,Boy,True,2023,Blond,46
+1902,Mädchen,False,2005,Hund am Strand,46
+1903,Mädchen,False,2005,Hund am Strand,46
+1904,Mädchen,False,2005,Hund am Strand,46
+1905,Mädchen,False,2005,Hund am Strand,46
+1906,Mädchen,False,2005,Hund am Strand,46
+1907,Mädchen,False,2005,Hund am Strand,46
+1908,Mädchen,False,2005,Hund am Strand,46
+1909,Mädchen,False,2005,Hund am Strand,46
+1910,Herr,True,2022,OK KID,50
+1911,Herr,True,2022,OK KID,50
+1912,Herr,True,2022,OK KID,50
+1913,Herr,True,2022,OK KID,50
+1914,Herr,True,2022,OK KID,50
+1915,Herr,True,2022,OK KID,50
+1916,Mann,True,2017,Wanda,28
+1917,Junge,True,2017,Wanda,26
+1918,Mann,True,2017,Wanda,26
+1919,Mann,True,2017,Wanda,26
+1920,Mann,True,2017,Wanda,26
+1921,Mädchen,False,2017,Wanda,26
+1922,Junge,True,2017,Wanda,26
+1923,Mann,True,2017,Wanda,26
+1924,Mädchen,False,2014,Wanda,53
+1925,Mann,True,2022,Wanda,37
+1926,Mann,True,2022,Wanda,37
+1927,Mann,True,2022,Wanda,42
+1928,Mann,True,2022,Wanda,42
+1929,Mann,True,2022,Wanda,42
+1930,Mann,True,2022,Wanda,42
+1931,Mann,True,2022,Wanda,42
+1932,Mann,True,2022,Wanda,42
+1933,Mann,True,2022,Wanda,42
+1934,Mann,True,2022,Wanda,42
+1935,Mann,True,2022,Wanda,42
+1936,Mann,True,2022,Wanda,42
+1937,Mann,True,2022,Wanda,42
+1938,Mann,True,2022,Wanda,42
+1939,Mann,True,2022,Wanda,42
+1940,Mann,True,2022,Wanda,42
+1941,Mann,True,2022,Wanda,42
+1942,Mann,True,1998,Beginner,40
+1943,Mann,True,1998,Beginner,40
+1944,Lady,False,1998,Beginner,41
+1945,Lady,False,1998,Beginner,41
+1946,Mann,True,1998,Beginner,30
+1947,Mister,True,2003,Beginner,31
+1948,Mann,True,2003,Beginner,31
+1949,Mann,True,2003,Beginner,31
+1950,Mann,True,2003,Beginner,32
+1951,Junge,True,2003,Beginner,32
+1952,Mann,True,2003,Beginner,23
+1953,Mann,True,2003,Beginner,23
+1954,Mann,True,2003,Beginner,51
+1955,Mann,True,2003,Beginner,51
+1956,Mann,True,2003,Beginner,51
+1957,Mann,True,2003,Beginner,51
+1958,Mann,True,2003,Beginner,51
+1959,Mann,True,2003,Beginner,51
+1960,Mann,True,2003,Beginner,51
+1961,Mann,True,2003,Beginner,40
+1962,Mann,True,2003,Beginner,21
+1963,Mann,True,2003,Beginner,21
+1964,Mann,True,2003,Beginner,19
+1965,Mann,True,2003,Beginner,19
+1966,Mann,True,2003,Beginner,20
+1967,Mann,True,2003,Beginner,20
+1968,Mann,True,2003,Beginner,44
+1969,Mann,True,2003,Beginner,44
+1970,Mann,True,2003,Beginner,44
+1971,Mann,True,2003,Beginner,44
+1972,Mann,True,2003,Beginner,44
+1973,Mann,True,2003,Beginner,44
+1974,Mann,True,2003,Beginner,44
+1975,Mann,True,2003,Beginner,44
+1976,Herr,True,2003,Beginner,23
+1977,Mann,True,2003,Beginner,20
+1978,Junge,True,2003,Beginner,20
+1979,Mann,True,2003,Beginner,20
+1980,Mann,True,2003,Beginner,21
+1981,Mann,True,2003,Beginner,21
+1982,Mann,True,2003,Beginner,21
+1983,Mann,True,2003,Beginner,21
+1984,Mann,True,2003,Beginner,21
+1985,Mann,True,2003,Beginner,21
+1986,Mann,True,2003,Beginner,21
+1987,Mann,True,2003,Beginner,21
+1988,Mann,True,2003,Beginner,21
+1989,Mann,True,2003,Beginner,21
+1990,Mann,True,2003,Beginner,21
+1991,Mann,True,2003,Beginner,21
+1992,Mann,True,2003,Beginner,21
+1993,Mann,True,2003,Beginner,21
+1994,Mann,True,2016,Beginner,61
+1995,Mann,True,2016,Beginner,44
+1996,Mann,True,2016,Beginner,44
+1997,Mann,True,2016,Beginner,44
+1998,Mann,True,2016,Beginner,36
+1999,Mann,True,2016,Beginner,30
+2000,Mann,True,2016,Beginner,30
+2001,Mann,True,2016,Beginner,30
+2002,Mann,True,2016,Beginner,39
+2003,Herr,True,2016,Beginner,39
+2004,Mann,True,2016,Beginner,32
+2005,Mann,True,2016,Beginner,32
+2006,Mann,True,2016,Beginner,34
+2007,Mann,True,2016,Beginner,32
+2008,Mister,True,2016,Beginner,29
+2009,Mann,True,2016,Beginner,29
+2010,Mann,True,2023,Bonez MC,67
+2011,Mann,True,2023,Bonez MC,67
+2012,Mann,True,2023,Bonez MC,67
+2013,Mann,True,2023,Bonez MC,61
+2014,Mann,True,2023,Bonez MC,61
+2015,Mann,True,2023,Bonez MC,61
+2016,Mann,True,2023,Bonez MC,66
+2017,Mann,True,2023,Bonez MC,66
+2018,Herr,True,2023,Bonez MC,62
+2019,Mädchen,False,2015,Gzuz,66
+2020,Mädchen,False,2015,Gzuz,66
+2021,Mann,True,2015,Gzuz,57
+2022,Mann,True,2015,Gzuz,57
+2023,Mann,True,2015,Gzuz,42
+2024,Mädchen,False,2015,Gzuz,50
+2025,Mann,True,2015,Gzuz,41
+2026,Mann,True,2016,Gzuz,42
+2027,Mann,True,2016,Gzuz,56
+2028,Mädchen,False,2016,Gzuz,56
+2029,Mann,True,2016,Bonez MC,45
+2030,Mann,True,2016,Bonez MC,45
+2031,Mann,True,2016,Bonez MC,45
+2032,Mann,True,2016,Bonez MC,45
+2033,Mann,True,2016,Bonez MC,45
+2034,Mann,True,2016,Gzuz,49
+2035,Mann,True,2016,Gzuz,49
+2036,Mann,True,2016,Gzuz,49
+2037,Mann,True,2016,Gzuz,49
+2038,Mann,True,2016,Gzuz,46
+2039,Mann,True,2016,Gzuz,46
+2040,Mann,True,2016,Gzuz,46
+2041,Mann,True,2016,Gzuz,46
+2042,Mann,True,2016,Gzuz,43
+2043,Mann,True,2016,Gzuz,44
+2044,Mann,True,2016,Gzuz,40
+2045,Mann,True,2016,Gzuz,50
+2046,Mann,True,2016,Gzuz,50
+2047,Mann,True,2014,Gzuz,47
+2048,Mann,True,2014,Gzuz,47
+2049,Mann,True,2014,Gzuz,47
+2050,Mädchen,False,2014,Gzuz,44
+2051,Mann,True,2014,Gzuz,42
+2052,Mann,True,2014,Gzuz,41
+2053,Girl,False,2014,Bonez MC,54
+2054,Mann,True,2014,Gzuz,54
+2055,Herr,True,2014,Gzuz,54
+2056,Mann,True,1993,Megavier,9
+2057,Dame,False,1993,Megavier,9
+2058,Dame,False,1993,Megavier,9
+2059,Mann,True,1993,Megavier,9
+2060,Dame,False,1993,Megavier,9
+2061,Herr,True,1993,Megavier,9
+2062,Dame,False,1993,Megavier,9
+2063,Dame,False,1993,Megavier,9
+2064,Herr,True,1993,Megavier,9
+2065,Fräulein,False,1993,Megavier,9
+2066,Mann,True,1993,Megavier,9
+2067,Dame,False,1993,Megavier,9
+2068,Weib,False,1993,Megavier,9
+2069,Herr,True,1993,Megavier,9
+2070,Junge,True,1993,Megavier,9
+2071,Mann,True,1993,Megavier,9
+2072,Mädchen,False,1993,Megavier,9
+2073,Mädchen,False,1993,Megavier,9
+2074,Weib,False,1993,Megavier,9
+2075,Mann,True,1993,Megavier,9
+2076,Mann,True,1993,Megavier,9
+2077,Mann,True,1993,Megavier,9
+2078,Mann,True,1993,Megavier,9
+2079,Mann,True,1993,Megavier,9
+2080,Mann,True,1993,Megavier,9
+2081,Weib,False,1993,Megavier,9
+2082,Mann,True,1993,Megavier,9
+2083,Weib,False,1993,Megavier,9
+2084,Mann,True,1995,Die Fantastischen Vier,37
+2085,Mann,True,1995,Die Fantastischen Vier,37
+2086,Mann,True,1995,Die Fantastischen Vier,53
+2087,Mann,True,1995,Die Fantastischen Vier,53
+2088,Mann,True,1995,Die Fantastischen Vier,53
+2089,Mann,True,1995,Die Fantastischen Vier,53
+2090,Mann,True,1995,Die Fantastischen Vier,35
+2091,Mann,True,1995,Die Fantastischen Vier,35
+2092,Mann,True,1995,Die Fantastischen Vier,26
+2093,Mann,True,1995,Die Fantastischen Vier,26
+2094,Mann,True,1995,Die Fantastischen Vier,26
+2095,Mann,True,1995,Die Fantastischen Vier,33
+2096,Mann,True,1995,Die Fantastischen Vier,14
+2097,Mann,True,1995,Die Fantastischen Vier,14
+2098,Mann,True,1995,Die Fantastischen Vier,14
+2099,Mann,True,1995,Die Fantastischen Vier,14
+2100,Dame,False,1995,Die Fantastischen Vier,14
+2101,Dame,False,1995,Die Fantastischen Vier,14
+2102,Dame,False,1995,Die Fantastischen Vier,14
+2103,Mann,True,1995,Die Fantastischen Vier,14
+2104,Mann,True,1995,Die Fantastischen Vier,14
+2105,Mann,True,1995,Die Fantastischen Vier,14
+2106,Dame,False,1995,Die Fantastischen Vier,14
+2107,Dame,False,1995,Die Fantastischen Vier,14
+2108,Mann,True,1995,Die Fantastischen Vier,14
+2109,Mädchen,False,1995,Die Fantastischen Vier,14
+2110,Fräulein,False,1995,Die Fantastischen Vier,14
+2111,Mann,True,1995,Die Fantastischen Vier,14
+2112,Mann,True,1995,Die Fantastischen Vier,14
+2113,Mann,True,1995,Die Fantastischen Vier,14
+2114,Mann,True,1995,Die Fantastischen Vier,14
+2115,Mann,True,1995,Die Fantastischen Vier,14
+2116,Mann,True,1995,Die Fantastischen Vier,14
+2117,Mann,True,1995,Die Fantastischen Vier,14
+2118,Mann,True,1995,Die Fantastischen Vier,14
+2119,Mann,True,1995,Die Fantastischen Vier,14
+2120,Mädchen,False,1995,Die Fantastischen Vier,14
+2121,Dame,False,1995,Die Fantastischen Vier,14
+2122,Weib,False,1995,Die Fantastischen Vier,14
+2123,Mädchen,False,1995,Die Fantastischen Vier,14
+2124,Dame,False,1995,Die Fantastischen Vier,14
+2125,Herr,True,1995,Die Fantastischen Vier,14
+2126,Dame,False,1995,Die Fantastischen Vier,14
+2127,Mann,True,1995,Die Fantastischen Vier,14
+2128,Herr,True,1995,Die Fantastischen Vier,14
+2129,Herr,True,1995,Die Fantastischen Vier,14
+2130,Junge,True,1995,Die Fantastischen Vier,14
+2131,Dame,False,1995,Die Fantastischen Vier,14
+2132,Mann,True,1995,Die Fantastischen Vier,14
+2133,Dame,False,1995,Die Fantastischen Vier,14
+2134,Herr,True,1995,Die Fantastischen Vier,14
+2135,Dame,False,1995,Die Fantastischen Vier,14
+2136,Mädchen,False,1995,Die Fantastischen Vier,14
+2137,Mädchen,False,1995,Die Fantastischen Vier,14
+2138,Mann,True,1995,Die Fantastischen Vier,14
+2139,Mädchen,False,1995,Die Fantastischen Vier,14
+2140,Dame,False,1995,Die Fantastischen Vier,14
+2141,Mann,True,1995,Die Fantastischen Vier,14
+2142,Weib,False,1995,Die Fantastischen Vier,14
+2143,Mädchen,False,1995,Die Fantastischen Vier,14
+2144,Mädchen,False,1995,Die Fantastischen Vier,14
+2145,Mann,True,1995,Die Fantastischen Vier,14
+2146,Mädchen,False,1995,Die Fantastischen Vier,14
+2147,Mädchen,False,1995,Die Fantastischen Vier,14
+2148,Dame,False,1995,Die Fantastischen Vier,14
+2149,Mädchen,False,1995,Die Fantastischen Vier,14
+2150,Mädchen,False,1995,Die Fantastischen Vier,14
+2151,Mann,True,1995,Die Fantastischen Vier,14
+2152,Mann,True,1995,Die Fantastischen Vier,14
+2153,Herr,True,1995,Die Fantastischen Vier,14
+2154,Dame,False,1995,Die Fantastischen Vier,14
+2155,Mann,True,1999,Die Fantastischen Vier,21
+2156,Mann,True,1999,Die Fantastischen Vier,21
+2157,Mädchen,False,1999,Die Fantastischen Vier,35
+2158,Mister,True,1999,Die Fantastischen Vier,17
+2159,Mann,True,1999,Die Fantastischen Vier,30
+2160,Mann,True,2004,Die Fantastischen Vier,25
+2161,Mann,True,2004,Die Fantastischen Vier,17
+2162,Mann,True,2004,Die Fantastischen Vier,15
+2163,Girl,False,2004,Die Fantastischen Vier,57
+2164,Mann,True,2007,Die Fantastischen Vier,17
+2165,Mann,True,2007,Die Fantastischen Vier,14
+2166,Mann,True,2007,Die Fantastischen Vier,14
+2167,Mann,True,2009,Die Fantastischen Vier,32
+2168,Mann,True,2009,Die Fantastischen Vier,57
+2169,Mann,True,2009,Die Fantastischen Vier,57
+2170,Mann,True,2009,Die Fantastischen Vier,57
+2171,Mann,True,2009,Die Fantastischen Vier,33
+2172,Mann,True,2009,Die Fantastischen Vier,33
+2173,Mann,True,2009,Die Fantastischen Vier,33
+2174,Mann,True,2009,Die Fantastischen Vier,33
+2175,Mann,True,2009,Die Fantastischen Vier,33
+2176,Mann,True,2009,Die Fantastischen Vier,33
+2177,Mann,True,2009,Die Fantastischen Vier,24
+2178,Mann,True,2009,Die Fantastischen Vier,23
+2179,Junge,True,2009,Die Fantastischen Vier,19
+2180,Mann,True,2009,Die Fantastischen Vier,19
+2181,Mann,True,2009,Die Fantastischen Vier,19
+2182,Mädchen,False,2009,Die Fantastischen Vier,19
+2183,Mann,True,2009,Die Fantastischen Vier,13
+2184,Junge,True,2009,Die Fantastischen Vier,13
+2185,Mann,True,2009,Die Fantastischen Vier,13
+2186,Mann,True,2010,Die Fantastischen Vier,28
+2187,Mädchen,False,2010,Die Fantastischen Vier,16
+2188,Junge,True,2010,Die Fantastischen Vier,16
+2189,Mädchen,False,2010,Die Fantastischen Vier,16
+2190,Junge,True,2010,Die Fantastischen Vier,16
+2191,Mann,True,2010,Die Fantastischen Vier,14
+2192,Mann,True,2010,Die Fantastischen Vier,16
+2193,Mann,True,2010,Die Fantastischen Vier,16
+2194,Mann,True,2014,Die Fantastischen Vier,11
+2195,Mann,True,2014,Die Fantastischen Vier,11
+2196,Mann,True,2014,Die Fantastischen Vier,11
+2197,Mann,True,2014,Die Fantastischen Vier,11
+2198,Mann,True,2014,Die Fantastischen Vier,11
+2199,Junge,True,2014,Die Fantastischen Vier,11
+2200,Mann,True,2014,Die Fantastischen Vier,11
+2201,Mann,True,2014,Die Fantastischen Vier,11
+2202,Mann,True,2014,Die Fantastischen Vier,11
+2203,Mann,True,2014,Die Fantastischen Vier,11
+2204,Mann,True,2014,Die Fantastischen Vier,9
+2205,Mann,True,2014,Die Fantastischen Vier,9
+2206,Mann,True,2014,Die Fantastischen Vier,9
+2207,Mann,True,2014,Die Fantastischen Vier,9
+2208,Mann,True,2014,Die Fantastischen Vier,9
+2209,Mann,True,2014,Die Fantastischen Vier,9
+2210,Mann,True,2014,Die Fantastischen Vier,9
+2211,Mann,True,2014,Die Fantastischen Vier,9
+2212,Mann,True,2014,Die Fantastischen Vier,9
+2213,Mann,True,2014,Die Fantastischen Vier,9
+2214,Mann,True,2014,Die Fantastischen Vier,9
+2215,Mann,True,2014,Die Fantastischen Vier,9
+2216,Mann,True,2014,Die Fantastischen Vier,9
+2217,Mann,True,2014,Die Fantastischen Vier,9
+2218,Mann,True,2014,Die Fantastischen Vier,9
+2219,Mann,True,2014,Die Fantastischen Vier,9
+2220,Mann,True,2014,Die Fantastischen Vier,9
+2221,Mann,True,2014,Die Fantastischen Vier,9
+2222,Mann,True,2014,Die Fantastischen Vier,9
+2223,Mann,True,2014,Die Fantastischen Vier,9
+2224,Mann,True,2014,Die Fantastischen Vier,9
+2225,Mann,True,2014,Die Fantastischen Vier,6
+2226,Junge,True,2014,Die Fantastischen Vier,8
+2227,Junge,True,2018,Die Fantastischen Vier,38
+2228,Junge,True,2018,Die Fantastischen Vier,38
+2229,Mann,True,2018,Die Fantastischen Vier,38
+2230,Mann,True,2018,Die Fantastischen Vier,38
+2231,Mann,True,2018,Die Fantastischen Vier,48
+2232,Mann,True,2018,Die Fantastischen Vier,48
+2233,Herr,True,2018,Die Fantastischen Vier,29
+2234,Herr,True,2018,Die Fantastischen Vier,29
+2235,Herr,True,2018,Die Fantastischen Vier,29
+2236,Herr,True,2018,Die Fantastischen Vier,29
+2237,Herr,True,2018,Die Fantastischen Vier,29
+2238,Mann,True,2018,Die Fantastischen Vier,22
+2239,Mann,True,2018,Die Fantastischen Vier,18
+2240,Mann,True,2018,Die Fantastischen Vier,18
+2241,Mann,True,2018,Die Fantastischen Vier,18
+2242,Mann,True,2018,Die Fantastischen Vier,18
+2243,Herr,True,2018,Die Fantastischen Vier,19
+2244,Herr,True,2018,Die Fantastischen Vier,19
+2245,Mister,True,2011,Fatoni,12
+2246,Mann,True,2011,Fatoni,10
+2247,Mann,True,2011,Fatoni,10
+2248,Mann,True,2011,Fatoni,15
+2249,Mann,True,2011,Fatoni,12
+2250,Mann,True,2013,Fatoni,15
+2251,Mann,True,2013,Fatoni,15
+2252,Mädchen,False,2013,Fatoni,15
+2253,Mann,True,2013,Fatoni,24
+2254,Mädchen,False,2013,Fatoni,24
+2255,Mann,True,2013,Fatoni,13
+2256,Mann,True,2013,Fatoni,13
+2257,Mann,True,2013,Fatoni,15
+2258,Mann,True,2013,Fatoni,18
+2259,Junge,True,2013,Fatoni,13
+2260,Junge,True,2013,Fatoni,13
+2261,Junge,True,2013,Fatoni,13
+2262,Mann,True,2013,Fatoni,17
+2263,Mann,True,2013,Fatoni,16
+2264,Mann,True,2013,Fatoni,16
+2265,Mädchen,False,2013,Fatoni,16
+2266,Mann,True,2014,Fatoni,20
+2267,Mann,True,2014,Fatoni,20
+2268,Mann,True,2014,Fatoni,20
+2269,Mann,True,2014,Fatoni,20
+2270,Mann,True,2014,Fatoni,20
+2271,Mann,True,2014,Fatoni,8
+2272,Mädchen,False,2015,Fatoni,38
+2273,Mädchen,False,2015,Fatoni,32
+2274,Mädchen,False,2015,Fatoni,29
+2275,Mann,True,2015,Fatoni,21
+2276,Mann,True,2015,Fatoni,19
+2277,Weib,False,2015,Fatoni,22
+2278,Mann,True,2017,Fatoni,18
+2279,Mann,True,2017,Fatoni,18
+2280,Mann,True,2017,Fatoni,18
+2281,Mann,True,2017,Fatoni,10
+2282,Mann,True,2017,Fatoni,28
+2283,Mädchen,False,2017,Fatoni,28
+2284,Mann,True,2017,Fatoni,20
+2285,Mann,True,2017,Fatoni,20
+2286,Mann,True,2017,Fatoni,20
+2287,Mann,True,2017,Mine,47
+2288,Mann,True,2017,Mine,29
+2289,Mann,True,2017,Mine,29
+2290,Mann,True,2017,Mine,29
+2291,Mann,True,2017,Mine,30
+2292,Mann,True,2017,Mine,30
+2293,Mann,True,2017,Mine,30
+2294,Mann,True,2019,Fatoni,29
+2295,Mann,True,2019,Fatoni,29
+2296,Mann,True,2019,Fatoni,29
+2297,Mann,True,2019,Fatoni,29
+2298,Mann,True,2019,Fatoni,23
+2299,Mann,True,2019,Fatoni,21
+2300,Mann,True,2019,Fatoni,21
+2301,Mann,True,2019,Fatoni,21
+2302,Mann,True,2021,Fatoni,36
+2303,Mann,True,2021,Fatoni,36
+2304,Mann,True,2021,Fatoni,25
+2305,Mädchen,False,2023,Fatoni,41
+2306,Herr,True,2023,Fatoni,39
+2307,Mädchen,False,2023,Fatoni,39
+2308,Mädchen,False,2023,Fatoni,40
+2309,Mann,True,2023,Fatoni,41
+2310,Mann,True,2004,Max Herre,25
+2311,Junge,True,2004,Max Herre,18
+2312,Junge,True,2004,Max Herre,18
+2313,Junge,True,2004,Max Herre,18
+2314,Junge,True,2004,Max Herre,18
+2315,Junge,True,2004,Max Herre,18
+2316,Junge,True,2004,Max Herre,18
+2317,Mädchen,False,2004,Max Herre,11
+2318,Junge,True,2004,Max Herre,14
+2319,Junge,True,2004,Max Herre,14
+2320,Mädchen,False,2004,Max Herre,23
+2321,Mann,True,2004,Max Herre,23
+2322,Mann,True,2004,Max Herre,9
+2323,Mann,True,2004,Max Herre,9
+2324,Mann,True,2004,Max Herre,9
+2325,Mann,True,2004,Max Herre,9
+2326,Lady,False,2004,Max,14
+2327,Mädchen,False,2004,Max,14
+2328,Mädchen,False,2009,Max Herre,8
+2329,Mädchen,False,2009,Max Herre,8
+2330,Mädchen,False,2009,Max Herre,8
+2331,Mann,True,2012,Max Herre,11
+2332,Mann,True,2012,Max Herre,6
+2333,Mädchen,False,2012,Max Herre,14
+2334,Mädchen,False,2012,Max Herre,14
+2335,Mädchen,False,2012,Max Herre,14
+2336,Mädchen,False,2012,Max Herre,14
+2337,Mädchen,False,2012,Max Herre,14
+2338,Junge,True,2012,Max Herre,6
+2339,Mann,True,2012,Max Herre,6
+2340,Gefährte,True,2012,Max Herre,8
+2341,Junge,True,2012,Max Herre,4
+2342,Mann,True,2012,Max Herre,4
+2343,Junge,True,2012,Max Herre,4
+2344,Mann,True,2012,Max Herre,10
+2345,Mann,True,2012,Max Herre,10
+2346,Junge,True,2012,Max Herre,10
+2347,Junge,True,2012,Max Herre,11
+2348,Mann,True,2019,Max Herre,23
+2349,Herr,True,2019,Max Herre,30
+2350,Junge,True,2019,Max Herre,29
+2351,Junge,True,2019,Max Herre,27
+2352,Mann,True,2019,Max Herre,24
+2353,Mann,True,2023,Trettmann,55
+2354,Mann,True,2019,Trettmann,42
+2355,Junge,True,2017,Trettmann,43
+2356,Junge,True,2017,Trettmann,43
+2357,Junge,True,2017,Trettmann,52
+2358,Mann,True,2017,Trettmann,52
+2359,Mister,True,1997,Blumentopf,18
+2360,Mann,True,1997,Blumentopf,18
+2361,Mädchen,False,1997,Blumentopf,16
+2362,Mädchen,False,1997,Blumentopf,19
+2363,Mädchen,False,1997,Blumentopf,19
+2364,Mädchen,False,1997,Blumentopf,19
+2365,Dame,False,1997,Blumentopf,21
+2366,Herr,True,1997,Blumentopf,21
+2367,Mann,True,1997,Blumentopf,21
+2368,Mädchen,False,1997,Blumentopf,21
+2369,Dame,False,1997,Blumentopf,21
+2370,Dame,False,1997,Blumentopf,21
+2371,Mann,True,1997,Blumentopf,21
+2372,Weib,False,1997,Blumentopf,21
+2373,Weib,False,1997,Blumentopf,21
+2374,Mann,True,1997,Blumentopf,21
+2375,Dame,False,1997,Blumentopf,21
+2376,Mann,True,1997,Blumentopf,21
+2377,Mädchen,False,1997,Blumentopf,21
+2378,Mädchen,False,1997,Blumentopf,21
+2379,Mann,True,1997,Blumentopf,21
+2380,Mann,True,1997,Blumentopf,21
+2381,Mann,True,1997,Blumentopf,21
+2382,Dame,False,1997,Blumentopf,21
+2383,Dame,False,1997,Blumentopf,21
+2384,Mann,True,1997,Blumentopf,21
+2385,Mann,True,1997,Blumentopf,21
+2386,Dame,False,1997,Blumentopf,21
+2387,Mann,True,1997,Blumentopf,21
+2388,Weib,False,1997,Blumentopf,21
+2389,Dame,False,1997,Blumentopf,21
+2390,Mädchen,False,1997,Blumentopf,21
+2391,Mädchen,False,1997,Blumentopf,21
+2392,Mädchen,False,1997,Blumentopf,21
+2393,Mann,True,1997,Blumentopf,21
+2394,Mann,True,1997,Blumentopf,21
+2395,Mann,True,1997,Blumentopf,21
+2396,Mann,True,1997,Blumentopf,21
+2397,Mann,True,1997,Blumentopf,21
+2398,Dame,False,1997,Blumentopf,21
+2399,Mann,True,1997,Blumentopf,21
+2400,Mann,True,1997,Blumentopf,21
+2401,Weib,False,1997,Blumentopf,21
+2402,Mann,True,1997,Blumentopf,21
+2403,Dame,False,1997,Blumentopf,21
+2404,Mann,True,1997,Blumentopf,21
+2405,Mädchen,False,1997,Blumentopf,21
+2406,Mädchen,False,1997,Blumentopf,21
+2407,Mann,True,1997,Blumentopf,21
+2408,Mann,True,1997,Blumentopf,21
+2409,Mann,True,1997,Blumentopf,21
+2410,Mann,True,1997,Blumentopf,21
+2411,Mann,True,1997,Blumentopf,21
+2412,Mann,True,1997,Blumentopf,21
+2413,Mädchen,False,1997,Blumentopf,21
+2414,Mann,True,1997,Blumentopf,21
+2415,Mädchen,False,1997,Blumentopf,21
+2416,Mann,True,1997,Blumentopf,21
+2417,Mädchen,False,1997,Blumentopf,21
+2418,Mann,True,1997,Blumentopf,21
+2419,Herr,True,1997,Blumentopf,21
+2420,Dame,False,1997,Blumentopf,21
+2421,Mädchen,False,1997,Blumentopf,21
+2422,Mann,True,1997,Blumentopf,21
+2423,Herr,True,1997,Blumentopf,21
+2424,Dame,False,1997,Blumentopf,21
+2425,Dame,False,1997,Blumentopf,21
+2426,Dame,False,1997,Blumentopf,21
+2427,Weib,False,1997,Blumentopf,21
+2428,Weib,False,1997,Blumentopf,21
+2429,Dame,False,1997,Blumentopf,21
+2430,Weib,False,1997,Blumentopf,21
+2431,Dame,False,1997,Blumentopf,21
+2432,Dame,False,1997,Blumentopf,21
+2433,Dame,False,1997,Blumentopf,21
+2434,Dame,False,1997,Blumentopf,21
+2435,Ehefrau,False,1997,Blumentopf,21
+2436,Mädchen,False,1997,Blumentopf,21
+2437,Mädchen,False,1997,Blumentopf,21
+2438,Mann,True,1997,Blumentopf,21
+2439,Dame,False,1997,Blumentopf,21
+2440,Mann,True,1997,Blumentopf,21
+2441,Mann,True,1997,Blumentopf,21
+2442,Weib,False,1997,Blumentopf,21
+2443,Mann,True,1997,Blumentopf,21
+2444,Gatte,True,1997,Blumentopf,21
+2445,Gatte,True,1997,Blumentopf,21
+2446,Mann,True,1997,Blumentopf,21
+2447,Dame,False,1997,Blumentopf,21
+2448,Mann,True,1997,Blumentopf,21
+2449,Mann,True,1997,Blumentopf,21
+2450,Mädchen,False,1997,Blumentopf,21
+2451,Mädchen,False,1997,Blumentopf,21
+2452,Fräulein,False,1997,Blumentopf,21
+2453,Weib,False,1997,Blumentopf,21
+2454,Dame,False,1997,Blumentopf,21
+2455,Dame,False,1997,Blumentopf,21
+2456,Dame,False,1997,Blumentopf,21
+2457,Dame,False,1997,Blumentopf,21
+2458,Mann,True,1997,Blumentopf,21
+2459,Mann,True,1997,Blumentopf,21
+2460,Mann,True,1997,Blumentopf,21
+2461,Mann,True,1997,Blumentopf,21
+2462,Mädchen,False,1997,Blumentopf,21
+2463,Dame,False,1997,Blumentopf,21
+2464,Mädchen,False,1997,Blumentopf,21
+2465,Mädchen,False,1997,Blumentopf,21
+2466,Dame,False,1997,Blumentopf,21
+2467,Dame,False,1997,Blumentopf,21
+2468,Mann,True,1997,Blumentopf,21
+2469,Mann,True,1997,Blumentopf,21
+2470,Mann,True,1997,Blumentopf,21
+2471,Dame,False,1997,Blumentopf,21
+2472,Herr,True,1997,Blumentopf,21
+2473,Herr,True,1997,Blumentopf,21
+2474,Herr,True,1997,Blumentopf,21
+2475,Herr,True,1997,Blumentopf,21
+2476,Mann,True,1997,Blumentopf,21
+2477,Mann,True,1997,Blumentopf,21
+2478,Herr,True,1997,Blumentopf,21
+2479,Herr,True,1997,Blumentopf,21
+2480,Herr,True,1997,Blumentopf,21
+2481,Mann,True,1997,Blumentopf,21
+2482,Herr,True,1997,Blumentopf,21
+2483,Mann,True,1997,Blumentopf,21
+2484,Mädchen,False,1997,Blumentopf,21
+2485,Mann,True,1997,Blumentopf,21
+2486,Mädchen,False,1997,Blumentopf,21
+2487,Mädchen,False,1997,Blumentopf,21
+2488,Mann,True,1997,Blumentopf,21
+2489,Dame,False,1997,Blumentopf,21
+2490,Mädchen,False,1997,Blumentopf,21
+2491,Dame,False,1997,Blumentopf,21
+2492,Mädchen,False,1997,Blumentopf,21
+2493,Mann,True,1997,Blumentopf,21
+2494,Mann,True,1997,Blumentopf,21
+2495,Dame,False,1997,Blumentopf,21
+2496,Mann,True,1997,Blumentopf,21
+2497,Dame,False,1997,Blumentopf,21
+2498,Mann,True,1997,Blumentopf,21
+2499,Mann,True,1997,Blumentopf,21
+2500,Mann,True,1997,Blumentopf,21
+2501,Dame,False,1997,Blumentopf,21
+2502,Mann,True,1997,Blumentopf,21
+2503,Herr,True,1997,Blumentopf,21
+2504,Herr,True,1997,Blumentopf,21
+2505,Herr,True,1997,Blumentopf,21
+2506,Dame,False,1997,Blumentopf,21
+2507,Mann,True,1997,Blumentopf,21
+2508,Herr,True,1997,Blumentopf,21
+2509,Mann,True,1997,Blumentopf,21
+2510,Herr,True,1997,Blumentopf,21
+2511,Herr,True,1997,Blumentopf,21
+2512,Herr,True,1997,Blumentopf,21
+2513,Mann,True,1997,Blumentopf,21
+2514,Mädchen,False,1997,Blumentopf,21
+2515,Mann,True,1997,Blumentopf,21
+2516,Herr,True,1997,Blumentopf,21
+2517,Dame,False,1997,Blumentopf,21
+2518,Mann,True,1997,Blumentopf,21
+2519,Dame,False,1997,Blumentopf,14
+2520,Herr,True,1997,Blumentopf,14
+2521,Mann,True,1997,Blumentopf,14
+2522,Mädchen,False,1997,Blumentopf,14
+2523,Dame,False,1997,Blumentopf,14
+2524,Dame,False,1997,Blumentopf,14
+2525,Mann,True,1997,Blumentopf,14
+2526,Weib,False,1997,Blumentopf,14
+2527,Weib,False,1997,Blumentopf,14
+2528,Mann,True,1997,Blumentopf,14
+2529,Dame,False,1997,Blumentopf,14
+2530,Mann,True,1997,Blumentopf,14
+2531,Mädchen,False,1997,Blumentopf,14
+2532,Mädchen,False,1997,Blumentopf,14
+2533,Mann,True,1997,Blumentopf,14
+2534,Mann,True,1997,Blumentopf,14
+2535,Mann,True,1997,Blumentopf,14
+2536,Dame,False,1997,Blumentopf,14
+2537,Dame,False,1997,Blumentopf,14
+2538,Mann,True,1997,Blumentopf,14
+2539,Mann,True,1997,Blumentopf,14
+2540,Dame,False,1997,Blumentopf,14
+2541,Mann,True,1997,Blumentopf,14
+2542,Weib,False,1997,Blumentopf,14
+2543,Dame,False,1997,Blumentopf,14
+2544,Mädchen,False,1997,Blumentopf,14
+2545,Mädchen,False,1997,Blumentopf,14
+2546,Mädchen,False,1997,Blumentopf,14
+2547,Mann,True,1997,Blumentopf,14
+2548,Mann,True,1997,Blumentopf,14
+2549,Mann,True,1997,Blumentopf,14
+2550,Mann,True,1997,Blumentopf,14
+2551,Mann,True,1997,Blumentopf,14
+2552,Dame,False,1997,Blumentopf,14
+2553,Mann,True,1997,Blumentopf,14
+2554,Mann,True,1997,Blumentopf,14
+2555,Weib,False,1997,Blumentopf,14
+2556,Mann,True,1997,Blumentopf,14
+2557,Dame,False,1997,Blumentopf,14
+2558,Mann,True,1997,Blumentopf,14
+2559,Mädchen,False,1997,Blumentopf,14
+2560,Mädchen,False,1997,Blumentopf,14
+2561,Mann,True,1997,Blumentopf,14
+2562,Mann,True,1997,Blumentopf,14
+2563,Mann,True,1997,Blumentopf,14
+2564,Mann,True,1997,Blumentopf,14
+2565,Mann,True,1997,Blumentopf,14
+2566,Mann,True,1997,Blumentopf,14
+2567,Mädchen,False,1997,Blumentopf,14
+2568,Mann,True,1997,Blumentopf,14
+2569,Mädchen,False,1997,Blumentopf,14
+2570,Mann,True,1997,Blumentopf,14
+2571,Mädchen,False,1997,Blumentopf,14
+2572,Mann,True,1997,Blumentopf,14
+2573,Herr,True,1997,Blumentopf,14
+2574,Dame,False,1997,Blumentopf,14
+2575,Mädchen,False,1997,Blumentopf,14
+2576,Mann,True,1997,Blumentopf,14
+2577,Herr,True,1997,Blumentopf,14
+2578,Dame,False,1997,Blumentopf,14
+2579,Dame,False,1997,Blumentopf,14
+2580,Dame,False,1997,Blumentopf,14
+2581,Weib,False,1997,Blumentopf,14
+2582,Weib,False,1997,Blumentopf,14
+2583,Dame,False,1997,Blumentopf,14
+2584,Weib,False,1997,Blumentopf,14
+2585,Dame,False,1997,Blumentopf,14
+2586,Dame,False,1997,Blumentopf,14
+2587,Dame,False,1997,Blumentopf,14
+2588,Dame,False,1997,Blumentopf,14
+2589,Ehefrau,False,1997,Blumentopf,14
+2590,Mädchen,False,1997,Blumentopf,14
+2591,Mädchen,False,1997,Blumentopf,14
+2592,Mann,True,1997,Blumentopf,14
+2593,Dame,False,1997,Blumentopf,14
+2594,Mann,True,1997,Blumentopf,14
+2595,Mann,True,1997,Blumentopf,14
+2596,Weib,False,1997,Blumentopf,14
+2597,Mann,True,1997,Blumentopf,14
+2598,Gatte,True,1997,Blumentopf,14
+2599,Gatte,True,1997,Blumentopf,14
+2600,Mann,True,1997,Blumentopf,14
+2601,Dame,False,1997,Blumentopf,14
+2602,Mann,True,1997,Blumentopf,14
+2603,Mann,True,1997,Blumentopf,14
+2604,Mädchen,False,1997,Blumentopf,14
+2605,Mädchen,False,1997,Blumentopf,14
+2606,Fräulein,False,1997,Blumentopf,14
+2607,Weib,False,1997,Blumentopf,14
+2608,Dame,False,1997,Blumentopf,14
+2609,Dame,False,1997,Blumentopf,14
+2610,Dame,False,1997,Blumentopf,14
+2611,Dame,False,1997,Blumentopf,14
+2612,Mann,True,1997,Blumentopf,14
+2613,Mann,True,1997,Blumentopf,14
+2614,Mann,True,1997,Blumentopf,14
+2615,Mann,True,1997,Blumentopf,14
+2616,Mädchen,False,1997,Blumentopf,14
+2617,Dame,False,1997,Blumentopf,14
+2618,Mädchen,False,1997,Blumentopf,14
+2619,Mädchen,False,1997,Blumentopf,14
+2620,Dame,False,1997,Blumentopf,14
+2621,Dame,False,1997,Blumentopf,14
+2622,Mann,True,1997,Blumentopf,14
+2623,Mann,True,1997,Blumentopf,14
+2624,Mann,True,1997,Blumentopf,14
+2625,Dame,False,1997,Blumentopf,14
+2626,Herr,True,1997,Blumentopf,14
+2627,Herr,True,1997,Blumentopf,14
+2628,Herr,True,1997,Blumentopf,14
+2629,Herr,True,1997,Blumentopf,14
+2630,Mann,True,1997,Blumentopf,14
+2631,Mann,True,1997,Blumentopf,14
+2632,Herr,True,1997,Blumentopf,14
+2633,Herr,True,1997,Blumentopf,14
+2634,Herr,True,1997,Blumentopf,14
+2635,Mann,True,1997,Blumentopf,14
+2636,Herr,True,1997,Blumentopf,14
+2637,Mann,True,1997,Blumentopf,14
+2638,Mädchen,False,1997,Blumentopf,14
+2639,Mann,True,1997,Blumentopf,14
+2640,Mädchen,False,1997,Blumentopf,14
+2641,Mädchen,False,1997,Blumentopf,14
+2642,Mann,True,1997,Blumentopf,14
+2643,Dame,False,1997,Blumentopf,14
+2644,Mädchen,False,1997,Blumentopf,14
+2645,Dame,False,1997,Blumentopf,14
+2646,Mädchen,False,1997,Blumentopf,14
+2647,Mann,True,1997,Blumentopf,14
+2648,Mann,True,1997,Blumentopf,14
+2649,Dame,False,1997,Blumentopf,14
+2650,Mann,True,1997,Blumentopf,14
+2651,Dame,False,1997,Blumentopf,14
+2652,Mann,True,1997,Blumentopf,14
+2653,Mann,True,1997,Blumentopf,14
+2654,Mann,True,1997,Blumentopf,14
+2655,Dame,False,1997,Blumentopf,14
+2656,Mann,True,1997,Blumentopf,14
+2657,Herr,True,1997,Blumentopf,14
+2658,Herr,True,1997,Blumentopf,14
+2659,Herr,True,1997,Blumentopf,14
+2660,Dame,False,1997,Blumentopf,14
+2661,Mann,True,1997,Blumentopf,14
+2662,Herr,True,1997,Blumentopf,14
+2663,Mann,True,1997,Blumentopf,14
+2664,Herr,True,1997,Blumentopf,14
+2665,Herr,True,1997,Blumentopf,14
+2666,Herr,True,1997,Blumentopf,14
+2667,Mann,True,1997,Blumentopf,14
+2668,Mädchen,False,1997,Blumentopf,14
+2669,Mann,True,1997,Blumentopf,14
+2670,Herr,True,1997,Blumentopf,14
+2671,Dame,False,1997,Blumentopf,14
+2672,Mann,True,1997,Blumentopf,14
+2673,Mädchen,False,1997,Blumentopf,38
+2674,Mädchen,False,1997,Blumentopf,16
+2675,Mädchen,False,1997,Blumentopf,16
+2676,Dame,False,1997,Blumentopf,12
+2677,Herr,True,1997,Blumentopf,12
+2678,Mann,True,1997,Blumentopf,12
+2679,Mädchen,False,1997,Blumentopf,12
+2680,Dame,False,1997,Blumentopf,12
+2681,Dame,False,1997,Blumentopf,12
+2682,Mann,True,1997,Blumentopf,12
+2683,Weib,False,1997,Blumentopf,12
+2684,Weib,False,1997,Blumentopf,12
+2685,Mann,True,1997,Blumentopf,12
+2686,Dame,False,1997,Blumentopf,12
+2687,Mann,True,1997,Blumentopf,12
+2688,Mädchen,False,1997,Blumentopf,12
+2689,Mädchen,False,1997,Blumentopf,12
+2690,Mann,True,1997,Blumentopf,12
+2691,Mann,True,1997,Blumentopf,12
+2692,Mann,True,1997,Blumentopf,12
+2693,Dame,False,1997,Blumentopf,12
+2694,Dame,False,1997,Blumentopf,12
+2695,Mann,True,1997,Blumentopf,12
+2696,Mann,True,1997,Blumentopf,12
+2697,Dame,False,1997,Blumentopf,12
+2698,Mann,True,1997,Blumentopf,12
+2699,Weib,False,1997,Blumentopf,12
+2700,Dame,False,1997,Blumentopf,12
+2701,Mädchen,False,1997,Blumentopf,12
+2702,Mädchen,False,1997,Blumentopf,12
+2703,Mädchen,False,1997,Blumentopf,12
+2704,Mann,True,1997,Blumentopf,12
+2705,Mann,True,1997,Blumentopf,12
+2706,Mann,True,1997,Blumentopf,12
+2707,Mann,True,1997,Blumentopf,12
+2708,Mann,True,1997,Blumentopf,12
+2709,Dame,False,1997,Blumentopf,12
+2710,Mann,True,1997,Blumentopf,12
+2711,Mann,True,1997,Blumentopf,12
+2712,Weib,False,1997,Blumentopf,12
+2713,Mann,True,1997,Blumentopf,12
+2714,Dame,False,1997,Blumentopf,12
+2715,Mann,True,1997,Blumentopf,12
+2716,Mädchen,False,1997,Blumentopf,12
+2717,Mädchen,False,1997,Blumentopf,12
+2718,Mann,True,1997,Blumentopf,12
+2719,Mann,True,1997,Blumentopf,12
+2720,Mann,True,1997,Blumentopf,12
+2721,Mann,True,1997,Blumentopf,12
+2722,Mann,True,1997,Blumentopf,12
+2723,Mann,True,1997,Blumentopf,12
+2724,Mädchen,False,1997,Blumentopf,12
+2725,Mann,True,1997,Blumentopf,12
+2726,Mädchen,False,1997,Blumentopf,12
+2727,Mann,True,1997,Blumentopf,12
+2728,Mädchen,False,1997,Blumentopf,12
+2729,Mann,True,1997,Blumentopf,12
+2730,Herr,True,1997,Blumentopf,12
+2731,Dame,False,1997,Blumentopf,12
+2732,Mädchen,False,1997,Blumentopf,12
+2733,Mann,True,1997,Blumentopf,12
+2734,Herr,True,1997,Blumentopf,12
+2735,Dame,False,1997,Blumentopf,12
+2736,Dame,False,1997,Blumentopf,12
+2737,Dame,False,1997,Blumentopf,12
+2738,Weib,False,1997,Blumentopf,12
+2739,Weib,False,1997,Blumentopf,12
+2740,Dame,False,1997,Blumentopf,12
+2741,Weib,False,1997,Blumentopf,12
+2742,Dame,False,1997,Blumentopf,12
+2743,Dame,False,1997,Blumentopf,12
+2744,Dame,False,1997,Blumentopf,12
+2745,Dame,False,1997,Blumentopf,12
+2746,Ehefrau,False,1997,Blumentopf,12
+2747,Mädchen,False,1997,Blumentopf,12
+2748,Mädchen,False,1997,Blumentopf,12
+2749,Mann,True,1997,Blumentopf,12
+2750,Dame,False,1997,Blumentopf,12
+2751,Mann,True,1997,Blumentopf,12
+2752,Mann,True,1997,Blumentopf,12
+2753,Weib,False,1997,Blumentopf,12
+2754,Mann,True,1997,Blumentopf,12
+2755,Gatte,True,1997,Blumentopf,12
+2756,Gatte,True,1997,Blumentopf,12
+2757,Mann,True,1997,Blumentopf,12
+2758,Dame,False,1997,Blumentopf,12
+2759,Mann,True,1997,Blumentopf,12
+2760,Mann,True,1997,Blumentopf,12
+2761,Mädchen,False,1997,Blumentopf,12
+2762,Mädchen,False,1997,Blumentopf,12
+2763,Fräulein,False,1997,Blumentopf,12
+2764,Weib,False,1997,Blumentopf,12
+2765,Dame,False,1997,Blumentopf,12
+2766,Dame,False,1997,Blumentopf,12
+2767,Dame,False,1997,Blumentopf,12
+2768,Dame,False,1997,Blumentopf,12
+2769,Mann,True,1997,Blumentopf,12
+2770,Mann,True,1997,Blumentopf,12
+2771,Mann,True,1997,Blumentopf,12
+2772,Mann,True,1997,Blumentopf,12
+2773,Mädchen,False,1997,Blumentopf,12
+2774,Dame,False,1997,Blumentopf,12
+2775,Mädchen,False,1997,Blumentopf,12
+2776,Mädchen,False,1997,Blumentopf,12
+2777,Dame,False,1997,Blumentopf,12
+2778,Dame,False,1997,Blumentopf,12
+2779,Mann,True,1997,Blumentopf,12
+2780,Mann,True,1997,Blumentopf,12
+2781,Mann,True,1997,Blumentopf,12
+2782,Dame,False,1997,Blumentopf,12
+2783,Herr,True,1997,Blumentopf,12
+2784,Herr,True,1997,Blumentopf,12
+2785,Herr,True,1997,Blumentopf,12
+2786,Herr,True,1997,Blumentopf,12
+2787,Mann,True,1997,Blumentopf,12
+2788,Mann,True,1997,Blumentopf,12
+2789,Herr,True,1997,Blumentopf,12
+2790,Herr,True,1997,Blumentopf,12
+2791,Herr,True,1997,Blumentopf,12
+2792,Mann,True,1997,Blumentopf,12
+2793,Herr,True,1997,Blumentopf,12
+2794,Mann,True,1997,Blumentopf,12
+2795,Mädchen,False,1997,Blumentopf,12
+2796,Mann,True,1997,Blumentopf,12
+2797,Mädchen,False,1997,Blumentopf,12
+2798,Mädchen,False,1997,Blumentopf,12
+2799,Mann,True,1997,Blumentopf,12
+2800,Dame,False,1997,Blumentopf,12
+2801,Mädchen,False,1997,Blumentopf,12
+2802,Dame,False,1997,Blumentopf,12
+2803,Mädchen,False,1997,Blumentopf,12
+2804,Mann,True,1997,Blumentopf,12
+2805,Mann,True,1997,Blumentopf,12
+2806,Dame,False,1997,Blumentopf,12
+2807,Mann,True,1997,Blumentopf,12
+2808,Dame,False,1997,Blumentopf,12
+2809,Mann,True,1997,Blumentopf,12
+2810,Mann,True,1997,Blumentopf,12
+2811,Mann,True,1997,Blumentopf,12
+2812,Dame,False,1997,Blumentopf,12
+2813,Mann,True,1997,Blumentopf,12
+2814,Herr,True,1997,Blumentopf,12
+2815,Herr,True,1997,Blumentopf,12
+2816,Herr,True,1997,Blumentopf,12
+2817,Dame,False,1997,Blumentopf,12
+2818,Mann,True,1997,Blumentopf,12
+2819,Herr,True,1997,Blumentopf,12
+2820,Mann,True,1997,Blumentopf,12
+2821,Herr,True,1997,Blumentopf,12
+2822,Herr,True,1997,Blumentopf,12
+2823,Herr,True,1997,Blumentopf,12
+2824,Mann,True,1997,Blumentopf,12
+2825,Mädchen,False,1997,Blumentopf,12
+2826,Mann,True,1997,Blumentopf,12
+2827,Herr,True,1997,Blumentopf,12
+2828,Dame,False,1997,Blumentopf,12
+2829,Mann,True,1997,Blumentopf,12
+2830,Mädchen,False,1999,Blumentopf,30
+2831,Mädchen,False,1999,Blumentopf,31
+2832,Junge,True,1999,Blumentopf,31
+2833,Mädchen,False,1999,Blumentopf,31
+2834,Mädchen,False,1999,Blumentopf,31
+2835,Mann,True,1999,Blumentopf,23
+2836,Dame,False,1999,Blumentopf,18
+2837,Herr,True,1999,Blumentopf,18
+2838,Mann,True,1999,Blumentopf,18
+2839,Mädchen,False,1999,Blumentopf,18
+2840,Dame,False,1999,Blumentopf,18
+2841,Dame,False,1999,Blumentopf,18
+2842,Mann,True,1999,Blumentopf,18
+2843,Weib,False,1999,Blumentopf,18
+2844,Weib,False,1999,Blumentopf,18
+2845,Mann,True,1999,Blumentopf,18
+2846,Dame,False,1999,Blumentopf,18
+2847,Mann,True,1999,Blumentopf,18
+2848,Mädchen,False,1999,Blumentopf,18
+2849,Mädchen,False,1999,Blumentopf,18
+2850,Mann,True,1999,Blumentopf,18
+2851,Mann,True,1999,Blumentopf,18
+2852,Mann,True,1999,Blumentopf,18
+2853,Dame,False,1999,Blumentopf,18
+2854,Dame,False,1999,Blumentopf,18
+2855,Mann,True,1999,Blumentopf,18
+2856,Mann,True,1999,Blumentopf,18
+2857,Dame,False,1999,Blumentopf,18
+2858,Mann,True,1999,Blumentopf,18
+2859,Weib,False,1999,Blumentopf,18
+2860,Dame,False,1999,Blumentopf,18
+2861,Mädchen,False,1999,Blumentopf,18
+2862,Mädchen,False,1999,Blumentopf,18
+2863,Mädchen,False,1999,Blumentopf,18
+2864,Mann,True,1999,Blumentopf,18
+2865,Mann,True,1999,Blumentopf,18
+2866,Mann,True,1999,Blumentopf,18
+2867,Mann,True,1999,Blumentopf,18
+2868,Mann,True,1999,Blumentopf,18
+2869,Dame,False,1999,Blumentopf,18
+2870,Mann,True,1999,Blumentopf,18
+2871,Mann,True,1999,Blumentopf,18
+2872,Weib,False,1999,Blumentopf,18
+2873,Mann,True,1999,Blumentopf,18
+2874,Dame,False,1999,Blumentopf,18
+2875,Mann,True,1999,Blumentopf,18
+2876,Mädchen,False,1999,Blumentopf,18
+2877,Mädchen,False,1999,Blumentopf,18
+2878,Mann,True,1999,Blumentopf,18
+2879,Mann,True,1999,Blumentopf,18
+2880,Mann,True,1999,Blumentopf,18
+2881,Mann,True,1999,Blumentopf,18
+2882,Mann,True,1999,Blumentopf,18
+2883,Mann,True,1999,Blumentopf,18
+2884,Mädchen,False,1999,Blumentopf,18
+2885,Mann,True,1999,Blumentopf,18
+2886,Mädchen,False,1999,Blumentopf,18
+2887,Mann,True,1999,Blumentopf,18
+2888,Mädchen,False,1999,Blumentopf,18
+2889,Mann,True,1999,Blumentopf,18
+2890,Herr,True,1999,Blumentopf,18
+2891,Dame,False,1999,Blumentopf,18
+2892,Mädchen,False,1999,Blumentopf,18
+2893,Mann,True,1999,Blumentopf,18
+2894,Herr,True,1999,Blumentopf,18
+2895,Dame,False,1999,Blumentopf,18
+2896,Dame,False,1999,Blumentopf,18
+2897,Dame,False,1999,Blumentopf,18
+2898,Weib,False,1999,Blumentopf,18
+2899,Weib,False,1999,Blumentopf,18
+2900,Dame,False,1999,Blumentopf,18
+2901,Weib,False,1999,Blumentopf,18
+2902,Dame,False,1999,Blumentopf,18
+2903,Dame,False,1999,Blumentopf,18
+2904,Dame,False,1999,Blumentopf,18
+2905,Dame,False,1999,Blumentopf,18
+2906,Ehefrau,False,1999,Blumentopf,18
+2907,Mädchen,False,1999,Blumentopf,18
+2908,Mädchen,False,1999,Blumentopf,18
+2909,Mann,True,1999,Blumentopf,18
+2910,Dame,False,1999,Blumentopf,18
+2911,Mann,True,1999,Blumentopf,18
+2912,Mann,True,1999,Blumentopf,18
+2913,Weib,False,1999,Blumentopf,18
+2914,Mann,True,1999,Blumentopf,18
+2915,Gatte,True,1999,Blumentopf,18
+2916,Gatte,True,1999,Blumentopf,18
+2917,Mann,True,1999,Blumentopf,18
+2918,Dame,False,1999,Blumentopf,18
+2919,Mann,True,1999,Blumentopf,18
+2920,Mann,True,1999,Blumentopf,18
+2921,Mädchen,False,1999,Blumentopf,18
+2922,Mädchen,False,1999,Blumentopf,18
+2923,Fräulein,False,1999,Blumentopf,18
+2924,Weib,False,1999,Blumentopf,18
+2925,Dame,False,1999,Blumentopf,18
+2926,Dame,False,1999,Blumentopf,18
+2927,Dame,False,1999,Blumentopf,18
+2928,Dame,False,1999,Blumentopf,18
+2929,Mann,True,1999,Blumentopf,18
+2930,Mann,True,1999,Blumentopf,18
+2931,Mann,True,1999,Blumentopf,18
+2932,Mann,True,1999,Blumentopf,18
+2933,Mädchen,False,1999,Blumentopf,18
+2934,Dame,False,1999,Blumentopf,18
+2935,Mädchen,False,1999,Blumentopf,18
+2936,Mädchen,False,1999,Blumentopf,18
+2937,Dame,False,1999,Blumentopf,18
+2938,Dame,False,1999,Blumentopf,18
+2939,Mann,True,1999,Blumentopf,18
+2940,Mann,True,1999,Blumentopf,18
+2941,Mann,True,1999,Blumentopf,18
+2942,Dame,False,1999,Blumentopf,18
+2943,Herr,True,1999,Blumentopf,18
+2944,Herr,True,1999,Blumentopf,18
+2945,Herr,True,1999,Blumentopf,18
+2946,Herr,True,1999,Blumentopf,18
+2947,Mann,True,1999,Blumentopf,18
+2948,Mann,True,1999,Blumentopf,18
+2949,Herr,True,1999,Blumentopf,18
+2950,Herr,True,1999,Blumentopf,18
+2951,Herr,True,1999,Blumentopf,18
+2952,Mann,True,1999,Blumentopf,18
+2953,Herr,True,1999,Blumentopf,18
+2954,Mann,True,1999,Blumentopf,18
+2955,Mädchen,False,1999,Blumentopf,18
+2956,Mann,True,1999,Blumentopf,18
+2957,Mädchen,False,1999,Blumentopf,18
+2958,Mädchen,False,1999,Blumentopf,18
+2959,Mann,True,1999,Blumentopf,18
+2960,Dame,False,1999,Blumentopf,18
+2961,Mädchen,False,1999,Blumentopf,18
+2962,Dame,False,1999,Blumentopf,18
+2963,Mädchen,False,1999,Blumentopf,18
+2964,Mann,True,1999,Blumentopf,18
+2965,Mann,True,1999,Blumentopf,18
+2966,Dame,False,1999,Blumentopf,18
+2967,Mann,True,1999,Blumentopf,18
+2968,Dame,False,1999,Blumentopf,18
+2969,Mann,True,1999,Blumentopf,18
+2970,Mann,True,1999,Blumentopf,18
+2971,Mann,True,1999,Blumentopf,18
+2972,Dame,False,1999,Blumentopf,18
+2973,Mann,True,1999,Blumentopf,18
+2974,Herr,True,1999,Blumentopf,18
+2975,Herr,True,1999,Blumentopf,18
+2976,Herr,True,1999,Blumentopf,18
+2977,Dame,False,1999,Blumentopf,18
+2978,Mann,True,1999,Blumentopf,18
+2979,Herr,True,1999,Blumentopf,18
+2980,Mann,True,1999,Blumentopf,18
+2981,Herr,True,1999,Blumentopf,18
+2982,Herr,True,1999,Blumentopf,18
+2983,Herr,True,1999,Blumentopf,18
+2984,Mann,True,1999,Blumentopf,18
+2985,Mädchen,False,1999,Blumentopf,18
+2986,Mann,True,1999,Blumentopf,18
+2987,Herr,True,1999,Blumentopf,18
+2988,Dame,False,1999,Blumentopf,18
+2989,Mann,True,1999,Blumentopf,18
+2990,Dame,False,1999,Blumentopf,18
+2991,Herr,True,1999,Blumentopf,18
+2992,Mann,True,2001,Blumentopf,25
+2993,Mann,True,2001,Blumentopf,25
+2994,Mann,True,2001,Blumentopf,25
+2995,Junge,True,2001,Blumentopf,17
+2996,Mädchen,False,2001,Blumentopf,32
+2997,Mädchen,False,2001,Blumentopf,32
+2998,Herr,True,2001,Blumentopf,16
+2999,Mann,True,2001,Blumentopf,16
+3000,Mädchen,False,2001,Blumentopf,13
+3001,Junge,True,2001,Blumentopf,16
+3002,Mann,True,2001,Blumentopf,14
+3003,Mann,True,2001,Blumentopf,30
+3004,Herr,True,2001,Blumentopf,16
+3005,Herr,True,2001,Blumentopf,16
+3006,Junge,True,2003,Blumentopf,24
+3007,Junge,True,2003,Blumentopf,24
+3008,Junge,True,2003,Blumentopf,24
+3009,Junge,True,2003,Blumentopf,33
+3010,Mann,True,2003,Blumentopf,33
+3011,Mann,True,2003,Blumentopf,33
+3012,Junge,True,2003,Blumentopf,23
+3013,Mann,True,2003,Blumentopf,22
+3014,Junge,True,2003,Blumentopf,35
+3015,Mädchen,False,2003,Blumentopf,35
+3016,Mädchen,False,2003,Blumentopf,35
+3017,Mann,True,2003,Blumentopf,15
+3018,Mister,True,2003,Blumentopf,18
+3019,Herr,True,2003,Blumentopf,18
+3020,Herr,True,2003,Blumentopf,18
+3021,Herr,True,2003,Blumentopf,18
+3022,Herr,True,2003,Blumentopf,18
+3023,Herr,True,2003,Blumentopf,18
+3024,Mann,True,2015,Schwesta Ewa,38
+3025,Mann,True,2015,Schwesta Ewa,38
+3026,Mädchen,False,2015,Schwesta Ewa,19
+3027,Herr,True,2018,Schwesta Ewa,18
+3028,Mann,True,2018,Schwesta Ewa,18
+3029,Mädchen,False,2018,Schwesta Ewa,44
+3030,Mann,True,2018,Schwesta Ewa,44
+3031,Mann,True,2018,Schwesta Ewa,22
+3032,Mann,True,2018,Schwesta Ewa,22
+3033,Mann,True,2018,Schwesta Ewa,22
+3034,Herr,True,2018,Schwesta Ewa,32
+3035,Mann,True,2018,Schwesta Ewa,32
+3036,Mann,True,2018,Schwesta Ewa,34
+3037,Mann,True,2018,Schwesta Ewa,34
+3038,Mann,True,2018,Schwesta Ewa,34
+3039,Mann,True,2018,Schwesta Ewa,24
+3040,Mann,True,2018,Schwesta Ewa,24
+3041,Mann,True,2018,Schwesta Ewa,20
+3042,Herr,True,2018,Schwesta Ewa,35
+3043,Herr,True,2018,Schwesta Ewa,35
+3044,Herr,True,2018,Schwesta Ewa,35
+3045,Herr,True,2018,Schwesta Ewa,35
+3046,Herr,True,2018,Schwesta Ewa,35
+3047,Herr,True,2018,Schwesta Ewa,35
+3048,Herr,True,2018,Schwesta Ewa,35
+3049,Herr,True,2018,Schwesta Ewa,35
+3050,Herr,True,2018,Schwesta Ewa,35
+3051,Herr,True,2018,Schwesta Ewa,35
+3052,Herr,True,2018,Schwesta Ewa,35
+3053,Herr,True,2018,Schwesta Ewa,35
+3054,Herr,True,2018,Schwesta Ewa,35
+3055,Herr,True,2018,Schwesta Ewa,35
+3056,Herr,True,2018,Schwesta Ewa,35
+3057,Herr,True,2018,Schwesta Ewa,35
+3058,Mädchen,False,2018,Schwesta Ewa,40
+3059,Mann,True,2018,Schwesta Ewa,40
+3060,Mann,True,2018,Schwesta Ewa,20
+3061,Mann,True,2018,Schwesta Ewa,22
+3062,Mann,True,2018,Schwesta Ewa,22
+3063,Mann,True,2018,Schwesta Ewa,22
+3064,Mann,True,2018,Schwesta Ewa,22
+3065,Mann,True,2018,Schwesta Ewa,22
+3066,Mann,True,2018,Schwesta Ewa,22
+3067,Mann,True,2018,Schwesta Ewa,31
+3068,Mädchen,False,2018,Schwesta Ewa,21
+3069,Herr,True,2018,Schwesta Ewa,50
+3070,Herr,True,2018,Schwesta Ewa,50
+3071,Herr,True,2018,Schwesta Ewa,50
+3072,Mann,True,2020,Schwesta Ewa,20
+3073,Mädchen,False,2020,Schwesta Ewa,16
+3074,Mädchen,False,2020,Schwesta Ewa,16
+3075,Mädchen,False,2020,Schwesta Ewa,16
+3076,Mann,True,2020,Schwesta Ewa,22
+3077,Lady,False,2020,Schwesta Ewa,34
+3078,Mann,True,2020,Schwesta Ewa,34
+3079,Mann,True,2020,Schwesta Ewa,17
+3080,Mann,True,2020,Schwesta Ewa,17
+3081,Mann,True,2022,Ehrenmannrius,30
+3082,Girl,False,2022,Schwesta Ewa,27
+3083,Mann,True,2022,Schwesta Ewa,21
+3084,Mann,True,2022,Schwesta Ewa,21
+3085,Mann,True,1995,Schwester S.,7
+3086,Mann,True,1995,Schwester S.,5
+3087,Mann,True,1995,Schwester S.,30
+3088,Mädchen,False,1995,Schwester S.,30
+3089,Mann,True,1997,Sabrina Setlur,43
+3090,Mann,True,1997,Sabrina Setlur,43
+3091,Mann,True,1997,Sabrina Setlur,43
+3092,Mann,True,1997,Sabrina Setlur,15
+3093,Mann,True,1997,Sabrina Setlur,15
+3094,Mann,True,1997,Sabrina Setlur,11
+3095,Mann,True,1999,Sabrina Setlur,3
+3096,Mann,True,1999,Sabrina Setlur,3
+3097,Mann,True,1999,Sabrina Setlur,3
+3098,Mann,True,1999,Sabrina Setlur,1
+3099,Mann,True,1999,Sabrina Setlur,5
+3100,Mann,True,1999,Sabrina Setlur,5
+3101,Mann,True,2017,SXTN,56
+3102,Mann,True,2017,SXTN,54
+3103,Herr,True,2017,SXTN,56
+3104,Mann,True,2017,SXTN,59
+3105,Mann,True,2017,SXTN,59
+3106,Weib,False,2017,SXTN,45
+3107,Mann,True,2016,SXTN,61
+3108,Mann,True,2016,SXTN,61
+3109,Mann,True,2016,SXTN,61
+3110,Mann,True,2016,SXTN,61
+3111,Mann,True,2016,SXTN,61
+3112,Mann,True,2016,SXTN,61
+3113,Mann,True,2016,SXTN,61
+3114,Mann,True,2016,SXTN,61
+3115,Mann,True,2016,SXTN,61
+3116,Mann,True,2016,SXTN,61
+3117,Mann,True,2016,SXTN,61
+3118,Mann,True,2016,SXTN,61
+3119,Mann,True,2016,SXTN,61
+3120,Mann,True,2016,SXTN,61
+3121,Mann,True,2016,SXTN,61
+3122,Mann,True,2016,SXTN,61
+3123,Mann,True,2016,SXTN,53
+3124,Lady,False,2016,SXTN,52
+3125,Girl,False,2021,KASIMIR1441,60
+3126,Mädchen,False,2021,KASIMIR1441,60
+3127,Mädchen,False,2021,KASIMIR1441,60
+3128,Girl,False,2021,KASIMIR1441,60
+3129,Mann,True,2020,Alligatoah,67
+3130,Mann,True,2020,Alligatoah,67
+3131,Herr,True,2016,Alligatoah,66
+3132,Mädchen,False,2015,K.I.Z,67
+3133,Herr,True,2015,K.I.Z,67
+3134,Mann,True,2013,K.I.Z,63
+3135,Mädchen,False,2011,K.I.Z,62
+3136,Ehefrau,False,2007,K.I.Z,50
+3137,Mädchen,False,2007,K.I.Z,51
+3138,Mädchen,False,2007,K.I.Z,51
+3139,Mädchen,False,2007,K.I.Z,51
+3140,Mädchen,False,2007,K.I.Z,51
+3141,Mädchen,False,2007,K.I.Z,51
+3142,Mädchen,False,2007,K.I.Z,51
+3143,Mädchen,False,2007,K.I.Z,51
+3144,Mädchen,False,2007,K.I.Z,51
+3145,Mädchen,False,2007,K.I.Z,51
+3146,Mädchen,False,2007,K.I.Z,51
+3147,Mädchen,False,2007,K.I.Z,51
+3148,Mädchen,False,2007,K.I.Z,51
+3149,Mädchen,False,2007,K.I.Z,51
+3150,Mädchen,False,2007,K.I.Z,51
+3151,Dame,False,2007,K.I.Z,51
+3152,Mädchen,False,2007,K.I.Z,51
+3153,Mädchen,False,2007,K.I.Z,51
+3154,Mädchen,False,2007,K.I.Z,51
+3155,Mädchen,False,2007,K.I.Z,51
+3156,Mann,True,2007,K.I.Z,37
+3157,Junge,True,2007,K.I.Z,37
+3158,Mädchen,False,2007,K.I.Z,37
+3159,Mann,True,2007,K.I.Z,37
+3160,Mädchen,False,2007,K.I.Z,37
+3161,Mann,True,2007,K.I.Z,37
+3162,Mann,True,2007,K.I.Z,38
+3163,Mann,True,2007,K.I.Z,36
+3164,Mann,True,2007,K.I.Z,36
+3165,Mann,True,2007,K.I.Z,39
+3166,Junge,True,2007,K.I.Z,35
+3167,Mädchen,False,2007,K.I.Z,39
+3168,Mann,True,2007,K.I.Z,41
+3169,Mann,True,2009,K.I.Z,49
+3170,Mann,True,2009,K.I.Z,36
+3171,Mädchen,False,2009,K.I.Z,42
+3172,Mädchen,False,2009,K.I.Z,42
+3173,Mädchen,False,2009,K.I.Z,42
+3174,Mann,True,2009,K.I.Z,43
+3175,Mann,True,2009,K.I.Z,43
+3176,Mann,True,2009,K.I.Z,43
+3177,Mann,True,2009,K.I.Z,37
+3178,Mann,True,2009,K.I.Z,37
+3179,Mann,True,2009,K.I.Z,37
+3180,Weib,False,2009,K.I.Z,37
+3181,Mädchen,False,2009,K.I.Z,37
+3182,Lady,False,2009,K.I.Z,37
+3183,Mann,True,2009,K.I.Z,45
+3184,Mann,True,2009,K.I.Z,50
+3185,Mann,True,2009,K.I.Z,36
+3186,Junge,True,2009,K.I.Z,31
+3187,Mann,True,2011,K.I.Z,41
+3188,Mädchen,False,2011,K.I.Z,41
+3189,Mädchen,False,2011,K.I.Z,40
+3190,Mann,True,2011,K.I.Z,40
+3191,Mann,True,2011,K.I.Z,34
+3192,Junge,True,2011,K.I.Z,34
+3193,Mann,True,2011,K.I.Z,38
+3194,Mann,True,2011,K.I.Z,53
+3195,Junge,True,2011,K.I.Z,40
+3196,Junge,True,2011,K.I.Z,53
+3197,Mann,True,2011,K.I.Z,53
+3198,Lady,False,2011,K.I.Z,53
+3199,Mann,True,2011,K.I.Z,38
+3200,Mann,True,2011,K.I.Z,38
+3201,Herr,True,2011,K.I.Z,38
+3202,Mädchen,False,2013,K.I.Z,54
+3203,Mann,True,2013,K.I.Z,47
+3204,Mann,True,2013,K.I.Z,47
+3205,Mann,True,2013,K.I.Z,47
+3206,Mann,True,2013,K.I.Z,47
+3207,Mann,True,2013,K.I.Z,47
+3208,Mann,True,2013,K.I.Z,47
+3209,Mann,True,2013,K.I.Z,47
+3210,Mann,True,2013,K.I.Z,47
+3211,Mann,True,2013,K.I.Z,47
+3212,Mann,True,2013,K.I.Z,47
+3213,Mann,True,2013,K.I.Z,47
+3214,Mann,True,2013,K.I.Z,47
+3215,Mann,True,2013,K.I.Z,47
+3216,Mann,True,2013,K.I.Z,47
+3217,Mann,True,2013,K.I.Z,50
+3218,Mister,True,2013,K.I.Z,50
+3219,Mann,True,2013,K.I.Z,50
+3220,Mann,True,2013,K.I.Z,50
+3221,Mann,True,2013,K.I.Z,50
+3222,Mann,True,2013,K.I.Z,42
+3223,Junge,True,2013,K.I.Z,52
+3224,Junge,True,2013,K.I.Z,32
+3225,Mann,True,2015,K.I.Z,54
+3226,Mädchen,False,2015,K.I.Z,44
+3227,Mädchen,False,2015,K.I.Z,40
+3228,Mann,True,2015,K.I.Z,40
+3229,Madame,False,2015,K.I.Z,52
+3230,Mädchen,False,2015,K.I.Z,49
+3231,Mann,True,2015,K.I.Z,49
+3232,Mädchen,False,2015,K.I.Z,42
+3233,Mädchen,False,2015,K.I.Z,42
+3234,Mädchen,False,2015,K.I.Z,42
+3235,Mädchen,False,2015,K.I.Z,42
+3236,Junge,True,2015,K.I.Z,42
+3237,Mädchen,False,2020,Mehnersmoos,52
+3238,Mädchen,False,2020,Mehnersmoos,52
+3239,Herr,True,2020,K.I.Z,42
+3240,Herr,True,2020,K.I.Z,42
+3241,Junge,True,2020,K.I.Z,50
+3242,Mädchen,False,2020,K.I.Z,50
+3243,Mädchen,False,2020,K.I.Z,36
+3244,Ehefrau,False,2020,K.I.Z,42
+3245,Junge,True,2020,K.I.Z,42
+3246,Junge,True,2020,K.I.Z,50
+3247,Junge,True,2020,K.I.Z,50
+3248,Junge,True,2020,K.I.Z,50
+3249,Junge,True,2020,K.I.Z,50
+3250,Junge,True,2020,K.I.Z,50
+3251,Junge,True,2020,K.I.Z,50
+3252,Ehemann,True,2020,K.I.Z,40
+3253,Junge,True,2022,K.I.Z,56
+3254,Mann,True,2021,Danger Dan,62
+3255,Mann,True,2021,Danger Dan,55
+3256,Mann,True,2021,Danger Dan,55
+3257,Herr,True,2021,Danger Dan,49
+3258,Mann,True,2021,Danger Dan,45
+3259,Mädchen,False,2021,Danger Dan,43
+3260,Mädchen,False,2018,Danger Dan,46
+3261,Mann,True,2018,Danger Dan,46
+3262,Mädchen,False,2018,Danger Dan,46
+3263,Mann,True,2018,Danger Dan,31
+3264,Mann,True,2018,Danger Dan,49
+3265,Mann,True,2012,NMZS,33
+3266,Mädchen,False,2012,NMZS,23
+3267,Junge,True,2012,NMZS,23
+3268,Mann,True,2012,Danger Dan,30
+3269,Mann,True,2012,Danger Dan,18
+3270,Junge,True,2012,Danger Dan,18
+3271,Dame,False,2012,Danger Dan,18
+3272,Mädchen,False,2023,Kasi,64
+3273,Mädchen,False,2023,Kasi,64
+3274,Mädchen,False,2023,Kasi,64
+3275,Mädchen,False,2023,Kasi,64
+3276,Mädchen,False,2023,Kasi,64
+3277,Mädchen,False,2023,Kasi,64
+3278,Mann,True,2023,Ivo Martin,64
+3279,Girl,False,2023,Kasi,62
+3280,Junge,True,2023,Longus Mongus,55
+3281,Mann,True,2023,Longus Mongus,55
+3282,Mister,True,2023,Pablu,39
+3283,Mann,True,2023,Levin Liam,57
+3284,Mann,True,2023,JUPYTER,36
+3285,Dame,False,2023,BIBIZA,49
+3286,Dame,False,2023,BIBIZA,49
+3287,Dame,False,2023,BIBIZA,49
+3288,Dame,False,2023,BIBIZA,49
+3289,Mann,True,2023,BIBIZA,49
+3290,Mann,True,2023,PAULINKO,44
+3291,Mann,True,2023,PAULINKO,44
+3292,Mann,True,2023,PAULINKO,44
+3293,Herr,True,2023,MOLA,48
+3294,Herr,True,2023,MOLA,48
+3295,Herr,True,2023,MOLA,48
+3296,Herr,True,2023,MOLA,48
+3297,Herr,True,2023,MOLA,48
+3298,Herr,True,2023,MOLA,48
+3299,Girl,False,2023,Blumengarten,59
+3300,Junge,True,2023,Dilla,54
+3301,Mädchen,False,2023,Dilla,54
+3302,Girl,False,2023,emi x,45
+3303,Girl,False,2023,emi x,45
+3304,Girl,False,2023,emi x,45
+3305,Girl,False,2023,emi x,45
+3306,Herr,True,2023,Juli Gilde,39
+3307,Herr,True,2023,Juli Gilde,39
+3308,Mann,True,2023,Juli Gilde,39
+3309,Mädchen,False,2023,Juli Gilde,39
+3310,Mädchen,False,2023,Juli Gilde,39
+3311,Herr,True,2023,Juli Gilde,39
+3312,Mann,True,2023,Juli Gilde,39
+3313,Mann,True,2023,Juli Gilde,39
+3314,Mann,True,2023,Juli Gilde,39
+3315,Mann,True,2023,Juli Gilde,39
+3316,Mann,True,2023,Juli Gilde,39
+3317,Mann,True,2023,Juli Gilde,39
+3318,Mann,True,2023,Juli Gilde,39
+3319,Mann,True,2023,Juli Gilde,39
+3320,Mann,True,2023,Juli Gilde,39
+3321,Mann,True,2023,Juli Gilde,39
+3322,Mann,True,2023,Juli Gilde,39
+3323,Mann,True,2023,Juli Gilde,39
+3324,Mann,True,2023,Juli Gilde,39
+3325,Mann,True,2023,Juli Gilde,39
+3326,Mädchen,False,2023,Juli Gilde,39
+3327,Herr,True,2023,Juli Gilde,39
+3328,Mann,True,2023,Juli Gilde,39
+3329,Herr,True,2023,Juli Gilde,39
+3330,Mann,True,2023,Juli Gilde,39
+3331,Dame,False,2023,Juli Gilde,39
+3332,Mann,True,2023,Juli Gilde,39
+3333,Herr,True,2023,Juli Gilde,39
+3334,Herr,True,2023,Juli Gilde,39
+3335,Herr,True,2023,Juli Gilde,39
+3336,Mann,True,2023,Juli Gilde,39
+3337,Mann,True,2023,Juli Gilde,39
+3338,Mann,True,2023,Juli Gilde,39
+3339,Mann,True,2023,Juli Gilde,39
+3340,Herr,True,2023,Juli Gilde,39
+3341,Herr,True,2023,Juli Gilde,39
+3342,Mann,True,2023,Juli Gilde,39
+3343,Mann,True,2023,Juli Gilde,39
+3344,Herr,True,2023,Juli Gilde,39
+3345,Mann,True,2023,Juli Gilde,39
+3346,Mann,True,2023,Juli Gilde,39
+3347,Mann,True,2023,Juli Gilde,39
+3348,Herr,True,2023,Juli Gilde,39
+3349,Mann,True,2023,Juli Gilde,39
+3350,Mann,True,2023,Juli Gilde,39
+3351,Mann,True,2023,Juli Gilde,39
+3352,Mann,True,2023,Juli Gilde,39
+3353,Mann,True,2023,Juli Gilde,39
+3354,Mann,True,2023,Juli Gilde,39
+3355,Mann,True,2023,Juli Gilde,39
+3356,Mann,True,2023,Juli Gilde,39
+3357,Mann,True,2023,Juli Gilde,39
+3358,Mann,True,2023,Juli Gilde,39
+3359,Herr,True,2023,Juli Gilde,39
+3360,Herr,True,2023,Juli Gilde,39
+3361,Mann,True,2023,Juli Gilde,39
+3362,Mann,True,2023,Juli Gilde,39
+3363,Mann,True,2023,Juli Gilde,39
+3364,Herr,True,2023,Juli Gilde,39
+3365,Mann,True,2023,Juli Gilde,39
+3366,Mann,True,2023,Juli Gilde,39
+3367,Mann,True,2023,Juli Gilde,39
+3368,Ehefrau,False,2023,Juli Gilde,39
+3369,Mann,True,2023,Juli Gilde,39
+3370,Herr,True,2023,toksi,35
+3371,Herr,True,2023,toksi,35
+3372,Mann,True,2023,toksi,35
+3373,Herr,True,2023,toksi,35
+3374,Herr,True,2023,toksi,35
+3375,Herr,True,2023,toksi,35
+3376,Herr,True,2023,toksi,35
+3377,Mann,True,2023,toksi,35
+3378,Herr,True,2023,toksi,35
+3379,Herr,True,2023,toksi,35
+3380,Herr,True,2023,toksi,35
+3381,Fräulein,False,2023,toksi,35
+3382,Herr,True,2023,toksi,35
+3383,Herr,True,2023,toksi,35
+3384,Herr,True,2023,toksi,35
+3385,Mann,True,2023,toksi,35
+3386,Herr,True,2023,toksi,35
+3387,Herr,True,2023,toksi,35
+3388,Gefährte,True,2023,toksi,35
+3389,Herr,True,2023,toksi,35
+3390,Mann,True,2023,toksi,35
+3391,Fräulein,False,2023,toksi,35
+3392,Herr,True,2023,toksi,35
+3393,Fräulein,False,2023,toksi,35
+3394,Dame,False,2023,toksi,35
+3395,Mädchen,False,2023,toksi,35
+3396,Dame,False,2023,toksi,35
+3397,Herr,True,2023,toksi,35
+3398,Herr,True,2023,toksi,35
+3399,Fräulein,False,2023,toksi,35
+3400,Mädchen,False,2023,toksi,35
+3401,Fräulein,False,2023,toksi,35
+3402,Herr,True,2023,toksi,35
+3403,Herr,True,2023,toksi,35
+3404,Herr,True,2023,toksi,35
+3405,Gefährte,True,2023,toksi,35
+3406,Dame,False,2023,toksi,35
+3407,Gefährte,True,2023,toksi,35
+3408,Mann,True,2023,toksi,35
+3409,Mann,True,2023,toksi,35
+3410,Mann,True,2023,toksi,35
+3411,Herr,True,2023,toksi,35
+3412,Mann,True,2023,toksi,35
+3413,Junge,True,2023,toksi,35
+3414,Dame,False,2023,toksi,35
+3415,Mädchen,False,2023,toksi,35
+3416,Mädchen,False,2023,toksi,35
+3417,Gefährtin,False,2023,toksi,35
+3418,Weib,False,2023,toksi,35
+3419,Mann,True,2023,toksi,35
+3420,Herr,True,2023,toksi,35
+3421,Mann,True,2023,toksi,35
+3422,Mann,True,2023,toksi,35
+3423,Herr,True,2023,toksi,35
+3424,Mann,True,2023,toksi,35
+3425,Mann,True,2023,toksi,35
+3426,Mann,True,2023,toksi,35
+3427,Mann,True,2017,Mine,31
+3428,Mann,True,2020,Bendels,34
+3429,Mann,True,2016,Matze Rossi,38
+3430,Mann,True,2020,SEELEMANN,45
+3431,Mann,True,2021,NESS,44
+3432,Junge,True,2022,Fabian Römer,50
+3433,Mann,True,2005,Fettes Brot,62
+3434,Mann,True,2005,Fettes Brot,62
+3435,Mädchen,False,2005,Wir sind Helden,66
+3436,Mädchen,False,2005,Olli Schulz,51
+3437,Girl,False,2005,Seeed,63
+3438,Mann,True,2015,CRO,69
+3439,Mann,True,2015,CRO,69
+3440,Mann,True,2015,CRO,69
+3441,Mann,True,2015,CRO,69
+3442,Fräulein,False,2022,Rammstein,76
+3443,Fräulein,False,2022,Rammstein,76
+3444,Mann,True,2019,Rammstein,75
+3445,Mann,True,2019,Rammstein,75
+3446,Mann,True,1997,Rammstein,49
+3447,Mann,True,1997,Rammstein,49
+3448,Mann,True,1997,Rammstein,49
+3449,Mann,True,1997,Rammstein,43
+3450,Mann,True,1997,Rammstein,43
+3451,Mann,True,1997,Rammstein,43
+3452,Weib,False,1997,Rammstein,46
+3453,Weib,False,1997,Rammstein,46
+3454,Weib,False,1997,Rammstein,46
+3455,Mädchen,False,2001,Rammstein,58
+3456,Mann,True,2004,Rammstein,66
+3457,Mann,True,2004,Rammstein,66
+3458,Mann,True,2004,Rammstein,66
+3459,Mann,True,2004,Rammstein,55
+3460,Herr,True,2004,Rammstein,55
+3461,Mann,True,2005,Rammstein,65
+3462,Weib,False,2005,Rammstein,65
+3463,Mann,True,2005,Rammstein,65
+3464,Mann,True,2005,Rammstein,65
+3465,Mann,True,2005,Rammstein,65
+3466,Mann,True,2005,Rammstein,65
+3467,Mann,True,2005,Rammstein,65
+3468,Mann,True,2005,Rammstein,65
+3469,Mann,True,2005,Rammstein,65
+3470,Mann,True,2005,Rammstein,65
+3471,Mann,True,2005,Rammstein,65
+3472,Mann,True,2005,Rammstein,65
+3473,Mann,True,2005,Rammstein,65
+3474,Mann,True,2005,Rammstein,65
+3475,Mann,True,2005,Rammstein,65
+3476,Mann,True,2005,Rammstein,65
+3477,Mann,True,2005,Rammstein,65
+3478,Mann,True,2005,Rammstein,65
+3479,Mann,True,2005,Rammstein,65
+3480,Mann,True,2005,Rammstein,65
+3481,Mann,True,2005,Rammstein,65
+3482,Mann,True,2005,Rammstein,65
+3483,Mann,True,2005,Rammstein,65
+3484,Mann,True,2005,Rammstein,65
+3485,Mann,True,2005,Rammstein,65
+3486,Mann,True,2005,Rammstein,65
+3487,Mädchen,False,2005,Rammstein,68
+3488,Mann,True,2005,Rammstein,55
+3489,Mann,True,2005,Rammstein,55
+3490,Mann,True,2005,Rammstein,55
+3491,Mädchen,False,2005,Rammstein,55
+3492,Mädchen,False,2005,Rammstein,55
+3493,Junge,True,2005,Rammstein,55
+3494,Mädchen,False,2005,Rammstein,55
+3495,Fräulein,False,2009,Rammstein,66
+3496,Mädchen,False,2019,Rammstein,56
+3497,Mädchen,False,2019,Rammstein,56
+3498,Mann,True,2022,Rammstein,70
+3499,Mann,True,2022,Rammstein,63
+3500,Mann,True,2022,Rammstein,63
+3501,Mann,True,2022,Rammstein,63
+3502,Mann,True,2022,Rammstein,73
+3503,Mann,True,2022,Rammstein,73
+3504,Mann,True,2022,Rammstein,73
+3505,Mann,True,2022,Rammstein,73
+3506,Mann,True,2022,Rammstein,73
+3507,Mann,True,2022,Rammstein,73
+3508,Mann,True,2022,Rammstein,73
+3509,Mann,True,2015,Donots,44
+3510,Mann,True,2015,Donots,20
+3511,Mann,True,2015,Donots,20
+3512,Mann,True,2015,Donots,20
+3513,Mann,True,2015,Donots,20
+3514,Mann,True,2015,Donots,20
+3515,Mann,True,2015,Donots,20
+3516,Junge,True,2023,Madsen,46
+3517,Junge,True,2023,Madsen,46
+3518,Mann,True,2012,Jennifer Rostock,45
+3519,Mann,True,2012,Jennifer Rostock,45
+3520,Mann,True,2012,Jennifer Rostock,45
+3521,Mann,True,2012,Jennifer Rostock,45
+3522,Mann,True,2012,Jennifer Rostock,45
+3523,Herr,True,2018,FIBEL,0
+3524,Herr,True,2018,FIBEL,0
+3525,Mädchen,False,2012,Kraftklub,65
+3526,Mädchen,False,2010,Frittenbude,0
+3527,Dame,False,2016,Der Fall Böse,45
+3528,Dame,False,2016,Der Fall Böse,45
+3529,Dame,False,2016,Der Fall Böse,45
+3530,Dame,False,2016,Der Fall Böse,45
+3531,Mann,True,2016,Der Fall Böse,45
+3532,Herr,True,2016,Der Fall Böse,45
+3533,Dame,False,2016,Der Fall Böse,45
+3534,Dame,False,2016,Der Fall Böse,45
+3535,Mann,True,2016,Der Fall Böse,45
+3536,Junge,True,2018,Matula,16
+3537,Mann,True,2018,Matula,16
+3538,Herr,True,2018,Husten,11
+3539,Herr,True,2018,Husten,11
+3540,Herr,True,2018,Husten,11
+3541,Herr,True,2018,Husten,11
+3542,Herr,True,2018,Husten,11
+3543,Herr,True,2018,Husten,11
+3544,Herr,True,2018,Husten,11
+3545,Herr,True,2018,Husten,11
+3546,Mann,True,1998,Ostzonensuppenwürfelmachenkrebs,17
+3547,Mann,True,2020,Helgen,7
+3548,Herr,True,2020,Helgen,7
+3549,Mädchen,False,2021,Milliarden,10
+3550,Mann,True,2022,Blond,40
+3551,Mann,True,2022,Blond,40
+3552,Junge,True,2007,Die Ärzte,0
+3553,Junge,True,2007,Die Ärzte,0
+3554,Junge,True,2007,Die Ärzte,0
+3555,Junge,True,2007,Die Ärzte,0
+3556,Junge,True,2007,Die Ärzte,0
+3557,Junge,True,2007,Die Ärzte,0
+3558,Junge,True,2007,Die Ärzte,0
+3559,Mister,True,2005,Ich + Ich,0
+3560,Mann,True,2005,Ich + Ich,0
+3561,Mädchen,False,2001,Fettes Brot,1
+3562,Mädchen,False,2001,Fettes Brot,1
+3563,Mädchen,False,2001,Fettes Brot,1
+3564,Mädchen,False,2001,Fettes Brot,1
+3565,Mädchen,False,2001,Fettes Brot,1
+3566,Mädchen,False,2001,Fettes Brot,1
+3567,Mädchen,False,2001,Fettes Brot,1
+3568,Mädchen,False,2001,Fettes Brot,1
+3569,Mädchen,False,2001,Fettes Brot,1
+3570,Mädchen,False,2001,Fettes Brot,1
+3571,Mädchen,False,2001,Fettes Brot,1
+3572,Mädchen,False,2001,Fettes Brot,1
+3573,Mädchen,False,2001,Fettes Brot,1
+3574,Mädchen,False,2001,Fettes Brot,1
+3575,Mädchen,False,2001,Fettes Brot,1
+3576,Mädchen,False,2001,Fettes Brot,1
+3577,Mann,True,2001,Fettes Brot,1
+3578,Mädchen,False,2001,Fettes Brot,1
+3579,Mädchen,False,2001,Fettes Brot,1
+3580,Mädchen,False,2001,Fettes Brot,1
+3581,Mädchen,False,2001,Fettes Brot,1
+3582,Mädchen,False,2001,Fettes Brot,1
+3583,Mädchen,False,2001,Fettes Brot,1
+3584,Mädchen,False,2001,Fettes Brot,1
+3585,Mädchen,False,2001,Fettes Brot,1
+3586,Mädchen,False,2001,Fettes Brot,1
+3587,Mädchen,False,2001,Fettes Brot,1
+3588,Mädchen,False,2001,Fettes Brot,1
+3589,Mädchen,False,2001,Fettes Brot,1
+3590,Mädchen,False,2001,Fettes Brot,1
+3591,Mann,True,2005,Fettes Brot,2
+3592,Mann,True,2005,Fettes Brot,2
+3593,Mann,True,2009,2raumwohnung,0
+3594,Mann,True,2009,2raumwohnung,0
+3595,Junge,True,2009,2raumwohnung,0
+3596,Junge,True,2009,2raumwohnung,0
+3597,Junge,True,2009,2raumwohnung,0
+3598,Mann,True,2005,Philippe,22
+3599,Mister,True,2007,Nena,25
+3600,Mann,True,2007,Nena,25
+3601,Mann,True,2000,Das Bo,52
+3602,Junge,True,2009,Sido,0
+3603,Junge,True,2009,Sido,0
+3604,Junge,True,2009,Sido,0
+3605,Junge,True,2000,Die Ärzte,0
+3606,Mann,True,2007,Sido,29
+3607,Mann,True,2007,Roger Cicero,45
+3608,Girl,False,2000,band ohne namen,14
+3609,Girl,False,2000,band ohne namen,14
+3610,Mann,True,2009,Sido,48
+3611,Mann,True,2004,2raumwohnung,0
+3612,Mädchen,False,2005,Die Firma,0
+3613,Girl,False,2005,Die Firma,0
+3614,Weib,False,2007,Wir sind Helden,25
+3615,Mann,True,2012,Tic Tac Toe,36
+3616,Mann,True,2012,Tic Tac Toe,36
+3617,Herr,True,2002,Xavier Naidoo,0
+3618,Herr,True,2008,Xavier Naidoo,0
+3619,Herr,True,2008,Xavier Naidoo,0
+3620,Herr,True,2008,Xavier Naidoo,0
+3621,Herr,True,2008,Xavier Naidoo,0
+3622,Herr,True,2008,Xavier Naidoo,0
+3623,Herr,True,2008,Xavier Naidoo,0
+3624,Mann,True,2007,Revolverheld,14
+3625,Mann,True,2004,Christina Stürmer,33
+3626,Mister,True,2006,Jan Delay,0
+3627,Mann,True,2008,Dynamite Deluxe,38
+3628,Lady,False,2008,Curse,0
+3629,Junge,True,2008,Curse,0
+3630,Mädchen,False,2002,Mia.,2
+3631,Mann,True,2008,Fettes Brot,1
+3632,Mann,True,2000,Westernhagen,30
+3633,Mann,True,2008,Thomas D,11
+3634,Junge,True,2009,Culcha Candela,0
+3635,Mann,True,2009,Culcha Candela,0
+3636,Boy,True,2007,Die Ärzte,0
+3637,Mädchen,False,2007,Die Ärzte,0
+3638,Mann,True,2001,2raumwohnung,0
+3639,Mann,True,2017,Nena,0
+3640,Mann,True,2000,Westernhagen,25
+3641,Mann,True,2000,Westernhagen,25
+3642,Junge,True,2006,Rapsoul,28
+3643,Ehemann,True,2002,Echt,19
+3644,Herr,True,2006,Valentin Stilu,19
+3645,Herr,True,2006,Valentin Stilu,19
+3646,Herr,True,2006,Valentin Stilu,19
+3647,Herr,True,2006,Valentin Stilu,19
+3648,Herr,True,2006,Valentin Stilu,19
+3649,Herr,True,2006,Valentin Stilu,19
+3650,Herr,True,2006,Valentin Stilu,19
+3651,Herr,True,2006,Valentin Stilu,19
+3652,Herr,True,2006,Valentin Stilu,19
+3653,Dame,False,2006,Valentin Stilu,19
+3654,Fräulein,False,2006,Valentin Stilu,19
+3655,Dame,False,2006,Valentin Stilu,19
+3656,Herr,True,2006,Valentin Stilu,19
+3657,Fräulein,False,2006,Valentin Stilu,19
+3658,Mann,True,2006,Valentin Stilu,19
+3659,Fräulein,False,2006,Valentin Stilu,19
+3660,Mann,True,2009,Sido,7
+3661,Junge,True,2009,Sido,7
+3662,Mister,True,2005,Dorau,2
+3663,Mann,True,2005,Dorau,2
+3664,Mann,True,2000,Moses Pelham,10
+3665,Mann,True,2004,Eko Fresh,0
+3666,Mann,True,2004,Eko Fresh,0
+3667,Mann,True,2004,Eko Fresh,0
+3668,Mann,True,2007,Knorkator,53
+3669,Mann,True,2007,Knorkator,53
+3670,Mann,True,2007,Knorkator,53
+3671,Mann,True,2007,Knorkator,53
+3672,Mann,True,1972,Ton Steine Scherben,34
+3673,Mann,True,2017,Turbostaat,0
+3674,Junge,True,2006,Tomte,0
+3675,Junge,True,2006,Tomte,0
+3676,Junge,True,2006,Tomte,0
+3677,Junge,True,2006,Tomte,0
+3678,Weib,False,2012,Megaherz,51
+3679,Mister,True,2014,Erik Cohen,0
+3680,Mister,True,2014,Erik Cohen,0
+3681,Mädchen,False,2014,Wanda,0
+3682,Dame,False,2014,Farin Urlaub Racing Team,50
+3683,Mann,True,2014,Farin Urlaub Racing Team,50
+3684,Mann,True,2014,Farin Urlaub Racing Team,50
+3685,Mann,True,2014,Farin Urlaub Racing Team,50
+3686,Herr,True,2014,Coppelius,25
+3687,Herr,True,2014,Coppelius,23
+3688,Herr,True,2014,Coppelius,23
+3689,Mann,True,2014,Coppelius,23
+3690,Mädchen,False,2014,Coppelius,23
+3691,Mädchen,False,2014,Coppelius,23
+3692,Herr,True,2014,Coppelius,23
+3693,Mann,True,2014,Coppelius,23
+3694,Mann,True,2014,Coppelius,23
+3695,Mann,True,2014,Coppelius,23
+3696,Mann,True,2014,Coppelius,23
+3697,Mann,True,2014,Coppelius,23
+3698,Mann,True,2014,Coppelius,23
+3699,Mann,True,2014,Coppelius,23
+3700,Mann,True,2014,Coppelius,23
+3701,Mann,True,2014,Coppelius,23
+3702,Mann,True,2014,Coppelius,23
+3703,Mann,True,2014,Coppelius,23
+3704,Mann,True,2014,Coppelius,23
+3705,Mann,True,2014,Coppelius,23
+3706,Mann,True,2014,Coppelius,23
+3707,Mädchen,False,2014,Coppelius,23
+3708,Herr,True,2014,Coppelius,23
+3709,Mann,True,2014,Coppelius,23
+3710,Herr,True,2014,Coppelius,23
+3711,Mann,True,2014,Coppelius,23
+3712,Dame,False,2014,Coppelius,23
+3713,Mann,True,2014,Coppelius,23
+3714,Herr,True,2014,Coppelius,23
+3715,Herr,True,2014,Coppelius,23
+3716,Herr,True,2014,Coppelius,23
+3717,Mann,True,2014,Coppelius,23
+3718,Mann,True,2014,Coppelius,23
+3719,Mann,True,2014,Coppelius,23
+3720,Mann,True,2014,Coppelius,23
+3721,Herr,True,2014,Coppelius,23
+3722,Herr,True,2014,Coppelius,23
+3723,Mann,True,2014,Coppelius,23
+3724,Mann,True,2014,Coppelius,23
+3725,Herr,True,2014,Coppelius,23
+3726,Mann,True,2014,Coppelius,23
+3727,Mann,True,2014,Coppelius,23
+3728,Mann,True,2014,Coppelius,23
+3729,Herr,True,2014,Coppelius,23
+3730,Mann,True,2014,Coppelius,23
+3731,Mann,True,2014,Coppelius,23
+3732,Mann,True,2014,Coppelius,23
+3733,Mann,True,2014,Coppelius,23
+3734,Mann,True,2014,Coppelius,23
+3735,Mann,True,2014,Coppelius,23
+3736,Mann,True,2014,Coppelius,23
+3737,Mann,True,2014,Coppelius,23
+3738,Mann,True,2014,Coppelius,23
+3739,Mann,True,2014,Coppelius,23
+3740,Herr,True,2014,Coppelius,23
+3741,Herr,True,2014,Coppelius,23
+3742,Mann,True,2014,Coppelius,23
+3743,Mann,True,2014,Coppelius,23
+3744,Mann,True,2014,Coppelius,23
+3745,Herr,True,2014,Coppelius,23
+3746,Mann,True,2014,Coppelius,23
+3747,Mann,True,2014,Coppelius,23
+3748,Mann,True,2014,Coppelius,23
+3749,Ehefrau,False,2014,Coppelius,23
+3750,Mann,True,2014,Coppelius,23
+3751,Mann,True,2008,OOMPH!,47
+3752,Mann,True,2008,OOMPH!,47
+3753,Junge,True,2008,OOMPH!,47
+3754,Herr,True,2013,Coppelius,31
+3755,Mann,True,2012,Callejon,37
+3756,Mann,True,2012,Callejon,37
+3757,Mann,True,2012,Callejon,37
+3758,Herr,True,2011,9MM,0
+3759,Herr,True,2011,9MM,0
+3760,Mann,True,2011,9MM,0
+3761,Mann,True,2011,9MM,0
+3762,Mann,True,2015,Dritte Wahl,43
+3763,Herr,True,2015,Dritte Wahl,43
+3764,Junge,True,2012,Serum 114,0
+3765,Junge,True,2012,Serum 114,0
+3766,Junge,True,2012,Serum 114,0
+3767,Junge,True,2012,Serum 114,0
+3768,Junge,True,2012,Serum 114,0
+3769,Junge,True,2012,Serum 114,0
+3770,Mann,True,2021,Feuerschwanz,32
+3771,Mann,True,2021,Feuerschwanz,42
+3772,Mann,True,2021,Feuerschwanz,41
+3773,Mädchen,False,2013,In Extremo,45
+3774,Mädchen,False,2013,In Extremo,45
+3775,Mädchen,False,2013,In Extremo,45
+3776,Mädchen,False,2013,In Extremo,45
+3777,Herr,True,2008,Die Toten Hosen,50
+3778,Mädchen,False,2007,Broilers,56
+3779,Mädchen,False,2021,Broilers,51
+3780,Mädchen,False,2021,Broilers,51
+3781,Mann,True,2022,Sondaschule,45
+3782,Mann,True,2002,Sondaschule,30
+3783,Junge,True,2023,Swiss & Die Andern,46
+3784,Mann,True,2019,Swiss & Die Andern,49
+3785,Mann,True,2019,Swiss & Die Andern,49
+3786,Mann,True,1999,Die Kassierer,42
+3787,Mann,True,2003,Die Kassierer,35
+3788,Mann,True,1999,Die Kassierer,33
+3789,Mann,True,1999,Die Kassierer,32
+3790,Mann,True,2014,Wizo,42
+3791,Mann,True,2014,Wizo,42
+3792,Mann,True,2023,Prinz Pi,50
+3793,Junge,True,2011,Prinz Pi,48
+3794,Mann,True,2023,Prinz Pi,42
+3795,Mann,True,2017,Prinz Pi,47
+3796,Mädchen,False,2011,Prinz Pi,47
+3797,Mann,True,2015,Grossstadtgeflüster,57
+3798,Mann,True,2012,SDP,63
+3799,Mädchen,False,2015,Die Orsons,52
+3800,Mann,True,2019,Sido,59
+3801,Mädchen,False,2018,LEA,63
+3802,Mädchen,False,2019,Sarah Connor,60
+3803,Mann,True,2019,Sarah Connor,60
+3804,Mädchen,False,2019,Sarah Connor,60
+3805,Mann,True,2014,CRO,72
+3806,Mann,True,2014,CRO,72
+3807,Mann,True,2008,Udo Lindenberg,49
+3808,Mädchen,False,2012,Max Herre,53
+3809,Mädchen,False,2012,Max Herre,53
+3810,Mädchen,False,2012,Max Herre,53
+3811,Mädchen,False,2012,Max Herre,53
+3812,Mädchen,False,2012,Max Herre,53
+3813,Mann,True,2019,Capital Bra,59
+3814,Mann,True,2019,Capital Bra,59
+3815,Mann,True,2019,Capital Bra,59
+3816,Mann,True,2019,Capital Bra,59
+3817,Mann,True,2017,Mia Julia,55
+3818,Mann,True,2017,Mia Julia,55
+3819,Mann,True,2012,Max Herre,48
+3820,Mann,True,2012,Max Herre,48
+3821,Mister,True,2021,Marteria,59
+3822,Mann,True,2010,Marteria,52
+3823,Mädchen,False,2014,Sido,64
+3824,Junge,True,2014,Sido,64
+3825,Mädchen,False,2001,Fettes Brot,55
+3826,Mädchen,False,2001,Fettes Brot,55
+3827,Mädchen,False,2001,Fettes Brot,55
+3828,Mädchen,False,2001,Fettes Brot,55
+3829,Mädchen,False,2001,Fettes Brot,55
+3830,Mädchen,False,2001,Fettes Brot,55
+3831,Mädchen,False,2001,Fettes Brot,55
+3832,Mädchen,False,2001,Fettes Brot,55
+3833,Mädchen,False,2001,Fettes Brot,55
+3834,Mädchen,False,2001,Fettes Brot,55
+3835,Mädchen,False,2001,Fettes Brot,55
+3836,Mädchen,False,2001,Fettes Brot,55
+3837,Mädchen,False,2001,Fettes Brot,55
+3838,Mädchen,False,2001,Fettes Brot,55
+3839,Mädchen,False,2001,Fettes Brot,55
+3840,Mädchen,False,2001,Fettes Brot,55
+3841,Mann,True,2001,Fettes Brot,55
+3842,Mädchen,False,2001,Fettes Brot,55
+3843,Mädchen,False,2001,Fettes Brot,55
+3844,Mädchen,False,2001,Fettes Brot,55
+3845,Mädchen,False,2001,Fettes Brot,55
+3846,Mädchen,False,2001,Fettes Brot,55
+3847,Mädchen,False,2001,Fettes Brot,55
+3848,Mädchen,False,2001,Fettes Brot,55
+3849,Mädchen,False,2001,Fettes Brot,55
+3850,Mädchen,False,2001,Fettes Brot,55
+3851,Mädchen,False,2001,Fettes Brot,55
+3852,Mädchen,False,2001,Fettes Brot,55
+3853,Mädchen,False,2001,Fettes Brot,55
+3854,Mädchen,False,2001,Fettes Brot,55
+3855,Junge,True,2010,Bushido,62
+3856,Junge,True,2010,Bushido,62
+3857,Mann,True,2010,Bushido,62
+3858,Mann,True,2010,Bushido,62
+3859,Junge,True,2010,Bushido,62
+3860,Junge,True,2010,Bushido,62
+3861,Mann,True,2009,Samy Deluxe,49
+3862,Junge,True,2008,Kool Savas,47
+3863,Junge,True,2008,Kool Savas,47
+3864,Mann,True,2008,Kool Savas,47
+3865,Mann,True,2008,Kool Savas,47
+3866,Mann,True,2014,Kollegah,59
+3867,Mann,True,2012,Sido,40
+3868,Mann,True,1998,Fettes Brot,50
+3869,Herr,True,1998,Fettes Brot,50
+3870,Mann,True,1995,Fettes Brot,47
+3871,Mann,True,1995,Fettes Brot,47
+3872,Junge,True,2008,Kool Savas,49
+3873,Junge,True,2014,Kraftklub,66
+3874,Mädchen,False,2013,Genetikk,64
+3875,Mann,True,2018,Die Fantastischen Vier,55
+3876,Mann,True,2018,Die Fantastischen Vier,55
+3877,Dame,False,2011,Die Atzen,62
+3878,Mädchen,False,2018,Rooz,55
+3879,Mann,True,2018,Rooz,55
+3880,Mann,True,2016,Samy Deluxe,48
+3881,Girl,False,2010,Samy Deluxe,22
+3882,Mann,True,2023,Samy Deluxe,42
+3883,Mann,True,2001,Samy Deluxe,35
+3884,Junge,True,2001,Samy Deluxe,39
+3885,Mann,True,2001,Samy Deluxe,39
+3886,Mister,True,2005,Samy Deluxe,41
+3887,Mann,True,2004,Beginner,42
+3888,Mann,True,1998,Die 3. Generation,32
+3889,Mann,True,1998,Die 3. Generation,32
+3890,Mann,True,1998,Die 3. Generation,32
+3891,Mann,True,1998,Too Strong,26
+3892,Mädchen,False,1998,Too Strong,26
+3893,Mann,True,1998,Fischmob,43
+3894,Mann,True,2013,Die Firma,28
+3895,Mister,True,2014,Spax,23
+3896,Mann,True,1998,Moses Pelham,24
+3897,Mann,True,1998,Moses Pelham,24
+3898,Mann,True,1998,Freundeskreis,24
+3899,Junge,True,1998,Freundeskreis,24
+3900,Mann,True,1998,Freundeskreis,24
+3901,Junge,True,1998,Freundeskreis,24
+3902,Mann,True,1998,Freundeskreis,24
+3903,Mann,True,1998,Freundeskreis,24
+3904,Mann,True,1998,Freundeskreis,24
+3905,Mann,True,1998,Freundeskreis,24
+3906,Junge,True,1998,Freundeskreis,24
+3907,Mann,True,1998,Freundeskreis,24
+3908,Mann,True,1998,Freundeskreis,24
+3909,Mann,True,1998,Freundeskreis,24
+3910,Junge,True,1998,Freundeskreis,24
+3911,Mann,True,1998,Freundeskreis,24
+3912,Mann,True,1998,Freundeskreis,24
+3913,Mann,True,1998,Freundeskreis,24
+3914,Junge,True,1998,Freundeskreis,24
+3915,Mann,True,1998,Freundeskreis,24
+3916,Mann,True,1998,Freundeskreis,24
+3917,Mann,True,1998,Freundeskreis,24
+3918,Herr,True,1998,Freundeskreis,24
+3919,Mann,True,1998,Freundeskreis,24
+3920,Mann,True,1998,Freundeskreis,24
+3921,Junge,True,2018,Main Concept,17
+3922,Herr,True,1998,D-Flame,21
+3923,Herr,True,1998,D-Flame,21
+3924,Mann,True,2014,Spax,15
+3925,Mann,True,2018,Main Concept,25
+3926,Junge,True,2013,Toni-L,17
+3927,Junge,True,2013,Toni-L,17
+3928,Junge,True,2013,Toni-L,17
+3929,Mann,True,1998,Fischmob,36
+3930,Mann,True,2003,ASD,35
+3931,Junge,True,2003,ASD,35
+3932,Mann,True,2003,ASD,35
+3933,Mann,True,2021,Megaloh,27
+3934,Mann,True,2015,ASD,28
+3935,Mann,True,2015,ASD,25
+3936,Mann,True,2003,ASD,25
+3937,Mann,True,2015,Afrob,36
+3938,Mann,True,2021,DJ Ötzi,41
+3939,Mann,True,2017,DJ Ötzi,18
+3940,Mann,True,2017,DJ Ötzi,18
+3941,Mann,True,2017,DJ Ötzi,32
+3942,Mann,True,2017,DJ Ötzi,32
+3943,Mann,True,2013,DJ Ötzi,13
+3944,Mann,True,2013,DJ Ötzi,13
+3945,Mann,True,2013,DJ Ötzi,13
+3946,Mann,True,2013,DJ Ötzi,13
+3947,Mann,True,2010,DJ Ötzi,7
+3948,Girl,False,2010,DJ Ötzi,5
+3949,Girl,False,2002,DJ Ötzi,2
+3950,Girl,False,2002,DJ Ötzi,4
+3951,Madame,False,2002,DJ Ötzi,2
+3952,Mädchen,False,2020,Rammstein,26
+3953,Mädchen,False,2020,Rammstein,32
+3954,Mädchen,False,2020,Rammstein,26
+3955,Mann,True,2020,Rammstein,26
+3956,Mann,True,2020,Rammstein,26
+3957,Mann,True,2020,Rammstein,26
+3958,Weib,False,2020,Rammstein,26
+3959,Mann,True,2020,Rammstein,26
+3960,Mann,True,2020,Rammstein,26
+3961,Mann,True,2020,Rammstein,26
+3962,Mann,True,2020,Rammstein,26
+3963,Mann,True,2020,Rammstein,26
+3964,Mann,True,2020,Rammstein,26
+3965,Mann,True,2020,Rammstein,26
+3966,Mann,True,2020,Rammstein,26
+3967,Mann,True,2020,Rammstein,26
+3968,Mann,True,2020,Rammstein,26
+3969,Mann,True,2020,Rammstein,26
+3970,Mann,True,2020,Rammstein,26
+3971,Mann,True,2020,Rammstein,26
+3972,Mann,True,2020,Rammstein,26
+3973,Mann,True,2020,Rammstein,26
+3974,Mann,True,2020,Rammstein,26
+3975,Mann,True,2020,Rammstein,26
+3976,Mann,True,2020,Rammstein,26
+3977,Mann,True,2020,Rammstein,26
+3978,Mann,True,2020,Rammstein,26
+3979,Mann,True,2020,Rammstein,26
+3980,Mann,True,2020,Rammstein,26
+3981,Mann,True,2020,Rammstein,26
+3982,Mann,True,2020,Rammstein,26
+3983,Fräulein,False,2020,Rammstein,36
+3984,Mann,True,2020,Rammstein,33
+3985,Mann,True,2020,Rammstein,33
+3986,Mann,True,2020,Rammstein,27
+3987,Mann,True,2020,Rammstein,27
+3988,Fräulein,False,2020,Rammstein,37
+3989,Fräulein,False,2020,Rammstein,37
+3990,Mann,True,2020,Rammstein,39
+3991,Mann,True,2020,Rammstein,39
+3992,Mann,True,2020,Rammstein,39
+3993,Mann,True,2017,Trailerpark,51
+3994,Lady,False,2017,Trailerpark,51
+3995,Junge,True,2017,Trailerpark,62
+3996,Mann,True,2017,Trailerpark,62
+3997,Junge,True,2017,Trailerpark,62
+3998,Mann,True,2017,Trailerpark,35
+3999,Ehefrau,False,2017,Trailerpark,42
+4000,Mädchen,False,2017,Trailerpark,34
+4001,Mädchen,False,2017,Trailerpark,34
+4002,Mädchen,False,2017,Trailerpark,34
+4003,Mädchen,False,2017,Trailerpark,47
+4004,Mann,True,2017,Trailerpark,37
+4005,Mann,True,2017,Trailerpark,37
+4006,Dame,False,2017,Trailerpark,37
+4007,Mann,True,2017,Trailerpark,37
+4008,Junge,True,2014,Trailerpark,66
+4009,Mann,True,2014,Trailerpark,58
+4010,Junge,True,2014,Trailerpark,58
+4011,Mann,True,2014,Trailerpark,58
+4012,Mann,True,2014,Trailerpark,58
+4013,Junge,True,2014,Trailerpark,51
+4014,Mann,True,2014,Trailerpark,51
+4015,Mann,True,2014,Trailerpark,40
+4016,Mann,True,2014,Trailerpark,37
+4017,Mann,True,2014,Trailerpark,48
+4018,Mädchen,False,2014,Trailerpark,39
+4019,Girl,False,2014,Trailerpark,41
+4020,Mann,True,2014,Trailerpark,41
+4021,Girl,False,2014,Trailerpark,41
+4022,Mann,True,2014,Trailerpark,41
+4023,Mädchen,False,2016,Glasperlenspiel,22
+4024,Mädchen,False,2016,Glasperlenspiel,22
+4025,Mädchen,False,2016,Glasperlenspiel,22
+4026,Mädchen,False,2016,Glasperlenspiel,22
+4027,Mädchen,False,2016,Glasperlenspiel,22
+4028,Mädchen,False,2016,Glasperlenspiel,22
+4029,Mädchen,False,2016,Glasperlenspiel,22
+4030,Mädchen,False,2016,Glasperlenspiel,22
+4031,Mädchen,False,2016,Glasperlenspiel,22
+4032,Mädchen,False,2016,Glasperlenspiel,22
+4033,Mädchen,False,2016,Glasperlenspiel,22
+4034,Mädchen,False,2016,Glasperlenspiel,27
+4035,Mädchen,False,2016,Glasperlenspiel,27
+4036,Mädchen,False,2016,Glasperlenspiel,27
+4037,Mädchen,False,2016,Glasperlenspiel,27
+4038,Mädchen,False,2016,Glasperlenspiel,27
+4039,Mädchen,False,2016,Glasperlenspiel,27
+4040,Mädchen,False,2016,Glasperlenspiel,27
+4041,Mädchen,False,2016,Glasperlenspiel,27
+4042,Mädchen,False,2016,Glasperlenspiel,27
+4043,Mann,True,2018,Nena,18
+4044,Junge,True,2018,Nena,18
+4045,Boy,True,2018,Nena,18
+4046,Junge,True,2018,Nena,18
+4047,Mann,True,2018,Nena,18
+4048,Mann,True,2018,Nena,18
+4049,Mann,True,2018,Nena,18
+4050,Mädchen,False,2018,Nena,18
+4051,Mann,True,2018,Nena,18
+4052,Mann,True,2018,Nena,18
+4053,Mann,True,2018,Nena,18
+4054,Mister,True,2018,Nena,15
+4055,Mann,True,2018,Nena,15
+4056,Mann,True,2018,Nena,15
+4057,Mann,True,2018,Nena,17
+4058,Dame,False,2018,Nena,24
+4059,Mann,True,2018,Nena,17
+4060,Mister,True,2018,Nena,17
+4061,Mann,True,2018,Nena,17
+4062,Mann,True,2018,Nena,17
+4063,Mann,True,2018,Nena,17
+4064,Mädchen,False,2018,Nena,17
+4065,Mann,True,2018,Nena,35
+4066,Mädchen,False,2018,Nena,35
+4067,Mädchen,False,2018,Nena,35
+4068,Mädchen,False,2018,Nena,35
+4069,Mann,True,2018,Nena,35
+4070,Mann,True,2018,Nena,35
+4071,Mann,True,2018,Nena,35
+4072,Junge,True,2018,Nena,35
+4073,Herr,True,2018,Nena,17
+4074,Mann,True,2009,Nena,13
+4075,Mann,True,2009,Nena,13
+4076,Lady,False,2008,Nena,11
+4077,Girl,False,2008,Nena,11
+4078,Lady,False,2008,Nena,11
+4079,Mann,True,2002,Nena,49
+4080,Mann,True,2002,Nena,49
+4081,Mann,True,2002,Nena,49
+4082,Mädchen,False,2002,Nena,31
+4083,Herr,True,2002,Nena,34
+4084,Herr,True,2002,Nena,34
+4085,Mann,True,1999,Nena,3
+4086,Herr,True,1999,Nena,1
+4087,Herr,True,1999,Nena,1
+4088,Mann,True,1999,Nena,1
+4089,Herr,True,1999,Nena,1
+4090,Herr,True,1999,Nena,1
+4091,Mann,True,1999,Nena,1
+4092,Weib,False,1999,Nena,1
+4093,Herr,True,1999,Nena,1
+4094,Herr,True,1999,Nena,1
+4095,Herr,True,1999,Nena,1
+4096,Herr,True,1999,Nena,1
+4097,Weib,False,1999,Nena,1
+4098,Mann,True,1999,Nena,1
+4099,Junge,True,1999,Nena,1
+4100,Mann,True,1999,Nena,3
+4101,Mann,True,1999,Nena,3
+4102,Mann,True,1999,Nena,3
+4103,Mann,True,1999,Nena,3
+4104,Dame,False,1999,Nena,3
+4105,Dame,False,1999,Nena,3
+4106,Dame,False,1999,Nena,3
+4107,Mann,True,1999,Nena,3
+4108,Mann,True,1999,Nena,3
+4109,Mann,True,1999,Nena,3
+4110,Dame,False,1999,Nena,3
+4111,Dame,False,1999,Nena,3
+4112,Mann,True,1999,Nena,3
+4113,Mädchen,False,1999,Nena,3
+4114,Fräulein,False,1999,Nena,3
+4115,Mann,True,1999,Nena,3
+4116,Mann,True,1999,Nena,3
+4117,Mann,True,1999,Nena,3
+4118,Mann,True,1999,Nena,3
+4119,Mann,True,1999,Nena,3
+4120,Mann,True,1999,Nena,3
+4121,Mann,True,1999,Nena,3
+4122,Mann,True,1999,Nena,3
+4123,Mann,True,1999,Nena,3
+4124,Mädchen,False,1999,Nena,3
+4125,Dame,False,1999,Nena,3
+4126,Weib,False,1999,Nena,3
+4127,Mädchen,False,1999,Nena,3
+4128,Dame,False,1999,Nena,3
+4129,Herr,True,1999,Nena,3
+4130,Dame,False,1999,Nena,3
+4131,Mann,True,1999,Nena,3
+4132,Herr,True,1999,Nena,3
+4133,Herr,True,1999,Nena,3
+4134,Junge,True,1999,Nena,3
+4135,Dame,False,1999,Nena,3
+4136,Mann,True,1999,Nena,3
+4137,Dame,False,1999,Nena,3
+4138,Herr,True,1999,Nena,3
+4139,Dame,False,1999,Nena,3
+4140,Mädchen,False,1999,Nena,3
+4141,Mädchen,False,1999,Nena,3
+4142,Mann,True,1999,Nena,3
+4143,Mädchen,False,1999,Nena,3
+4144,Dame,False,1999,Nena,3
+4145,Mann,True,1999,Nena,3
+4146,Weib,False,1999,Nena,3
+4147,Mädchen,False,1999,Nena,3
+4148,Mädchen,False,1999,Nena,3
+4149,Mann,True,1999,Nena,3
+4150,Mädchen,False,1999,Nena,3
+4151,Mädchen,False,1999,Nena,3
+4152,Dame,False,1999,Nena,3
+4153,Mädchen,False,1999,Nena,3
+4154,Mädchen,False,1999,Nena,3
+4155,Mann,True,1999,Nena,3
+4156,Mann,True,1999,Nena,3
+4157,Herr,True,1999,Nena,3
+4158,Dame,False,1999,Nena,3
+4159,Mann,True,1999,Nena,0
+4160,Herr,True,1999,Nena,0
+4161,Junge,True,1999,Nena,0
+4162,Mann,True,1999,Nena,1
+4163,Mädchen,False,1999,Nena,1
+4164,Junge,True,1999,Nena,1
+4165,Mann,True,1999,Nena,1
+4166,Mann,True,1999,Nena,1
+4167,Mann,True,1999,Nena,1
+4168,Junge,True,1999,Nena,1
+4169,Junge,True,1999,Nena,1
+4170,Mann,True,1998,Nena,26
+4171,Mädchen,False,1998,Nena,7
+4172,Mann,True,1997,Nena,8
+4173,Mann,True,1997,Nena,5
+4174,Mädchen,False,1997,Nena,6
+4175,Weib,False,1997,Nena,5
+4176,Mann,True,1997,Nena,5
+4177,Dame,False,1997,Nena,0
+4178,Herr,True,1997,Nena,0
+4179,Mann,True,1997,Nena,0
+4180,Mädchen,False,1997,Nena,0
+4181,Dame,False,1997,Nena,0
+4182,Dame,False,1997,Nena,0
+4183,Mann,True,1997,Nena,0
+4184,Weib,False,1997,Nena,0
+4185,Weib,False,1997,Nena,0
+4186,Mann,True,1997,Nena,0
+4187,Dame,False,1997,Nena,0
+4188,Mann,True,1997,Nena,0
+4189,Mädchen,False,1997,Nena,0
+4190,Mädchen,False,1997,Nena,0
+4191,Mann,True,1997,Nena,0
+4192,Mann,True,1997,Nena,0
+4193,Mann,True,1997,Nena,0
+4194,Dame,False,1997,Nena,0
+4195,Dame,False,1997,Nena,0
+4196,Mann,True,1997,Nena,0
+4197,Mann,True,1997,Nena,0
+4198,Dame,False,1997,Nena,0
+4199,Mann,True,1997,Nena,0
+4200,Weib,False,1997,Nena,0
+4201,Dame,False,1997,Nena,0
+4202,Mädchen,False,1997,Nena,0
+4203,Mädchen,False,1997,Nena,0
+4204,Mädchen,False,1997,Nena,0
+4205,Mann,True,1997,Nena,0
+4206,Mann,True,1997,Nena,0
+4207,Mann,True,1997,Nena,0
+4208,Mann,True,1997,Nena,0
+4209,Mann,True,1997,Nena,0
+4210,Dame,False,1997,Nena,0
+4211,Mann,True,1997,Nena,0
+4212,Mann,True,1997,Nena,0
+4213,Weib,False,1997,Nena,0
+4214,Mann,True,1997,Nena,0
+4215,Dame,False,1997,Nena,0
+4216,Mann,True,1997,Nena,0
+4217,Mädchen,False,1997,Nena,0
+4218,Mädchen,False,1997,Nena,0
+4219,Mann,True,1997,Nena,0
+4220,Mann,True,1997,Nena,0
+4221,Mann,True,1997,Nena,0
+4222,Mann,True,1997,Nena,0
+4223,Mann,True,1997,Nena,0
+4224,Mann,True,1997,Nena,0
+4225,Mädchen,False,1997,Nena,0
+4226,Mann,True,1997,Nena,0
+4227,Mädchen,False,1997,Nena,0
+4228,Mann,True,1997,Nena,0
+4229,Mädchen,False,1997,Nena,0
+4230,Mann,True,1997,Nena,0
+4231,Herr,True,1997,Nena,0
+4232,Dame,False,1997,Nena,0
+4233,Mädchen,False,1997,Nena,0
+4234,Mann,True,1997,Nena,0
+4235,Herr,True,1997,Nena,0
+4236,Dame,False,1997,Nena,0
+4237,Dame,False,1997,Nena,0
+4238,Dame,False,1997,Nena,0
+4239,Weib,False,1997,Nena,0
+4240,Weib,False,1997,Nena,0
+4241,Dame,False,1997,Nena,0
+4242,Weib,False,1997,Nena,0
+4243,Dame,False,1997,Nena,0
+4244,Dame,False,1997,Nena,0
+4245,Dame,False,1997,Nena,0
+4246,Dame,False,1997,Nena,0
+4247,Ehefrau,False,1997,Nena,0
+4248,Mädchen,False,1997,Nena,0
+4249,Mädchen,False,1997,Nena,0
+4250,Mann,True,1997,Nena,0
+4251,Dame,False,1997,Nena,0
+4252,Mann,True,1997,Nena,0
+4253,Mann,True,1997,Nena,0
+4254,Weib,False,1997,Nena,0
+4255,Mann,True,1997,Nena,0
+4256,Gatte,True,1997,Nena,0
+4257,Gatte,True,1997,Nena,0
+4258,Mann,True,1997,Nena,0
+4259,Dame,False,1997,Nena,0
+4260,Mann,True,1997,Nena,0
+4261,Mann,True,1997,Nena,0
+4262,Mädchen,False,1997,Nena,0
+4263,Mädchen,False,1997,Nena,0
+4264,Fräulein,False,1997,Nena,0
+4265,Weib,False,1997,Nena,0
+4266,Dame,False,1997,Nena,0
+4267,Dame,False,1997,Nena,0
+4268,Dame,False,1997,Nena,0
+4269,Dame,False,1997,Nena,0
+4270,Mann,True,1997,Nena,0
+4271,Mann,True,1997,Nena,0
+4272,Mann,True,1997,Nena,0
+4273,Mann,True,1997,Nena,0
+4274,Mädchen,False,1997,Nena,0
+4275,Dame,False,1997,Nena,0
+4276,Mädchen,False,1997,Nena,0
+4277,Mädchen,False,1997,Nena,0
+4278,Dame,False,1997,Nena,0
+4279,Dame,False,1997,Nena,0
+4280,Mann,True,1997,Nena,0
+4281,Mann,True,1997,Nena,0
+4282,Mann,True,1997,Nena,0
+4283,Dame,False,1997,Nena,0
+4284,Herr,True,1997,Nena,0
+4285,Herr,True,1997,Nena,0
+4286,Herr,True,1997,Nena,0
+4287,Herr,True,1997,Nena,0
+4288,Mann,True,1997,Nena,0
+4289,Mann,True,1997,Nena,0
+4290,Herr,True,1997,Nena,0
+4291,Herr,True,1997,Nena,0
+4292,Herr,True,1997,Nena,0
+4293,Mann,True,1997,Nena,0
+4294,Herr,True,1997,Nena,0
+4295,Mann,True,1997,Nena,0
+4296,Mädchen,False,1997,Nena,0
+4297,Mann,True,1997,Nena,0
+4298,Mädchen,False,1997,Nena,0
+4299,Mädchen,False,1997,Nena,0
+4300,Mann,True,1997,Nena,0
+4301,Dame,False,1997,Nena,0
+4302,Mädchen,False,1997,Nena,0
+4303,Dame,False,1997,Nena,0
+4304,Mädchen,False,1997,Nena,0
+4305,Mann,True,1997,Nena,0
+4306,Mann,True,1997,Nena,0
+4307,Dame,False,1997,Nena,0
+4308,Mann,True,1997,Nena,0
+4309,Dame,False,1997,Nena,0
+4310,Mann,True,1997,Nena,0
+4311,Mann,True,1997,Nena,0
+4312,Mann,True,1997,Nena,0
+4313,Dame,False,1997,Nena,0
+4314,Mann,True,1997,Nena,0
+4315,Herr,True,1997,Nena,0
+4316,Herr,True,1997,Nena,0
+4317,Herr,True,1997,Nena,0
+4318,Dame,False,1997,Nena,0
+4319,Mann,True,1997,Nena,0
+4320,Herr,True,1997,Nena,0
+4321,Mann,True,1997,Nena,0
+4322,Herr,True,1997,Nena,0
+4323,Herr,True,1997,Nena,0
+4324,Herr,True,1997,Nena,0
+4325,Mann,True,1997,Nena,0
+4326,Mädchen,False,1997,Nena,0
+4327,Mann,True,1997,Nena,0
+4328,Herr,True,1997,Nena,0
+4329,Dame,False,1997,Nena,0
+4330,Mann,True,1997,Nena,0
+4331,Mann,True,1997,Nena,3
+4332,Dame,False,1997,Nena,3
+4333,Herr,True,1997,Nena,3
+4334,Mann,True,1997,Nena,3
+4335,Mädchen,False,1997,Nena,3
+4336,Dame,False,1997,Nena,3
+4337,Dame,False,1997,Nena,3
+4338,Mann,True,1997,Nena,3
+4339,Weib,False,1997,Nena,3
+4340,Weib,False,1997,Nena,3
+4341,Mann,True,1997,Nena,3
+4342,Dame,False,1997,Nena,3
+4343,Mann,True,1997,Nena,3
+4344,Mädchen,False,1997,Nena,3
+4345,Mädchen,False,1997,Nena,3
+4346,Mann,True,1997,Nena,3
+4347,Mann,True,1997,Nena,3
+4348,Mann,True,1997,Nena,3
+4349,Dame,False,1997,Nena,3
+4350,Dame,False,1997,Nena,3
+4351,Mann,True,1997,Nena,3
+4352,Mann,True,1997,Nena,3
+4353,Dame,False,1997,Nena,3
+4354,Mann,True,1997,Nena,3
+4355,Weib,False,1997,Nena,3
+4356,Dame,False,1997,Nena,3
+4357,Mädchen,False,1997,Nena,3
+4358,Mädchen,False,1997,Nena,3
+4359,Mädchen,False,1997,Nena,3
+4360,Mann,True,1997,Nena,3
+4361,Mann,True,1997,Nena,3
+4362,Mann,True,1997,Nena,3
+4363,Mann,True,1997,Nena,3
+4364,Mann,True,1997,Nena,3
+4365,Dame,False,1997,Nena,3
+4366,Mann,True,1997,Nena,3
+4367,Mann,True,1997,Nena,3
+4368,Weib,False,1997,Nena,3
+4369,Mann,True,1997,Nena,3
+4370,Dame,False,1997,Nena,3
+4371,Mann,True,1997,Nena,3
+4372,Mädchen,False,1997,Nena,3
+4373,Mädchen,False,1997,Nena,3
+4374,Mann,True,1997,Nena,3
+4375,Mann,True,1997,Nena,3
+4376,Mann,True,1997,Nena,3
+4377,Mann,True,1997,Nena,3
+4378,Mann,True,1997,Nena,3
+4379,Mann,True,1997,Nena,3
+4380,Mädchen,False,1997,Nena,3
+4381,Mann,True,1997,Nena,3
+4382,Mädchen,False,1997,Nena,3
+4383,Mann,True,1997,Nena,3
+4384,Mädchen,False,1997,Nena,3
+4385,Mann,True,1997,Nena,3
+4386,Herr,True,1997,Nena,3
+4387,Dame,False,1997,Nena,3
+4388,Mädchen,False,1997,Nena,3
+4389,Mann,True,1997,Nena,3
+4390,Herr,True,1997,Nena,3
+4391,Dame,False,1997,Nena,3
+4392,Dame,False,1997,Nena,3
+4393,Dame,False,1997,Nena,3
+4394,Weib,False,1997,Nena,3
+4395,Weib,False,1997,Nena,3
+4396,Dame,False,1997,Nena,3
+4397,Weib,False,1997,Nena,3
+4398,Dame,False,1997,Nena,3
+4399,Dame,False,1997,Nena,3
+4400,Dame,False,1997,Nena,3
+4401,Dame,False,1997,Nena,3
+4402,Ehefrau,False,1997,Nena,3
+4403,Mädchen,False,1997,Nena,3
+4404,Mädchen,False,1997,Nena,3
+4405,Mann,True,1997,Nena,3
+4406,Dame,False,1997,Nena,3
+4407,Mann,True,1997,Nena,3
+4408,Mann,True,1997,Nena,3
+4409,Weib,False,1997,Nena,3
+4410,Mann,True,1997,Nena,3
+4411,Gatte,True,1997,Nena,3
+4412,Gatte,True,1997,Nena,3
+4413,Mann,True,1997,Nena,3
+4414,Dame,False,1997,Nena,3
+4415,Mann,True,1997,Nena,3
+4416,Mann,True,1997,Nena,3
+4417,Mädchen,False,1997,Nena,3
+4418,Mädchen,False,1997,Nena,3
+4419,Fräulein,False,1997,Nena,3
+4420,Weib,False,1997,Nena,3
+4421,Dame,False,1997,Nena,3
+4422,Dame,False,1997,Nena,3
+4423,Dame,False,1997,Nena,3
+4424,Dame,False,1997,Nena,3
+4425,Mann,True,1997,Nena,3
+4426,Mann,True,1997,Nena,3
+4427,Mann,True,1997,Nena,3
+4428,Mann,True,1997,Nena,3
+4429,Mädchen,False,1997,Nena,3
+4430,Dame,False,1997,Nena,3
+4431,Mädchen,False,1997,Nena,3
+4432,Mädchen,False,1997,Nena,3
+4433,Dame,False,1997,Nena,3
+4434,Dame,False,1997,Nena,3
+4435,Mann,True,1997,Nena,3
+4436,Mann,True,1997,Nena,3
+4437,Mann,True,1997,Nena,3
+4438,Dame,False,1997,Nena,3
+4439,Herr,True,1997,Nena,3
+4440,Herr,True,1997,Nena,3
+4441,Herr,True,1997,Nena,3
+4442,Herr,True,1997,Nena,3
+4443,Mann,True,1997,Nena,3
+4444,Mann,True,1997,Nena,3
+4445,Herr,True,1997,Nena,3
+4446,Herr,True,1997,Nena,3
+4447,Herr,True,1997,Nena,3
+4448,Mann,True,1997,Nena,3
+4449,Herr,True,1997,Nena,3
+4450,Mann,True,1997,Nena,3
+4451,Mädchen,False,1997,Nena,3
+4452,Mann,True,1997,Nena,3
+4453,Mädchen,False,1997,Nena,3
+4454,Mädchen,False,1997,Nena,3
+4455,Mann,True,1997,Nena,3
+4456,Dame,False,1997,Nena,3
+4457,Mädchen,False,1997,Nena,3
+4458,Dame,False,1997,Nena,3
+4459,Mädchen,False,1997,Nena,3
+4460,Mann,True,1997,Nena,3
+4461,Mann,True,1997,Nena,3
+4462,Dame,False,1997,Nena,3
+4463,Mann,True,1997,Nena,3
+4464,Dame,False,1997,Nena,3
+4465,Mann,True,1997,Nena,3
+4466,Mann,True,1997,Nena,3
+4467,Mann,True,1997,Nena,3
+4468,Dame,False,1997,Nena,3
+4469,Mann,True,1997,Nena,3
+4470,Herr,True,1997,Nena,3
+4471,Herr,True,1997,Nena,3
+4472,Herr,True,1997,Nena,3
+4473,Dame,False,1997,Nena,3
+4474,Mann,True,1997,Nena,3
+4475,Herr,True,1997,Nena,3
+4476,Mann,True,1997,Nena,3
+4477,Herr,True,1997,Nena,3
+4478,Herr,True,1997,Nena,3
+4479,Herr,True,1997,Nena,3
+4480,Mann,True,1997,Nena,3
+4481,Mädchen,False,1997,Nena,3
+4482,Mann,True,1997,Nena,3
+4483,Herr,True,1997,Nena,3
+4484,Dame,False,1997,Nena,3
+4485,Mann,True,1997,Nena,3
+4486,Herr,True,1997,Nena,4
+4487,Dame,False,1997,Nena,0
+4488,Herr,True,1997,Nena,0
+4489,Mann,True,1997,Nena,0
+4490,Mädchen,False,1997,Nena,0
+4491,Dame,False,1997,Nena,0
+4492,Dame,False,1997,Nena,0
+4493,Mann,True,1997,Nena,0
+4494,Weib,False,1997,Nena,0
+4495,Weib,False,1997,Nena,0
+4496,Mann,True,1997,Nena,0
+4497,Dame,False,1997,Nena,0
+4498,Mann,True,1997,Nena,0
+4499,Mädchen,False,1997,Nena,0
+4500,Mädchen,False,1997,Nena,0
+4501,Mann,True,1997,Nena,0
+4502,Mann,True,1997,Nena,0
+4503,Mann,True,1997,Nena,0
+4504,Dame,False,1997,Nena,0
+4505,Dame,False,1997,Nena,0
+4506,Mann,True,1997,Nena,0
+4507,Mann,True,1997,Nena,0
+4508,Dame,False,1997,Nena,0
+4509,Mann,True,1997,Nena,0
+4510,Weib,False,1997,Nena,0
+4511,Dame,False,1997,Nena,0
+4512,Mädchen,False,1997,Nena,0
+4513,Mädchen,False,1997,Nena,0
+4514,Mädchen,False,1997,Nena,0
+4515,Mann,True,1997,Nena,0
+4516,Mann,True,1997,Nena,0
+4517,Mann,True,1997,Nena,0
+4518,Mann,True,1997,Nena,0
+4519,Mann,True,1997,Nena,0
+4520,Dame,False,1997,Nena,0
+4521,Mann,True,1997,Nena,0
+4522,Mann,True,1997,Nena,0
+4523,Weib,False,1997,Nena,0
+4524,Mann,True,1997,Nena,0
+4525,Dame,False,1997,Nena,0
+4526,Mann,True,1997,Nena,0
+4527,Mädchen,False,1997,Nena,0
+4528,Mädchen,False,1997,Nena,0
+4529,Mann,True,1997,Nena,0
+4530,Mann,True,1997,Nena,0
+4531,Mann,True,1997,Nena,0
+4532,Mann,True,1997,Nena,0
+4533,Mann,True,1997,Nena,0
+4534,Mann,True,1997,Nena,0
+4535,Mädchen,False,1997,Nena,0
+4536,Mann,True,1997,Nena,0
+4537,Mädchen,False,1997,Nena,0
+4538,Mann,True,1997,Nena,0
+4539,Mädchen,False,1997,Nena,0
+4540,Mann,True,1997,Nena,0
+4541,Herr,True,1997,Nena,0
+4542,Dame,False,1997,Nena,0
+4543,Mädchen,False,1997,Nena,0
+4544,Mann,True,1997,Nena,0
+4545,Herr,True,1997,Nena,0
+4546,Dame,False,1997,Nena,0
+4547,Dame,False,1997,Nena,0
+4548,Dame,False,1997,Nena,0
+4549,Weib,False,1997,Nena,0
+4550,Weib,False,1997,Nena,0
+4551,Dame,False,1997,Nena,0
+4552,Weib,False,1997,Nena,0
+4553,Dame,False,1997,Nena,0
+4554,Dame,False,1997,Nena,0
+4555,Dame,False,1997,Nena,0
+4556,Dame,False,1997,Nena,0
+4557,Ehefrau,False,1997,Nena,0
+4558,Mädchen,False,1997,Nena,0
+4559,Mädchen,False,1997,Nena,0
+4560,Mann,True,1997,Nena,0
+4561,Dame,False,1997,Nena,0
+4562,Mann,True,1997,Nena,0
+4563,Mann,True,1997,Nena,0
+4564,Weib,False,1997,Nena,0
+4565,Mann,True,1997,Nena,0
+4566,Gatte,True,1997,Nena,0
+4567,Gatte,True,1997,Nena,0
+4568,Mann,True,1997,Nena,0
+4569,Dame,False,1997,Nena,0
+4570,Mann,True,1997,Nena,0
+4571,Mann,True,1997,Nena,0
+4572,Mädchen,False,1997,Nena,0
+4573,Mädchen,False,1997,Nena,0
+4574,Fräulein,False,1997,Nena,0
+4575,Weib,False,1997,Nena,0
+4576,Dame,False,1997,Nena,0
+4577,Dame,False,1997,Nena,0
+4578,Dame,False,1997,Nena,0
+4579,Dame,False,1997,Nena,0
+4580,Mann,True,1997,Nena,0
+4581,Mann,True,1997,Nena,0
+4582,Mann,True,1997,Nena,0
+4583,Mann,True,1997,Nena,0
+4584,Mädchen,False,1997,Nena,0
+4585,Dame,False,1997,Nena,0
+4586,Mädchen,False,1997,Nena,0
+4587,Mädchen,False,1997,Nena,0
+4588,Dame,False,1997,Nena,0
+4589,Dame,False,1997,Nena,0
+4590,Mann,True,1997,Nena,0
+4591,Mann,True,1997,Nena,0
+4592,Mann,True,1997,Nena,0
+4593,Dame,False,1997,Nena,0
+4594,Herr,True,1997,Nena,0
+4595,Herr,True,1997,Nena,0
+4596,Herr,True,1997,Nena,0
+4597,Herr,True,1997,Nena,0
+4598,Mann,True,1997,Nena,0
+4599,Mann,True,1997,Nena,0
+4600,Herr,True,1997,Nena,0
+4601,Herr,True,1997,Nena,0
+4602,Herr,True,1997,Nena,0
+4603,Mann,True,1997,Nena,0
+4604,Herr,True,1997,Nena,0
+4605,Mann,True,1997,Nena,0
+4606,Mädchen,False,1997,Nena,0
+4607,Mann,True,1997,Nena,0
+4608,Mädchen,False,1997,Nena,0
+4609,Mädchen,False,1997,Nena,0
+4610,Mann,True,1997,Nena,0
+4611,Dame,False,1997,Nena,0
+4612,Mädchen,False,1997,Nena,0
+4613,Dame,False,1997,Nena,0
+4614,Mädchen,False,1997,Nena,0
+4615,Mann,True,1997,Nena,0
+4616,Mann,True,1997,Nena,0
+4617,Dame,False,1997,Nena,0
+4618,Mann,True,1997,Nena,0
+4619,Dame,False,1997,Nena,0
+4620,Mann,True,1997,Nena,0
+4621,Mann,True,1997,Nena,0
+4622,Mann,True,1997,Nena,0
+4623,Dame,False,1997,Nena,0
+4624,Mann,True,1997,Nena,0
+4625,Herr,True,1997,Nena,0
+4626,Herr,True,1997,Nena,0
+4627,Herr,True,1997,Nena,0
+4628,Dame,False,1997,Nena,0
+4629,Mann,True,1997,Nena,0
+4630,Herr,True,1997,Nena,0
+4631,Mann,True,1997,Nena,0
+4632,Herr,True,1997,Nena,0
+4633,Herr,True,1997,Nena,0
+4634,Herr,True,1997,Nena,0
+4635,Mann,True,1997,Nena,0
+4636,Mädchen,False,1997,Nena,0
+4637,Mann,True,1997,Nena,0
+4638,Herr,True,1997,Nena,0
+4639,Dame,False,1997,Nena,0
+4640,Mann,True,1997,Nena,0
+4641,Mann,True,1997,Nena,16
+4642,Herr,True,1995,Nena,17
+4643,Herr,True,1995,Nena,18
+4644,Herr,True,1995,Nena,18
+4645,Herr,True,1995,Nena,18
+4646,Girl,False,1992,Nena,7

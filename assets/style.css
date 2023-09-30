@@ -1,0 +1,131 @@
+hr {
+    border-top: 2px solid #1E9D8E;
+}
+
+h1{
+    margin-left: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2rem;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    color: white;
+}
+h3{
+    margin-left: 25px;
+    color: white;
+}
+
+label{
+    margin-left: 25px;
+    margin-bottom: 5px;
+    margin-top: 15px;
+    color: white;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+
+.graph{
+float: left; 
+width: 70%; /* optionale Weitenangabe */
+background: #1C1C1C;
+}
+
+.navigation{
+    float: right; 
+    width: 30%; /* optionale Weitenangabe */
+    background: #383838;
+}
+
+.radio-sub{
+    margin-left: 50px;
+}
+.my-slider{
+    margin-top: 15px;
+    margin-bottom: 20px;
+
+}
+.my-slider .rc-slider-track {
+    background-color: #1E9D8E;
+}
+
+.my-slider .rc-slider-handle {
+    border: solid 2px #1E9D8E;
+    background-color: #1E9D8E;
+}
+
+.my-radio input[type="radio"]:checked + label::before {
+    background-color: #1E9D8E;
+    border-color: #000000;
+    border-width: 2cap;
+    color: #1E9D8E;
+}
+
+.my-radio input[type="radio"]:checked + label::after {
+    background-color: #1E9D8E;
+}
+
+.dropdown-container {
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    gap: 10px;
+}
+
+.dropdown-button {
+    width: 100%;
+    margin-top: 5px;
+}
+
+.tabs-group {
+    padding-top: 20px;
+}
+
+.app-div {
+    /*padding: 10px;
+    */
+    background-color: #1C1C1C;
+}
+
+.data-table-div {
+    margin: auto;
+    padding: 10px;
+}
+
+.budget-label {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.budget-text {
+    font-size: 20px;
+}
+
+.budget-text-value {
+    font-size: 20px;
+    font-style: italic;
+}
+
+.budget-progress-bar {
+    height: 20px;
+}
+
+.budget-tooltip {
+    font-size: 18px;
+}
+
+.checklist {
+    text-align: center;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+
+@media(max-width: 800px) {
+    .dropdown-container {
+        grid-template-columns: 1fr;
+    }
+}
+
+body{
+    background-color: #1C1C1C;
+}
