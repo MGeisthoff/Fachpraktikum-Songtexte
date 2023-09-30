@@ -35,7 +35,7 @@ with open ('Nomen_csv.csv','w', newline ='') as nomen_file:
             else:
                 pass
 
-scrape_data = False # decide, whether to scrape full data again or read an exisiting json file.
+scrape_data = False # Entscheiden, ob alle Daten erneut durchgegangen werden oder eine Datei bereits vorhanden ist
 
 ### Abfrage Genderneutrale Nomen:
 import pandas as pd
@@ -67,9 +67,7 @@ nouns = list(df["Noun"])
 singles =[singularize(noun) for noun in nouns]
 
 ### Abfrage Mann/Frau:
-##Vergleich mit Singularisierung -> 1993 Ergebnisse
-### ohne Singularisierung -> 4646 Ergebnisse 
-##--> keine Verwendung von Singularisierung
+##--> keine Verwendung von Singularisierung, da hier das Gesamtergebnis schlechter ausgefall ist 
 
 mf_df = pd.DataFrame(columns=['Noun', 'Männlich','Year', 'Artist','Popularity'])
 
