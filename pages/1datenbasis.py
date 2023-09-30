@@ -69,6 +69,9 @@ layout = html.Div(
                     #     ),
                     # ]),
                     html.Div([
+                        dcc.Link(html.Button("Datenbasis"), href="/1datenbasis", className='button', refresh=False),
+                        dcc.Link(html.Button("Ausdrücke"), href="/3ausdruecke", className='button', refresh=False),
+                        dcc.Link(html.Button("Synonyme"), href="/4synonyme-mf", className='button', refresh=False),
                         
                         dcc.RadioItems(id='radio-button1', options=[
                             {'label': 'Datenbasis', 'value': '1'},

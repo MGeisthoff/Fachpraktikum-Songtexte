@@ -15,13 +15,18 @@ app.layout = html.Div([
 
     html.Div(
         [
-            html.Div(
-                dcc.Link(
+            html.Div([
+                #dcc.Link(
                     # Die Logik zu den einzelnen Seiten mit den Graphen befinden sich in ./pages
-                    f"{page['name']} - {page['path']}", href=page["relative_path"]
-                )
-            )
-            for page in dash.page_registry.values()
+                #    f"{page['name']} - {page['path']}", href=page["relative_path"]
+                #)
+            dcc.Link(html.Button("Datenbasis"), href="/1datenbasis", className='button', refresh=True),
+            dcc.Link(html.Button("Ausdrücke"), href="/3ausdruecke", className='button', refresh=True),
+            dcc.Link(html.Button("Synonyme"), href="/4synonyme-mf", className='button', refresh=True),
+                
+            ]),
+            
+            #for page in dash.page_registry.values()
         ]
     ),
 
@@ -31,6 +36,6 @@ app.layout = html.Div([
 
 if __name__ == '__main__':
     # Test-Umgebung 
-    #app.run_server(debug=True)
+    # app.run_server(debug=True)
     # Produktiv-Umgebung
     app.run_server()
