@@ -96,7 +96,7 @@ layout = html.Div(
                  ]),
 ])
 
-# Logik Graphen Aktualisieren basierend auf Filter
+# Graphen Aktualisieren basierend auf Filter
 @callback(
     Output('bar-chart2', 'figure'),
     [
