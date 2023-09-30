@@ -6,12 +6,14 @@ Zum installieren der externen Pakete bitte
 ausführen
  
  1. Spotify and LyricGenius API: (`getlyrics.py`)
+
 Um diese Datei ausführen zu können muss ein Konto bei [Spotify](https://developer.spotify.com/documentation/web-api) sowie [LyricsGenius](https://lyricsgenius.readthedocs.io/en/master/setup.html) erstellt werden und die entsprechenden API-Keys gesetzt werden.
 Mit dieser Datei werden die Spotifysongs oder -playlisten ausgesucht und die entsprechenden Songtexte, Artists, Erscheinungsdatum sowie -jahre und die Popularität (Eigenwert bei Spotify) herausgefiltert. 
 Dann wird eine Datei all_songs_neu2.json erstellt, welche die zuvor genannten Daten enthält in einem Dictonary Spotify. Hier können auch mehrere Dictonaries für verschiedene Playlisten angelegt werden.
 Es kann vorkommen, dass in der JSON Datein auch Songtexte enthalten sind, die nicht dem Original entsprechen. Dieser Fehler liegt bei LyricsGenius und kann in diesem Rahmen nicht behoben werden. Diese Texte sind als weißer Text erkennbar. Einzige Fehlerbehebung ist das manuelle entfernen dieser Dateien
 
-3. Analyse der Songs: (`Analysis.py`)
+2. Analyse der Songs: (`Analysis.py`)
+
 Zur Unterstützung der Ausführung der Datei wurden drei CSV Dateien erstellt 
 - ausdruecke.csv (Quelle: https://de.wikipedia.org/wiki/Kategorie:Schimpfwort_(Person))
 - Mann_Frau.csv 
@@ -20,7 +22,8 @@ Zur Unterstützung der Ausführung der Datei wurden drei CSV Dateien erstellt
 Nun wird auf die erstellte Datei aus 1. das Spacy Framework [de_core_news_lg-3.5.0-py3-none-any.whl](https://github.com/explosion/spacy-models/releases/download/de_core_news_lg-3.6.0/de_core_news_lg-3.6.0-py3-none-any.whl) (Quelle: https://spacy.io/models/de/) angewandt. Dieses dient zur Analyse, ob das Nomen maskulin, feminin oder neutral ist. Danach wird ein Listenvergleich durchgeführt, um zu prüfen, welches der Nomen in den CSV Dateien enthalten ist.
 `python -m spacy download de_core_news_lg`
 
-4. Darstellen der Ergebnisse: (`dashboard.py`)
+3. Darstellen der Ergebnisse: (`dashboard.py`)
+
 Durch ausführen von `dashboard.py` wird mittels Dash ein Webserver erstellt, wo mit den Daten interagiert werden kann.
 ![Schreenshot des Dashboards](./assets/Demo.png)
 
