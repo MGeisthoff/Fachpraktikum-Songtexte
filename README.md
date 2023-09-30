@@ -14,7 +14,7 @@ Zur Unterstützung der Ausführung der Datei wurden drei CSV Dateien erstellt
 - Mann_Frau.csv 
 - gender_neu_Nomen.csv (Quelle: https://geschicktgendern.de/ , Stand 06/2023)
 
-Nun wird auf die erstellte Datei aus 1. das Spacy Framework de_core_news_lg-3.5.0-py3-none-any.whl (Quelle: https://spacy.io/models/de/) angewandt. Dieses dient zur Analyse, ob das Nomen männlich, weiblich oder neutral ist. Danach wird ein Listenvergleich durchgeführt, um zu prüfen, welches der Nomen in den CSV Dateien enthalten ist. 
+Nun wird auf die erstellte Datei aus 1. das Spacy Framework de_core_news_lg-3.5.0-py3-none-any.whl (Quelle: https://spacy.io/models/de/) angewandt. Dieses dient zur Analyse, ob das Nomen maskulin, feminin oder neutral ist. Danach wird ein Listenvergleich durchgeführt, um zu prüfen, welches der Nomen in den CSV Dateien enthalten ist. 
 
  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
