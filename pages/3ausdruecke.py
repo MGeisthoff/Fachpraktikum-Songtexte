@@ -6,9 +6,12 @@ from dash_bootstrap_templates import load_figure_template
 
 dash.register_page(__name__)
 load_figure_template('SLATE')
+
 df = None
-#df = pd.read_csv('data/Nomen_csv.csv',sep=';', low_memory=False)
+df2 = None
+
 df = pd.read_csv('data/Nomen_ausdruecke.csv',sep=',', low_memory=False)
+df2 = pd.read_csv('data/Nomen_csv.csv',sep=';', low_memory=False)
 #df3 = pd.read_csv('data/Nomen_mf.csv',sep=';', low_memory=False)
 #df4 = pd.read_csv('data/Nomen_gender.csv',sep=';', low_memory=False)
 
@@ -57,6 +60,7 @@ layout = html.Div(
                             tooltip={"placement": "bottom", "always_visible": True}
                         ),
                     ]),
+                    # Filter nach Artist entfernt aufgrund von Zeitmangel
                     # html.Div([
                     #     html.Label('Künstler',className='my-label'),
                     #     dcc.Dropdown(
@@ -68,6 +72,7 @@ layout = html.Div(
                         
                         dcc.RadioItems(id='radio-button3', options=[
                             {'label': 'Datenbasis', 'value': '1'},
+                           # Gender Chart wurde aus Zeitgründen entfernt
                            # {'label': 'Gender', 'value': '2'},
                             {'label': 'Ausdrücke', 'value': '3'},
                             {'label': 'Synonyme', 'value': '4'},
@@ -100,21 +105,20 @@ layout = html.Div(
     ]
 )
 def update_chart(selected_year, selected_popularity):
+    # Filter der Slider auf dataframe anwenden
     filtered_df = df[(df['Year'] >= selected_year[0]) & (df['Year'] <= selected_year[1]) 
                      & (df['Popularity'] >= selected_popularity[0]) & (df['Popularity'] <= selected_popularity[1])]
     
-    # grouped_df=filtered_df.groupby('Year').agg(
-    #         Count = ('ID', 'nunique'),
-    #         Total = ('ID', 'count')
-    #         ).reset_index()
-    
-    # grouped_df['Relative'] = grouped_df['Count'] / grouped_df['Total']   
-    # grouped_df.columns=['Year', 'Relative']
-    
+    # Gesamtanzahl der Nomen im Betrachtungszeitrtaum ermitteln
+    filtered_total_year_nouns_df2 = df2[(df2['Year'] >= selected_year[0]) & (df2['Year'] <= selected_year[1]) 
+                     & (df2['Popularity'] >= selected_popularity[0]) & (df2['Popularity'] <= selected_popularity[1])]
+    grouped_total_year_nouns_df2 = len(filtered_total_year_nouns_df2['Year'])
+   
+    # Anzahl der Ausdrücke ermitteln und in Relation zu der Gesamtanzahl setzen
     grouped_df=filtered_df.groupby('Year')['ID'].nunique().reset_index()
     grouped_df.columns=['Year','Count']
-    #grouped_df['Relative']= grouped_df['Count'] / filtered_df.groupby('Year')['ID'].count().reset_index()
-    grouped_df['Relative'] = grouped_df['Count'] / 10000
+    grouped_df['Relative'] = grouped_df['Count'] / grouped_total_year_nouns_df2
+    
         
     fig = px.bar(grouped_df, x='Year', y='Relative', title='Relative Häufigkeit von Ausdrücken in normalisierter Form', color_discrete_sequence=['#1E9D8E'])
     # Hintergrund und Linienfarbe anpassen
@@ -126,7 +130,7 @@ def update_chart(selected_year, selected_popularity):
     #fig.update_traces(base_color='#1E9D8E')
     return fig
 
-# Logik Radio-Button für m/w akticieren/deaktivieren
+# Logik Radio-Button für m/w aktikieren/deaktivieren
 @callback(
     Output('radio-button4', 'options'),
     [Input('radio-button3', 'value')]

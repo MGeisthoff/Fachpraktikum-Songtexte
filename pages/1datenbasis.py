@@ -7,6 +7,9 @@ from dash_bootstrap_templates import load_figure_template
 dash.register_page(__name__)
 load_figure_template('SLATE')
 
+df = None
+df2 = None
+
 df = pd.read_csv('data/Nomen_csv.csv',sep=';', low_memory=False)
 #df2 = pd.read_csv('data/Nomen_ausdruecke.csv',sep=';', low_memory=False)
 #df3 = pd.read_csv('data/Nomen_mf.csv',sep=';', low_memory=False)
@@ -57,6 +60,7 @@ layout = html.Div(
                             tooltip={"placement": "bottom", "always_visible": True}
                         ),
                     ]),
+                    # Filter nach Artist entfernt aufgrund von Zeitmangel
                     # html.Div([
                     #     html.Label('Künstler',className='my-label'),
                     #     dcc.Dropdown(
@@ -68,6 +72,7 @@ layout = html.Div(
                         
                         dcc.RadioItems(id='radio-button1', options=[
                             {'label': 'Datenbasis', 'value': '1'},
+                            # Gender Chart wurde aus Zeitgründen entfernt
                             # {'label': 'Gender', 'value': '2'},
                             {'label': 'Ausdrücke', 'value': '3'},
                             {'label': 'Synonyme', 'value': '4'},
@@ -100,6 +105,7 @@ layout = html.Div(
     ]
 )
 def update_chart(selected_year, selected_popularity):
+    # Filter der Slider auf dataframe anwenden
     filtered_df = df[(df['Year'] >= selected_year[0]) & (df['Year'] <= selected_year[1]) 
                      & (df['Popularity'] >= selected_popularity[0]) & (df['Popularity'] <= selected_popularity[1])]
     grouped_df=filtered_df.groupby('Year')['ID'].nunique().reset_index()
@@ -114,7 +120,7 @@ def update_chart(selected_year, selected_popularity):
     #fig.update_traces(base_color='#1E9D8E')
     return fig
 
-# Logik Radio-Button für m/w akticieren/deaktivieren
+# Logik Radio-Button für m/w aktikieren/deaktivieren
 @callback(
     Output('radio-button2', 'options'),
     [Input('radio-button1', 'value')]
