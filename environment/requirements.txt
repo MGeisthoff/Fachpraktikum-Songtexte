@@ -1,13 +1,12 @@
 dash
-dash-bootstrap-components
+dash_bootstrap_templates
 pandas
 pandas-stubs
 plotly
+plotly.express
 spotipy
-json
 tqdm
 lyricsgenius
 spacy
-setuptools wheel
 
 

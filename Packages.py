@@ -7,3 +7,6 @@ import lyricsgenius
 from tqdm import tqdm
 from collections import Counter
 from pattern.text.de import singularize
+import dash
+import plotly.express as px
+from dash_bootstrap_templates import load_figure_template
